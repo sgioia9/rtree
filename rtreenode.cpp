@@ -5,6 +5,7 @@
 
 #include "rectangle.h"
 #include "rtreenode.h"
+#include "split.h"
 
 using std::ostream;
 using std::vector;

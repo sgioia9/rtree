@@ -1,4 +1,34 @@
 #include "rectangle.h"
+#include "split.h"
+
+Rectangle::Rectangle(const Rectangle &other) {
+  id = other.id;
+  x1 = other.x1;
+  x2 = other.x2;
+  y1 = other.y1;
+  y2 = other.y2;
+}
+
+Rectangle Rectangle::mbr(const std::vector<Rectangle> &rectangles) const {
+  int minX = Split::INF;
+  int maxX = -Split::INF;
+  int minY = Split::INF;
+  int maxY = -Split::INF;
+  for (const Rectangle& rectangle : rectangles) {
+    minX = std::min(minX, rectangle.x1);
+    minY = std::min(minY, rectangle.y2);
+    maxX = std::max(maxX, rectangle.x2);
+    maxY = std::max(maxY, rectangle.y1);
+  }
+  return Rectangle(minX, maxY, maxX, minY);
+}
+
+Rectangle Rectangle::mbr(const Rectangle& r1, const Rectangle& r2) const {
+  std::vector<Rectangle> rectangles;
+  rectangles.push_back(r1);
+  rectangles.push_back(r2);
+  return Rectangle::mbr(rectangles);
+}
 
 int Rectangle::area() {
   return abs(x2 - x1) * abs(y2 - y1);
@@ -15,4 +45,8 @@ ostream& operator<<(ostream& out, const Rectangle& other) {
              << other.y1 << " "
              << other.x2 << " "
              << other.y2;
+}
+
+bool Rectangle::operator==(const Rectangle &other) const {
+  return x1 == other.x1 && x2 == other.x2 && y1 == other.y1 && y2 == other.y2;
 }
