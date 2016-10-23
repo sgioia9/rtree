@@ -20,13 +20,13 @@ void RTreeNode::writeToDisk() {
   file.close();
 }
 
-RTreeNode RTreeNode::readFromDisk(int tree_id) {
+RTreeNode& RTreeNode::readFromDisk(int tree_id) {
   std::ifstream file;
   file.open(std::to_string(tree_id) + ".rtree");
   int id, id_parent, n_children;
   bool has_leaf_children;
   file >> id >> n_children >> has_leaf_children >> id_parent;
-  RTreeNode tree(id, id_parent, has_leaf_children);
+  RTreeNode& tree = new (id, id_parent, has_leaf_children);
   for (int i = 0; i < n_children; i++) {
     int id, x1, y1, x2, y2;
     file >> id >> x1 >> y1 >> x2 >> y2;

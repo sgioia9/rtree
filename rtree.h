@@ -11,9 +11,7 @@
 #include "rtreenode.h"
 
 class RTree {
-  std::vector<Rectangle> find() {
-
-  }
+  std::vector<Rectangle> find();
 private:
   RTreeNode* rtree;
 };
