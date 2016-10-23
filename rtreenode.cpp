@@ -20,9 +20,9 @@ void RTreeNode::writeToDisk() {
   file.close();
 }
 
-RTreeNode* RTreeNode::readFromDisk(int tree_id) {
+RTreeNode* RTreeNode::readFromDisk(const std::string& tree_directory, int tree_id) {
   std::ifstream file;
-  file.open(std::to_string(tree_id) + ".rtree");
+  file.open(tree_directory + "/" + std::to_string(tree_id) + ".rtree");
   int id, id_parent, n_children;
   bool has_leaf_children;
   file >> id >> n_children >> has_leaf_children >> id_parent;

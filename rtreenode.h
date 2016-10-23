@@ -26,7 +26,7 @@ public:
           has_leaf_children(has_leaf_children),
           children(std::vector<Rectangle>()) { }
 
-  static RTreeNode* readFromDisk(int tree_id);
+  static RTreeNode* readFromDisk(const std::string& tree_directory, int tree_id);
   void addRectangle(Rectangle rectangle);
   void writeToDisk();
   friend ostream& operator<<(ostream& out, const RTreeNode& other);

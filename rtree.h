@@ -12,7 +12,8 @@
 
 class RTree {
 public:
-  std::vector<int> find(const Rectangle& rectangle);
+  std::vector<int> find(const std::string& tree_directory,
+                        const Rectangle& rectangle);
 
   void setRootId(int id);
 private:
