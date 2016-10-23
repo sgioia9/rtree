@@ -9,7 +9,7 @@ Rectangle::Rectangle(const Rectangle &other) {
   y2 = other.y2;
 }
 
-Rectangle Rectangle::mbr(const std::vector<Rectangle> &rectangles) const {
+Rectangle Rectangle::mbr(const std::vector<Rectangle> &rectangles){
   int minX = Split::INF;
   int maxX = -Split::INF;
   int minY = Split::INF;
@@ -23,7 +23,7 @@ Rectangle Rectangle::mbr(const std::vector<Rectangle> &rectangles) const {
   return Rectangle(minX, maxY, maxX, minY);
 }
 
-Rectangle Rectangle::mbr(const Rectangle& r1, const Rectangle& r2) const {
+Rectangle Rectangle::mbr(const Rectangle& r1, const Rectangle& r2){
   std::vector<Rectangle> rectangles;
   rectangles.push_back(r1);
   rectangles.push_back(r2);

@@ -7,7 +7,7 @@
 using namespace std;
 
 void test1() {
-  RTree rtree;
+  RTree rtree(10, 40);
   rtree.setRootId(1);
 
   std::vector<int> expected;
@@ -20,7 +20,7 @@ void test1() {
 }
 
 void test2() {
-  RTree rtree;
+  RTree rtree(10, 40);
   rtree.setRootId(1);
 
   std::vector<int> expected;
