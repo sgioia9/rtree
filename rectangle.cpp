@@ -4,13 +4,9 @@ int Rectangle::area() {
   return abs(x2 - x1) * abs(y2 - y1);
 }
 
-bool Rectangle::intersects(Rectangle& other) {
-  return isContained(other.x1, other.y1) || isContained(other.x1, other.y2)
-         || isContained(other.x2, other.y1) || isContained(other.x2, other.y2);
-}
-
-bool Rectangle::isContained(int x, int y) {
-  return x >= x1 && x <= x2 && y <= y1 && y >= y2;
+bool Rectangle::intersects(const Rectangle& other) const {
+  return !(other.y2 > y1 || other.y1 < y2 ||
+      other.x1 > x2 || other.x2 < x1);
 }
 
 ostream& operator<<(ostream& out, const Rectangle& other) {

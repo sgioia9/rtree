@@ -11,9 +11,13 @@
 #include "rtreenode.h"
 
 class RTree {
-  std::vector<Rectangle> find();
+public:
+  std::vector<int> find(const Rectangle& rectangle);
+
+  void setRootId(int id);
 private:
-  RTreeNode* rtree;
+  RTreeNode* current_tree_node;
+  int root_id;
 };
 
 #endif //RTREE_H

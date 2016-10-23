@@ -1,6 +1,9 @@
 #include <iostream>
 
 #include "rtreenode.h"
+#include "rtree.h"
+
+using namespace std;
 
 int main(int argc, char const *argv[]) {
 
@@ -11,6 +14,11 @@ int main(int argc, char const *argv[]) {
   tree.addRectangle(Rectangle(4, 19, 30, 100, 150));
   tree.writeToDisk();
    */
-  RTreeNode tree = RTreeNode::readFromDisk(1);
+  RTree rtree;
+  rtree.setRootId(1);
+  std::vector<int> results = rtree.find(Rectangle(1, -50, 5, 20, -5));
+  for (int result : results) {
+    std::cout << result << std::endl;
+  }
   return 0;
 }
