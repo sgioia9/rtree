@@ -35,10 +35,10 @@ void LinearSplit::split(const std::vector<Rectangle> &source,
     Rectangle second_candidate = Rectangle::mbr(second_mbr, rectangle);
     if (first_candidate.area() - first_mbr.area()
         < second_candidate.area() - second_mbr.area()) {
-      firstSplit.push_back(first_candidate);
+      firstSplit.push_back(rectangle);
       first_mbr = Rectangle::mbr(first_mbr, first_candidate);
     } else {
-      secondSplit.push_back(second_candidate);
+      secondSplit.push_back(rectangle);
       second_mbr = Rectangle::mbr(second_mbr, second_candidate);
     }
   }
