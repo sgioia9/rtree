@@ -5,7 +5,7 @@
 #include "rtree.h"
 #include "split.h"
 #include "linearsplit.h"
-
+#include "greeneSplit.h"
 using namespace std;
 
 void test1() {
@@ -68,6 +68,30 @@ void testLinearSplit() {
   }
 }
 
+void testGreeneSplit(){
+  RTree* tree = new RTree(2,5);
+  Split* split = new GreeneSplit(tree);
+
+  vector<Rectangle> first;
+  vector<Rectangle> second;
+
+  vector<Rectangle> source;
+  source.push_back(Rectangle(0, 50, 10, 30));
+  source.push_back(Rectangle(15, 40, 25, 5));
+  source.push_back(Rectangle(20, 10, 50, 8));
+  source.push_back(Rectangle(35, 40, 40, 20));
+
+  split->split(source, first, second);
+
+  for (const Rectangle& rect : first) {
+    cout << rect << endl;
+  }
+  cout << "------" << endl;
+  for (const Rectangle& rect : second) {
+    cout << rect << endl;
+  }
+}
+
 
 int main(int argc, char const *argv[]) {
 
@@ -79,6 +103,6 @@ int main(int argc, char const *argv[]) {
   tree.writeToDisk();
    */
   testLinearSplit();
-
+  testGreeneSplit();
   return 0;
 }

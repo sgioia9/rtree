@@ -39,6 +39,7 @@ bool Rectangle::intersects(const Rectangle& other) const {
       other.x1 > x2 || other.x2 < x1);
 }
 
+
 ostream& operator<<(ostream& out, const Rectangle& other) {
   return out << other.id << " "
              << other.x1 << " "
@@ -46,6 +47,7 @@ ostream& operator<<(ostream& out, const Rectangle& other) {
              << other.x2 << " "
              << other.y2;
 }
+
 
 bool Rectangle::operator==(const Rectangle &other) const {
   return x1 == other.x1 && x2 == other.x2 && y1 == other.y1 && y2 == other.y2;

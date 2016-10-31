@@ -6,6 +6,7 @@
 #define RTREE_GREENESPLIT_H
 
 #include "split.h"
+#include <algorithm>
 
 class GreeneSplit : public Split {
 public:
@@ -14,6 +15,8 @@ public:
     virtual void split(const std::vector<Rectangle> &source,
                        std::vector<Rectangle> &firstSplit,
                        std::vector<Rectangle> &secondSplit) override;
+    static bool cmp_x(const Rectangle& rect1, const Rectangle& rect2);
+    static bool cmp_y(const Rectangle& rect1, const Rectangle& rect2);
 };
 
 #endif //RTREE_GREENESPLIT_H

@@ -10,9 +10,9 @@ void LinearSplit::split(const std::vector<Rectangle> &source,
   Rectangle mbr = Rectangle::mbr(source);
   std::vector<Rectangle> extremes = get_extreme_rects(source);
   Rectangle topY = extremes[2];
-  Rectangle bottomY = source[3];
-  Rectangle leftX = source[0];
-  Rectangle rightX = source[1];
+  Rectangle bottomY = extremes[3];
+  Rectangle leftX = extremes[0];
+  Rectangle rightX = extremes[1];
 
   float horizontal_separation = 1.0f * (rightX.x1 - leftX.x2) / (mbr.x2 - mbr.x1);
   float vertical_separation = 1.0f * (topY.y2 - bottomY.y1) / (mbr.y1 - mbr.y2);
