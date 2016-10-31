@@ -47,4 +47,5 @@ ostream& operator<<(ostream& out, const RTreeNode& other) {
   for (const Rectangle& rectangle : other.children) {
     out << rectangle << std::endl;
   }
+  return out;
 }
