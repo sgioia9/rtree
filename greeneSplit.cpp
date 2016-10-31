@@ -6,10 +6,7 @@
 void GreeneSplit::split(const std::vector<Rectangle> &source,
                         std::vector<Rectangle> &firstSplit,
                         std::vector<Rectangle> &secondSplit) {
-  std::vector<Rectangle> source_cpy;
-  for(int i = 0 ; i < source.size(); i++){
-    source_cpy.push_back(source[i]);
-  }
+  std::vector<Rectangle> source_cpy = source;
   Rectangle mbr = Rectangle::mbr(source);
   std::vector<Rectangle> extremes = get_extreme_rects(source);
   float horizontal_separation = 1.0f * (extremes[1].x1 - extremes[0].x2) / (mbr.x2 - mbr.x1);
