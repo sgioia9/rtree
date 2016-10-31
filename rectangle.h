@@ -8,7 +8,9 @@ using std::ostream;
 class Rectangle {
   friend class RTree;
   friend class RTreeNode;
+  friend class Split;
   friend class LinearSplit;
+  friend class GreeneSplit;
 public:
   Rectangle(int x1, int y1, int x2, int y2) : Rectangle(-1, x1, y1, x2, y2) { }
   Rectangle(int id, int x1, int y1, int x2, int y2)
@@ -16,6 +18,7 @@ public:
   Rectangle(const Rectangle& other);
   static Rectangle mbr(const std::vector<Rectangle>& rectangles);
   static Rectangle mbr(const Rectangle& r1, const Rectangle& r2);
+
   int area();
   bool intersects(const Rectangle& other) const;
   bool operator==(const Rectangle& other) const;
