@@ -17,7 +17,9 @@ public:
 
   Split(RTree* rtree) : rtree(rtree) { }
 
-  virtual void split(const std::vector<Rectangle>& source,
+    std::vector<Rectangle> get_extreme_rects(const std::vector<Rectangle> &source);
+
+    virtual void split(const std::vector<Rectangle>& source,
              std::vector<Rectangle>& firstSplit,
              std::vector<Rectangle>& secondSplit) = 0;
 protected:

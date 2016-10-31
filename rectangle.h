@@ -8,6 +8,7 @@ using std::ostream;
 class Rectangle {
   friend class RTree;
   friend class RTreeNode;
+  friend class Split;
   friend class LinearSplit;
 public:
   Rectangle(int x1, int y1, int x2, int y2) : Rectangle(-1, x1, y1, x2, y2) { }
