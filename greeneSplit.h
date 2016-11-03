@@ -10,7 +10,7 @@
 
 class GreeneSplit : public Split {
 public:
-    GreeneSplit(RTree* rtree) : Split(rtree) { }
+    GreeneSplit(int m, int M) : Split(m, M) { }
 
     virtual void split(const std::vector<Rectangle> &source,
                        std::vector<Rectangle> &firstSplit,

@@ -25,10 +25,17 @@ public:
           id_parent(id_parent),
           has_leaf_children(has_leaf_children),
           children(std::vector<Rectangle>()) { }
+  RTreeNode(int id, int id_parent, bool has_leaf_children, std::vector<Rectangle> rectangles)
+          : id(id),
+            id_parent(id_parent),
+            has_leaf_children(has_leaf_children),
+            children(rectangles) { }
 
   static RTreeNode* readFromDisk(const std::string& tree_directory, int tree_id);
   void addRectangle(Rectangle rectangle);
-  void writeToDisk();
+  void writeToDisk(const std::string&);
+  void replaceChild(const Rectangle& rectangle);
+  void fixChildren(const std::string& tree_directory);
   friend ostream& operator<<(ostream& out, const RTreeNode& other);
 private:
   int id, id_parent;

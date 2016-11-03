@@ -11,6 +11,8 @@ class Rectangle {
   friend class Split;
   friend class LinearSplit;
   friend class GreeneSplit;
+  static const int INF = int(1e9);
+  static const long long INF64 = 1e18;
 public:
   Rectangle(int x1, int y1, int x2, int y2) : Rectangle(-1, x1, y1, x2, y2) { }
   Rectangle(int id, int x1, int y1, int x2, int y2)
@@ -19,7 +21,7 @@ public:
   static Rectangle mbr(const std::vector<Rectangle>& rectangles);
   static Rectangle mbr(const Rectangle& r1, const Rectangle& r2);
 
-  int area();
+  long long area() const;
   bool intersects(const Rectangle& other) const;
   bool operator==(const Rectangle& other) const;
   friend ostream& operator<<(ostream& out, const Rectangle& other);

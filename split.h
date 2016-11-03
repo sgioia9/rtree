@@ -8,14 +8,11 @@
 #include <vector>
 
 #include "rectangle.h"
-#include "rtree.h"
 
 class Split {
 
 public:
-  static const int INF = int(1e9);
-
-  Split(RTree* rtree) : rtree(rtree) { }
+  Split(int m, int M) : m(m), M(M) { }
 
     std::vector<Rectangle> get_extreme_rects(const std::vector<Rectangle> &source);
 
@@ -23,7 +20,8 @@ public:
              std::vector<Rectangle>& firstSplit,
              std::vector<Rectangle>& secondSplit) = 0;
 protected:
-  RTree* rtree;
+  int m;
+  int M;
 };
 
 #endif //RTREE_SPLIT_H

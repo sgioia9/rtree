@@ -38,11 +38,11 @@ void LinearSplit::split(const std::vector<Rectangle> &source,
       second_mbr = Rectangle::mbr(second_mbr, second_candidate);
     }
   }
-  while (firstSplit.size() < rtree->m && !secondSplit.empty()) {
+  while (firstSplit.size() < m && !secondSplit.empty()) {
     firstSplit.push_back(secondSplit.back());
     secondSplit.pop_back();
   }
-  while (secondSplit.size() < rtree->m && !firstSplit.empty()) {
+  while (secondSplit.size() < m && !firstSplit.empty()) {
     secondSplit.push_back(firstSplit.back());
     firstSplit.pop_back();
   }

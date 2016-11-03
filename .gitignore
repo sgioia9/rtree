@@ -1,4 +1,5 @@
 *.current_tree_node
 *.out
 .idea/*
+case*
 rtree

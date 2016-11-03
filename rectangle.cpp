@@ -10,10 +10,10 @@ Rectangle::Rectangle(const Rectangle &other) {
 }
 
 Rectangle Rectangle::mbr(const std::vector<Rectangle> &rectangles){
-  int minX = Split::INF;
-  int maxX = -Split::INF;
-  int minY = Split::INF;
-  int maxY = -Split::INF;
+  int minX = Rectangle::INF;
+  int maxX = -Rectangle::INF;
+  int minY = Rectangle::INF;
+  int maxY = -Rectangle::INF;
   for (const Rectangle& rectangle : rectangles) {
     minX = std::min(minX, rectangle.x1);
     minY = std::min(minY, rectangle.y2);
@@ -30,7 +30,7 @@ Rectangle Rectangle::mbr(const Rectangle& r1, const Rectangle& r2){
   return Rectangle::mbr(rectangles);
 }
 
-int Rectangle::area() {
+long long Rectangle::area() const {
   return abs(x2 - x1) * abs(y2 - y1);
 }
 

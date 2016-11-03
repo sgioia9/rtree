@@ -20,8 +20,6 @@ void GreeneSplit::split(const std::vector<Rectangle> &source,
     if(i < source_cpy.size()/2) firstSplit.push_back(source_cpy[i]);
     else secondSplit.push_back(source_cpy[i]);
   }
-
-
 }
 
 bool GreeneSplit::cmp_x(const Rectangle &rect1, const Rectangle &rect2) {
