@@ -1,5 +1,4 @@
 #include <iostream>
-#include <cassert>
 
 #include "rtreenode.h"
 #include "rtree.h"

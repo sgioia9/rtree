@@ -95,3 +95,9 @@ void testGreeneSplit(){
     }
     delete split;
 }
+
+int main(int argc, char const *argv[]) {
+    test1();
+    test2();
+    return 0;
+}
