@@ -16,8 +16,7 @@ class RTree {
   friend class LinearSplit;
 public:
   RTree(int m, int M, Split* split, const std::string& tree_directory);
-  std::vector<int> find(const std::string& tree_directory,
-                        const Rectangle& rectangle);
+  void find(const Rectangle& rectangle);
 
   void insert(Rectangle& rectangle);
 
