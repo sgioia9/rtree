@@ -1,5 +1,6 @@
 #include <queue>
 #include <vector>
+#include <fstream>
 
 #include "rtree.h"
 
@@ -15,10 +16,11 @@ void RTree::setRootId(int id) {
   root_id = id;
 }
 
-std::vector<int> RTree::find(const std::string& tree_directory,
-                             const Rectangle& other_rectangle) {
+void RTree::find(const Rectangle& other_rectangle) {
   std::queue<int> q;
-  std::vector<int> results;
+  std::vector<Rectangle> results;
+  std::ofstream result_file;
+  result_file.open(tree_directory + "/last_find_result.txt");
   q.push(root_id);
   while (!q.empty()) {
     int next_node = q.front();
@@ -27,7 +29,13 @@ std::vector<int> RTree::find(const std::string& tree_directory,
     for (const Rectangle& rectangle : current_tree_node->children) {
       if (other_rectangle.intersects(rectangle)) {
         if (current_tree_node->has_leaf_children) {
-          results.push_back(rectangle.id);
+          results.push_back(rectangle);
+          if(results.size() > M){
+            for(Rectangle& rect : results){
+              result_file << rect << std::endl;
+            }
+            results.clear();
+          }
         } else {
           q.push(rectangle.id);
         }
@@ -35,7 +43,10 @@ std::vector<int> RTree::find(const std::string& tree_directory,
     }
     delete current_tree_node;
   }
-  return results;
+  for(Rectangle& rect : results){
+    result_file << rect << std::endl;
+  }
+  result_file.close();
 }
 
 void RTree::insert(Rectangle& rectangle) {
