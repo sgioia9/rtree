@@ -11,10 +11,10 @@ max_dim = 25000
 buf = ""
 
 for i in range(N):
-	x = random.random()*(max_value - min_value)
-	y = random.random()*(max_value - min_value)
-	h = max(0.1,int(random.random()*(max_dim - min_dim)))
-	w = max(0.1,int(random.random()*(max_dim - min_dim)))
-	buf += "I " + str(x) + " " + str(y+h) + " " + str(x+w) + " " + str(y) + "\n"
+    x = random.random() * (max_value - min_value)
+    y = random.random() * (max_value - min_value)
+    h = max(0.1, int(random.random() * (max_dim - min_dim)))
+    w = max(0.1, int(random.random() * (max_dim - min_dim)))
+    buf += "I " + str(x) + " " + str(y + h) + " " + str(x + w) + " " + str(y) + "\n"
 
 print buf

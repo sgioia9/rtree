@@ -40,11 +40,11 @@ bool Rectangle::intersects(const Rectangle& other) const {
 
 
 ostream& operator<<(ostream& out, const Rectangle& other) {
-  return out << other.id << " "
-             << other.x1 << " "
-             << other.y1 << " "
-             << other.x2 << " "
-             << other.y2;
+  return out << std::fixed << other.id << " "
+                           << other.x1 << " "
+                           << other.y1 << " "
+                           << other.x2 << " "
+                           << other.y2;
 }
 
 
