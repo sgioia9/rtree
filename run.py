@@ -36,7 +36,7 @@ while proc.poll() is None:
         proc_file.close()
         time.sleep(delta_time)
     except IOError, e:
-        print e
+        pass
 
 end_time = time.time()
 
