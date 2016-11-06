@@ -1,7 +1,7 @@
 import random
 import sys
 
-N = sys.argv[1]
+N = int(sys.argv[1])
 
 min_value = 0
 max_value = 500000
@@ -11,10 +11,10 @@ max_dim = 100
 buf = ""
 
 for i in range(N):
-	x = random.random()*(max_value - min_value)
-	y = random.random()*(max_value - min_value)
-	h = random.random()*(max_dim - min_dim)
-	w = random.random()*(max_dim - min_dim)
+	x = int(random.random()*(max_value - min_value))
+	y = int(random.random()*(max_value - min_value))
+	h = int(random.random()*(max_dim - min_dim))
+	w = int(random.random()*(max_dim - min_dim))
 	buf += "I " + str(x) + " " + str(y+h) + " " + str(x+w) + " " + str(y) + "\n"
 
 print buf
