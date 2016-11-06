@@ -62,7 +62,7 @@ bool process_test_case() {
   while (cin >> query_type >> x1 >> y1 >> x2 >> y2) {
     Rectangle rect(x1, y1, x2, y2);
     if (x1 >= x2 || y2 >= y1) {
-      cout << "FOUND INVALID RECTANGLE << endl" << endl;
+      cout << x1 << " " << y1 << " " << x2 << " " << y2 << "\n";
       continue;
     }
     if (query_type == 'I') tree.insert(rect);

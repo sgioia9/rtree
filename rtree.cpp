@@ -52,7 +52,7 @@ void RTree::insert(Rectangle rectangle) {
     long long min_area_diff = Rectangle::INF64;
     std::vector<Rectangle*> min_increasing_mbr_rectangles;
     for (Rectangle& child : current_tree_node->children) {
-      long long area_diff = Rectangle::mbr(child, rectangle).area() - child.area();
+      double area_diff = Rectangle::mbr(child, rectangle).area() - child.area();
       if (area_diff < min_area_diff) {
         min_area_diff = area_diff;
         min_increasing_mbr_rectangles = std::vector<Rectangle*>();
