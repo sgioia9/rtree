@@ -62,9 +62,9 @@ ostream& operator<<(ostream& out, const RTreeNode& other) {
   out << other.id << " "
       << other.children.size() << " "
       << other.has_leaf_children << " "
-      << other.id_parent << std::endl;
+      << other.id_parent << "\n";
   for (const Rectangle& rectangle : other.children) {
-    out << rectangle << std::endl;
+    out << rectangle << "\n";
   }
   return out;
 }

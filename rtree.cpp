@@ -32,7 +32,7 @@ void RTree::find(const Rectangle& other_rectangle) {
           results.push_back(rectangle);
           if(results.size() > M){
             for(Rectangle& rect : results){
-              result_file << rect << std::endl;
+              result_file << rect << "\n";
             }
             results.clear();
           }
@@ -44,7 +44,7 @@ void RTree::find(const Rectangle& other_rectangle) {
     delete current_tree_node;
   }
   for(Rectangle& rect : results){
-    result_file << rect << std::endl;
+    result_file << rect << "\n";
   }
   result_file.close();
 }
