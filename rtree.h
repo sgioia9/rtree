@@ -17,10 +17,7 @@ class RTree {
 public:
   RTree(int m, int M, Split* split, const std::string& tree_directory);
   void find(const Rectangle& rectangle);
-
   void insert(Rectangle& rectangle);
-
-  void setRootId(int id);
 private:
   RTreeNode* current_tree_node;
   Split* split_method;

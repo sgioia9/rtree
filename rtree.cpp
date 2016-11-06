@@ -1,5 +1,4 @@
 #include <queue>
-#include <vector>
 #include <fstream>
 
 #include "rtree.h"
@@ -10,10 +9,6 @@ RTree::RTree(int m, int M, Split* split, const std::string& tree_directory)
   root_id = 1;
   total_node_count = 1;
   current_tree_node->writeToDisk(tree_directory);
-}
-
-void RTree::setRootId(int id) {
-  root_id = id;
 }
 
 void RTree::find(const Rectangle& other_rectangle) {

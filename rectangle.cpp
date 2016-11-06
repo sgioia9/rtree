@@ -1,5 +1,4 @@
 #include "rectangle.h"
-#include "split.h"
 
 Rectangle::Rectangle(const Rectangle &other) {
   id = other.id;
@@ -10,10 +9,10 @@ Rectangle::Rectangle(const Rectangle &other) {
 }
 
 Rectangle Rectangle::mbr(const std::vector<Rectangle> &rectangles){
-  int minX = Rectangle::INF;
-  int maxX = -Rectangle::INF;
-  int minY = Rectangle::INF;
-  int maxY = -Rectangle::INF;
+  float minX = Rectangle::INF;
+  float maxX = -Rectangle::INF;
+  float minY = Rectangle::INF;
+  float maxY = -Rectangle::INF;
   for (const Rectangle& rectangle : rectangles) {
     minX = std::min(minX, rectangle.x1);
     minY = std::min(minY, rectangle.y2);
@@ -30,7 +29,7 @@ Rectangle Rectangle::mbr(const Rectangle& r1, const Rectangle& r2){
   return Rectangle::mbr(rectangles);
 }
 
-long long Rectangle::area() const {
+double Rectangle::area() const {
   return abs(x2 - x1) * abs(y2 - y1);
 }
 

@@ -14,6 +14,7 @@ enum SPLIT_TYPE {
   LINEAR_SPLIT
 };
 
+const int default_M = 500;
 int M, split_type;
 std::string directory = "default";
 Split* split;
@@ -32,7 +33,7 @@ int parse_int(const char* arg) {
 }
 
 bool parse_args(int argc, char const *argv[]) {
-  M = 500;
+  M = default_M;
   split_type = SPLIT_TYPE::LINEAR_SPLIT;
   for (int i = 1; i < argc; i++) {
     if (strcmp(argv[i], " ") == 0) continue;
@@ -68,6 +69,11 @@ int main(int argc, char const *argv[]) {
     default:
       split = new LinearSplit(m, M);
       break;
+  }
+  RTree tree(m, M, split, directory);
+  for (int i = 1; i <= 500; i++) {
+    Rectangle r(i, i * 11 , i * 11, i);
+    tree.insert(r);
   }
   delete split;
 }
