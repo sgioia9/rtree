@@ -4,8 +4,9 @@ import sys
 import os
 
 cmd = []
-delta_time = 0.01
+delta_time = 0.000001
 directory = "default"
+test_file = None
 M = 500
 
 for i in range(len(sys.argv)):
@@ -20,19 +21,22 @@ for i in range(len(sys.argv)):
     elif sys.argv[i] == "-sleep" and i + 1 < len(sys.argv):
         delta_time = float(sys.argv[i + 1])
     elif sys.argv[i] == "-test" and i + 1 < len(sys.argv):
-        cmd += ["<", sys.argv[i + 1]]
+        test_file = open(sys.argv[i + 1])
 
 cmd = ["./rtree"] + cmd
 
 init_time = time.time()
 results = ""
-proc = subprocess.Popen(cmd, shell=True, stdout=subprocess.PIPE)
+proc = subprocess.Popen(cmd, shell=True, stdout=subprocess.PIPE, stdin=test_file)
 
 while proc.poll() is None:
-    file = open("/proc/" + str(proc.pid) + "/io")
-    results = file.read() if file is not None else ""
-    file.close()
-    time.sleep(delta_time)
+    try:
+        proc_file = open("/proc/" + str(proc.pid) + "/io", "r")
+        results = proc_file.read() if proc_file is not None else ""
+        proc_file.close()
+        time.sleep(delta_time)
+    except IOError, e:
+        print e
 
 end_time = time.time()
 
@@ -43,10 +47,11 @@ nofiles = len([name for name in os.listdir(directory) if ".rtree" in name])
 
 print "Files created: " + str(nofiles)
 
-wc = os.popen("wc -l " + directory + "/*.rtree | grep total | xargs")
+wc = os.popen("wc -l " + directory + "/*.rtree | xargs")
 wcres = wc.read()
-totallines = wcres.split(" ")[0]
-usage = (totallines - nofiles) / (M * nofiles)
+totallines = int(wcres.split(" ")[-2])
+usage = float((totallines - nofiles)) / (M * nofiles)
+test_file.close()
 
-print "File Usage: " + str(usage * 100) + "%"
+print "Average file usage: " + str(usage * 100) + "%"
 print "\t[" + ":" * int(usage * 20) + "." * int(20 - usage * 20) + "]"
