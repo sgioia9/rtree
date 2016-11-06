@@ -11,7 +11,7 @@ with open("datasets/osm.csv") as f:
 		pointstr = polystr.split(",")
 		points = []
 		for point in pointstr:
-			coords = map(int,map(float,point.split(" ")))
+			coords = map(abs,map(int,map(float,point.split(" "))))
 			points.append((coords[0],coords[1]))
 		points.sort()
 		buf += "I " + str(points[2][0]) + " " + str(points[2][1]) + " " + str(points[3][0]) + " " + str(points[3][1]) + "\n"
