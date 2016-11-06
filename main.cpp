@@ -87,8 +87,8 @@ int main(int argc, char const *argv[]) {
       break;
   }
   process_test_case();
-  /*
-  RTree tree(m, M, split, directory);
+
+  /*RTree tree(m, M, split, directory);
   for (int i = 1; i <= 500; i++) {
     Rectangle r(i, i * 11 , i * 11, i);
     tree.insert(r);

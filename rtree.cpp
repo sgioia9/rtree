@@ -11,7 +11,7 @@ RTree::RTree(int m, int M, Split* split, const std::string& tree_directory)
   current_tree_node->writeToDisk(tree_directory);
 }
 
-void RTree::find(const Rectangle& other_rectangle) {
+void RTree::find(const Rectangle other_rectangle) {
   std::queue<int> q;
   std::vector<Rectangle> results;
   std::ofstream result_file;
@@ -44,7 +44,7 @@ void RTree::find(const Rectangle& other_rectangle) {
   result_file.close();
 }
 
-void RTree::insert(Rectangle& rectangle) {
+void RTree::insert(Rectangle rectangle) {
   current_tree_node = RTreeNode::readFromDisk(tree_directory, root_id);
   rectangle.id = ++total_node_count;
 
