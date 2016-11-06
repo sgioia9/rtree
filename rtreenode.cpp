@@ -31,7 +31,8 @@ RTreeNode* RTreeNode::readFromDisk(const std::string& tree_directory, int tree_i
   RTreeNode* tree = new RTreeNode(id, id_parent, has_leaf_children);
 
   for (int i = 0; i < n_children; i++) {
-    int id, x1, y1, x2, y2;
+    int id;
+    float x1, y1, x2, y2;
     file >> id >> x1 >> y1 >> x2 >> y2;
     tree->addRectangle(Rectangle(id, x1, y1, x2, y2));
   }

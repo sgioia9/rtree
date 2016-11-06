@@ -1,5 +1,6 @@
 #include <queue>
 #include <fstream>
+#include <iostream>
 
 #include "rtree.h"
 
