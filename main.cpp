@@ -15,7 +15,7 @@ enum SPLIT_TYPE {
 };
 
 const int default_M = 500;
-int M, split_type;
+int M, split_type, m;
 std::string directory = "default";
 Split* split;
 
@@ -55,10 +55,26 @@ bool parse_args(int argc, char const *argv[]) {
   return true;
 }
 
+bool process_test_case() {
+  char query_type;
+  float x1, y1, x2, y2;
+  RTree tree(m, M, split, directory);
+  while (cin >> query_type >> x1 >> y1 >> x2 >> y2) {
+    Rectangle rect(x1, y1, x2, y2);
+    if (query_type == 'I') tree.insert(rect);
+    else if (query_type == 'F') tree.find(rect);
+    else {
+      parse_error("invalid test case");
+      return false;
+    }
+  }
+  return true;
+}
+
 int main(int argc, char const *argv[]) {
 
   if (!parse_args(argc, argv)) return 1;
-  int m = int(0.4 * M);
+  m = int(0.4 * M);
   switch (split_type) {
     case LINEAR_SPLIT:
       split = new LinearSplit(m, M);
@@ -70,10 +86,12 @@ int main(int argc, char const *argv[]) {
       split = new LinearSplit(m, M);
       break;
   }
+  process_test_case();
+  /*
   RTree tree(m, M, split, directory);
   for (int i = 1; i <= 500; i++) {
     Rectangle r(i, i * 11 , i * 11, i);
     tree.insert(r);
-  }
+  }*/
   delete split;
 }
