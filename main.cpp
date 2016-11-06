@@ -7,8 +7,8 @@ using namespace std;
 
 int main(int argc, char const *argv[]) {
 
-  int m = 25;
-  int M = 60;
+  int m = 2;
+  int M = 5;
   GreeneSplit* split = new GreeneSplit(m, M);
   RTree tree(m, M, split, "case3");
     for (int i = 1; i <= 500; i++) {
