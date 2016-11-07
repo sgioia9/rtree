@@ -10,4 +10,4 @@ cancelled_write_bytes: 0
 Duration: 13773.2741029 seconds.
 Files created: 125926
 
-Average file usage: 60.1913934
+Average file usage: 60.1913934%
