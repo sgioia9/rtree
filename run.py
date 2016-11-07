@@ -29,7 +29,7 @@ cmd = ["./rtree"] + cmd
 
 init_time = time.time()
 results = ""
-proc = subprocess.Popen(cmd, shell=True, stdout=subprocess.PIPE, stdin=test_file)
+proc = subprocess.Popen(cmd, shell=False, stdout=subprocess.PIPE, stdin=test_file)
 
 while proc.poll() is None:
     try:
@@ -40,6 +40,7 @@ while proc.poll() is None:
     except IOError, e:
         pass
 
+print proc.stdout.read()
 end_time = time.time()
 
 print results
@@ -57,7 +58,6 @@ for i in range(0,len(wcres)-1,2):
     print wcres[i+1][:-1] + " " + str(us*100) + "%"
     print "\t[" + "█" * int(us * 20) + " " * int(20 - us * 20) + "]"
 
-#totallines = int(wcres.split(" ")[-2])
 usage = float((int(wcres[-2]) - nofiles)) / (M * nofiles)
 test_file.close()
 

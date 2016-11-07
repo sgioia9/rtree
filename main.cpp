@@ -61,7 +61,7 @@ bool process_test_case() {
   RTree* tree = nullptr;
   if (create_new) tree = new RTree(m, M, split, directory);
   else tree = new RTree(directory, split);
-  
+
   char query_type;
   float x1, y1, x2, y2;
   while (cin >> query_type >> x1 >> y1 >> x2 >> y2) {
@@ -82,7 +82,6 @@ bool process_test_case() {
 }
 
 int main(int argc, char const *argv[]) {
-
   if (!parse_args(argc, argv)) return 1;
   m = int(0.4 * M);
   switch (split_type) {
