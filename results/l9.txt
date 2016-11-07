@@ -1,0 +1,60 @@
+
+rchar: 1417929
+wchar: 1421297
+syscr: 997
+syscw: 1008
+read_bytes: 0
+write_bytes: 0
+cancelled_write_bytes: 0
+
+Duration: 0.496568918228 seconds.
+Files created: 15
+linear_2_to_the_9th/1.rtre 45.6140350877%
+	[█████████          ]
+linear_2_to_the_9th/131.rtre 38.5964912281%
+	[███████            ]
+linear_2_to_the_9th/177.rtre 71.9298245614%
+	[██████████████     ]
+linear_2_to_the_9th/222.rtre 84.2105263158%
+	[████████████████   ]
+linear_2_to_the_9th/284.rtre 71.9298245614%
+	[██████████████     ]
+linear_2_to_the_9th/289.rtre 66.6666666667%
+	[█████████████      ]
+linear_2_to_the_9th/325.rtre 52.6315789474%
+	[██████████         ]
+linear_2_to_the_9th/328.rtre 64.9122807018%
+	[████████████       ]
+linear_2_to_the_9th/384.rtre 78.9473684211%
+	[███████████████    ]
+linear_2_to_the_9th/432.rtre 96.4912280702%
+	[███████████████████]
+linear_2_to_the_9th/467.rtre 61.4035087719%
+	[████████████       ]
+linear_2_to_the_9th/507.rtre 47.3684210526%
+	[█████████          ]
+linear_2_to_the_9th/59.rtre 77.1929824561%
+	[███████████████    ]
+linear_2_to_the_9th/60.rtre 24.5614035088%
+	[████               ]
+linear_2_to_the_9th/88.rtre 40.350877193%
+	[████████           ]
+Average file usage: 61.5204678363%
+	[████████████       ]
+Filename 		Disk space
+linear_2_to_the_9th/1.rtre 	 27Kb
+linear_2_to_the_9th/131.rtre 	 23Kb
+linear_2_to_the_9th/177.rtre 	 42Kb
+linear_2_to_the_9th/222.rtre 	 49Kb
+linear_2_to_the_9th/284.rtre 	 42Kb
+linear_2_to_the_9th/289.rtre 	 39Kb
+linear_2_to_the_9th/325.rtre 	 31Kb
+linear_2_to_the_9th/328.rtre 	 38Kb
+linear_2_to_the_9th/384.rtre 	 46Kb
+linear_2_to_the_9th/432.rtre 	 56Kb
+linear_2_to_the_9th/467.rtre 	 36Kb
+linear_2_to_the_9th/507.rtre 	 28Kb
+linear_2_to_the_9th/59.rtre 	 45Kb
+linear_2_to_the_9th/60.rtre 	 15Kb
+linear_2_to_the_9th/88.rtre 	 24Kb
+tota 	 541Kb

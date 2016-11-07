@@ -1,0 +1,723 @@
+
+rchar: 41504044
+wchar: 42065459
+syscr: 23078
+syscw: 23422
+read_bytes: 0
+write_bytes: 0
+cancelled_write_bytes: 0
+
+Duration: 16.7965579033 seconds.
+Files created: 236
+linear_2_to_the_13th/1.rtre 45.6140350877%
+	[█████████          ]
+linear_2_to_the_13th/1008.rtre 78.9473684211%
+	[███████████████    ]
+linear_2_to_the_13th/103.rtre 40.350877193%
+	[████████           ]
+linear_2_to_the_13th/1101.rtre 73.6842105263%
+	[██████████████     ]
+linear_2_to_the_13th/1154.rtre 56.1403508772%
+	[███████████        ]
+linear_2_to_the_13th/1168.rtre 61.4035087719%
+	[████████████       ]
+linear_2_to_the_13th/1183.rtre 71.9298245614%
+	[██████████████     ]
+linear_2_to_the_13th/1289.rtre 94.7368421053%
+	[██████████████████ ]
+linear_2_to_the_13th/1302.rtre 49.1228070175%
+	[█████████          ]
+linear_2_to_the_13th/1309.rtre 42.1052631579%
+	[████████           ]
+linear_2_to_the_13th/1341.rtre 56.1403508772%
+	[███████████        ]
+linear_2_to_the_13th/135.rtre 92.9824561404%
+	[██████████████████ ]
+linear_2_to_the_13th/1362.rtre 38.5964912281%
+	[███████            ]
+linear_2_to_the_13th/1394.rtre 92.9824561404%
+	[██████████████████ ]
+linear_2_to_the_13th/1482.rtre 85.9649122807%
+	[█████████████████  ]
+linear_2_to_the_13th/1518.rtre 71.9298245614%
+	[██████████████     ]
+linear_2_to_the_13th/1527.rtre 85.9649122807%
+	[█████████████████  ]
+linear_2_to_the_13th/1533.rtre 59.649122807%
+	[███████████        ]
+linear_2_to_the_13th/1550.rtre 38.5964912281%
+	[███████            ]
+linear_2_to_the_13th/1588.rtre 38.5964912281%
+	[███████            ]
+linear_2_to_the_13th/1613.rtre 77.1929824561%
+	[███████████████    ]
+linear_2_to_the_13th/1653.rtre 68.4210526316%
+	[█████████████      ]
+linear_2_to_the_13th/1712.rtre 38.5964912281%
+	[███████            ]
+linear_2_to_the_13th/1785.rtre 38.5964912281%
+	[███████            ]
+linear_2_to_the_13th/179.rtre 87.7192982456%
+	[█████████████████  ]
+linear_2_to_the_13th/1802.rtre 61.4035087719%
+	[████████████       ]
+linear_2_to_the_13th/1851.rtre 63.1578947368%
+	[████████████       ]
+linear_2_to_the_13th/1895.rtre 75.4385964912%
+	[███████████████    ]
+linear_2_to_the_13th/194.rtre 68.4210526316%
+	[█████████████      ]
+linear_2_to_the_13th/1956.rtre 61.4035087719%
+	[████████████       ]
+linear_2_to_the_13th/1964.rtre 42.1052631579%
+	[████████           ]
+linear_2_to_the_13th/2016.rtre 61.4035087719%
+	[████████████       ]
+linear_2_to_the_13th/2040.rtre 38.5964912281%
+	[███████            ]
+linear_2_to_the_13th/2068.rtre 61.4035087719%
+	[████████████       ]
+linear_2_to_the_13th/2075.rtre 42.1052631579%
+	[████████           ]
+linear_2_to_the_13th/2076.rtre 64.9122807018%
+	[████████████       ]
+linear_2_to_the_13th/2077.rtre 14.0350877193%
+	[██                 ]
+linear_2_to_the_13th/2079.rtre 42.1052631579%
+	[████████           ]
+linear_2_to_the_13th/2097.rtre 85.9649122807%
+	[█████████████████  ]
+linear_2_to_the_13th/2171.rtre 75.4385964912%
+	[███████████████    ]
+linear_2_to_the_13th/2233.rtre 40.350877193%
+	[████████           ]
+linear_2_to_the_13th/2278.rtre 59.649122807%
+	[███████████        ]
+linear_2_to_the_13th/2312.rtre 59.649122807%
+	[███████████        ]
+linear_2_to_the_13th/2324.rtre 54.3859649123%
+	[██████████         ]
+linear_2_to_the_13th/233.rtre 87.7192982456%
+	[█████████████████  ]
+linear_2_to_the_13th/2368.rtre 45.6140350877%
+	[█████████          ]
+linear_2_to_the_13th/2418.rtre 61.4035087719%
+	[████████████       ]
+linear_2_to_the_13th/2491.rtre 40.350877193%
+	[████████           ]
+linear_2_to_the_13th/2529.rtre 73.6842105263%
+	[██████████████     ]
+linear_2_to_the_13th/2560.rtre 73.6842105263%
+	[██████████████     ]
+linear_2_to_the_13th/2572.rtre 56.1403508772%
+	[███████████        ]
+linear_2_to_the_13th/2579.rtre 66.6666666667%
+	[█████████████      ]
+linear_2_to_the_13th/2655.rtre 61.4035087719%
+	[████████████       ]
+linear_2_to_the_13th/2658.rtre 61.4035087719%
+	[████████████       ]
+linear_2_to_the_13th/2666.rtre 63.1578947368%
+	[████████████       ]
+linear_2_to_the_13th/2674.rtre 38.5964912281%
+	[███████            ]
+linear_2_to_the_13th/2762.rtre 59.649122807%
+	[███████████        ]
+linear_2_to_the_13th/277.rtre 49.1228070175%
+	[█████████          ]
+linear_2_to_the_13th/2890.rtre 71.9298245614%
+	[██████████████     ]
+linear_2_to_the_13th/2894.rtre 47.3684210526%
+	[█████████          ]
+linear_2_to_the_13th/2986.rtre 84.2105263158%
+	[████████████████   ]
+linear_2_to_the_13th/2987.rtre 38.5964912281%
+	[███████            ]
+linear_2_to_the_13th/3008.rtre 49.1228070175%
+	[█████████          ]
+linear_2_to_the_13th/302.rtre 61.4035087719%
+	[████████████       ]
+linear_2_to_the_13th/3067.rtre 61.4035087719%
+	[████████████       ]
+linear_2_to_the_13th/3098.rtre 59.649122807%
+	[███████████        ]
+linear_2_to_the_13th/3133.rtre 78.9473684211%
+	[███████████████    ]
+linear_2_to_the_13th/3162.rtre 66.6666666667%
+	[█████████████      ]
+linear_2_to_the_13th/3184.rtre 63.1578947368%
+	[████████████       ]
+linear_2_to_the_13th/3205.rtre 63.1578947368%
+	[████████████       ]
+linear_2_to_the_13th/3220.rtre 70.1754385965%
+	[██████████████     ]
+linear_2_to_the_13th/3307.rtre 59.649122807%
+	[███████████        ]
+linear_2_to_the_13th/3339.rtre 64.9122807018%
+	[████████████       ]
+linear_2_to_the_13th/336.rtre 87.7192982456%
+	[█████████████████  ]
+linear_2_to_the_13th/3426.rtre 57.8947368421%
+	[███████████        ]
+linear_2_to_the_13th/3447.rtre 42.1052631579%
+	[████████           ]
+linear_2_to_the_13th/3452.rtre 77.1929824561%
+	[███████████████    ]
+linear_2_to_the_13th/3454.rtre 77.1929824561%
+	[███████████████    ]
+linear_2_to_the_13th/3465.rtre 91.2280701754%
+	[██████████████████ ]
+linear_2_to_the_13th/3561.rtre 64.9122807018%
+	[████████████       ]
+linear_2_to_the_13th/3568.rtre 57.8947368421%
+	[███████████        ]
+linear_2_to_the_13th/3636.rtre 47.3684210526%
+	[█████████          ]
+linear_2_to_the_13th/3704.rtre 64.9122807018%
+	[████████████       ]
+linear_2_to_the_13th/3707.rtre 47.3684210526%
+	[█████████          ]
+linear_2_to_the_13th/3712.rtre 47.3684210526%
+	[█████████          ]
+linear_2_to_the_13th/3716.rtre 49.1228070175%
+	[█████████          ]
+linear_2_to_the_13th/3757.rtre 57.8947368421%
+	[███████████        ]
+linear_2_to_the_13th/378.rtre 73.6842105263%
+	[██████████████     ]
+linear_2_to_the_13th/3805.rtre 42.1052631579%
+	[████████           ]
+linear_2_to_the_13th/3825.rtre 64.9122807018%
+	[████████████       ]
+linear_2_to_the_13th/3865.rtre 59.649122807%
+	[███████████        ]
+linear_2_to_the_13th/3878.rtre 64.9122807018%
+	[████████████       ]
+linear_2_to_the_13th/3912.rtre 92.9824561404%
+	[██████████████████ ]
+linear_2_to_the_13th/3924.rtre 70.1754385965%
+	[██████████████     ]
+linear_2_to_the_13th/3977.rtre 59.649122807%
+	[███████████        ]
+linear_2_to_the_13th/3994.rtre 61.4035087719%
+	[████████████       ]
+linear_2_to_the_13th/4051.rtre 64.9122807018%
+	[████████████       ]
+linear_2_to_the_13th/4077.rtre 77.1929824561%
+	[███████████████    ]
+linear_2_to_the_13th/4097.rtre 78.9473684211%
+	[███████████████    ]
+linear_2_to_the_13th/4141.rtre 63.1578947368%
+	[████████████       ]
+linear_2_to_the_13th/4189.rtre 50.8771929825%
+	[██████████         ]
+linear_2_to_the_13th/4190.rtre 71.9298245614%
+	[██████████████     ]
+linear_2_to_the_13th/4193.rtre 75.4385964912%
+	[███████████████    ]
+linear_2_to_the_13th/4215.rtre 94.7368421053%
+	[██████████████████ ]
+linear_2_to_the_13th/4260.rtre 52.6315789474%
+	[██████████         ]
+linear_2_to_the_13th/428.rtre 38.5964912281%
+	[███████            ]
+linear_2_to_the_13th/4283.rtre 68.4210526316%
+	[█████████████      ]
+linear_2_to_the_13th/4349.rtre 38.5964912281%
+	[███████            ]
+linear_2_to_the_13th/4425.rtre 42.1052631579%
+	[████████           ]
+linear_2_to_the_13th/4431.rtre 70.1754385965%
+	[██████████████     ]
+linear_2_to_the_13th/447.rtre 73.6842105263%
+	[██████████████     ]
+linear_2_to_the_13th/4479.rtre 40.350877193%
+	[████████           ]
+linear_2_to_the_13th/4536.rtre 98.2456140351%
+	[███████████████████]
+linear_2_to_the_13th/4545.rtre 98.2456140351%
+	[███████████████████]
+linear_2_to_the_13th/456.rtre 77.1929824561%
+	[███████████████    ]
+linear_2_to_the_13th/4617.rtre 38.5964912281%
+	[███████            ]
+linear_2_to_the_13th/4663.rtre 40.350877193%
+	[████████           ]
+linear_2_to_the_13th/4680.rtre 61.4035087719%
+	[████████████       ]
+linear_2_to_the_13th/4706.rtre 63.1578947368%
+	[████████████       ]
+linear_2_to_the_13th/4789.rtre 52.6315789474%
+	[██████████         ]
+linear_2_to_the_13th/4822.rtre 80.701754386%
+	[████████████████   ]
+linear_2_to_the_13th/4831.rtre 75.4385964912%
+	[███████████████    ]
+linear_2_to_the_13th/4838.rtre 38.5964912281%
+	[███████            ]
+linear_2_to_the_13th/4869.rtre 63.1578947368%
+	[████████████       ]
+linear_2_to_the_13th/4897.rtre 71.9298245614%
+	[██████████████     ]
+linear_2_to_the_13th/4919.rtre 49.1228070175%
+	[█████████          ]
+linear_2_to_the_13th/4995.rtre 68.4210526316%
+	[█████████████      ]
+linear_2_to_the_13th/5008.rtre 56.1403508772%
+	[███████████        ]
+linear_2_to_the_13th/5009.rtre 38.5964912281%
+	[███████            ]
+linear_2_to_the_13th/5052.rtre 54.3859649123%
+	[██████████         ]
+linear_2_to_the_13th/5132.rtre 63.1578947368%
+	[████████████       ]
+linear_2_to_the_13th/5150.rtre 66.6666666667%
+	[█████████████      ]
+linear_2_to_the_13th/5168.rtre 38.5964912281%
+	[███████            ]
+linear_2_to_the_13th/517.rtre 80.701754386%
+	[████████████████   ]
+linear_2_to_the_13th/5222.rtre 61.4035087719%
+	[████████████       ]
+linear_2_to_the_13th/5226.rtre 38.5964912281%
+	[███████            ]
+linear_2_to_the_13th/5267.rtre 87.7192982456%
+	[█████████████████  ]
+linear_2_to_the_13th/5318.rtre 38.5964912281%
+	[███████            ]
+linear_2_to_the_13th/5387.rtre 57.8947368421%
+	[███████████        ]
+linear_2_to_the_13th/5417.rtre 78.9473684211%
+	[███████████████    ]
+linear_2_to_the_13th/5448.rtre 63.1578947368%
+	[████████████       ]
+linear_2_to_the_13th/5497.rtre 73.6842105263%
+	[██████████████     ]
+linear_2_to_the_13th/5540.rtre 68.4210526316%
+	[█████████████      ]
+linear_2_to_the_13th/5582.rtre 57.8947368421%
+	[███████████        ]
+linear_2_to_the_13th/5589.rtre 63.1578947368%
+	[████████████       ]
+linear_2_to_the_13th/5642.rtre 45.6140350877%
+	[█████████          ]
+linear_2_to_the_13th/5711.rtre 40.350877193%
+	[████████           ]
+linear_2_to_the_13th/5768.rtre 98.2456140351%
+	[███████████████████]
+linear_2_to_the_13th/5794.rtre 87.7192982456%
+	[█████████████████  ]
+linear_2_to_the_13th/5807.rtre 59.649122807%
+	[███████████        ]
+linear_2_to_the_13th/5891.rtre 50.8771929825%
+	[██████████         ]
+linear_2_to_the_13th/59.rtre 96.4912280702%
+	[███████████████████]
+linear_2_to_the_13th/5945.rtre 59.649122807%
+	[███████████        ]
+linear_2_to_the_13th/5956.rtre 64.9122807018%
+	[████████████       ]
+linear_2_to_the_13th/597.rtre 96.4912280702%
+	[███████████████████]
+linear_2_to_the_13th/5974.rtre 59.649122807%
+	[███████████        ]
+linear_2_to_the_13th/60.rtre 40.350877193%
+	[████████           ]
+linear_2_to_the_13th/6048.rtre 78.9473684211%
+	[███████████████    ]
+linear_2_to_the_13th/6073.rtre 40.350877193%
+	[████████           ]
+linear_2_to_the_13th/6075.rtre 73.6842105263%
+	[██████████████     ]
+linear_2_to_the_13th/6159.rtre 63.1578947368%
+	[████████████       ]
+linear_2_to_the_13th/6235.rtre 87.7192982456%
+	[█████████████████  ]
+linear_2_to_the_13th/6238.rtre 63.1578947368%
+	[████████████       ]
+linear_2_to_the_13th/6291.rtre 63.1578947368%
+	[████████████       ]
+linear_2_to_the_13th/634.rtre 77.1929824561%
+	[███████████████    ]
+linear_2_to_the_13th/6349.rtre 77.1929824561%
+	[███████████████    ]
+linear_2_to_the_13th/6429.rtre 61.4035087719%
+	[████████████       ]
+linear_2_to_the_13th/6454.rtre 61.4035087719%
+	[████████████       ]
+linear_2_to_the_13th/6459.rtre 64.9122807018%
+	[████████████       ]
+linear_2_to_the_13th/6460.rtre 43.8596491228%
+	[████████           ]
+linear_2_to_the_13th/6480.rtre 40.350877193%
+	[████████           ]
+linear_2_to_the_13th/6537.rtre 63.1578947368%
+	[████████████       ]
+linear_2_to_the_13th/6569.rtre 38.5964912281%
+	[███████            ]
+linear_2_to_the_13th/6586.rtre 61.4035087719%
+	[████████████       ]
+linear_2_to_the_13th/6608.rtre 80.701754386%
+	[████████████████   ]
+linear_2_to_the_13th/6673.rtre 68.4210526316%
+	[█████████████      ]
+linear_2_to_the_13th/6676.rtre 56.1403508772%
+	[███████████        ]
+linear_2_to_the_13th/6741.rtre 64.9122807018%
+	[████████████       ]
+linear_2_to_the_13th/6806.rtre 94.7368421053%
+	[██████████████████ ]
+linear_2_to_the_13th/6844.rtre 66.6666666667%
+	[█████████████      ]
+linear_2_to_the_13th/6893.rtre 38.5964912281%
+	[███████            ]
+linear_2_to_the_13th/6955.rtre 63.1578947368%
+	[████████████       ]
+linear_2_to_the_13th/6973.rtre 59.649122807%
+	[███████████        ]
+linear_2_to_the_13th/7026.rtre 49.1228070175%
+	[█████████          ]
+linear_2_to_the_13th/703.rtre 57.8947368421%
+	[███████████        ]
+linear_2_to_the_13th/7060.rtre 38.5964912281%
+	[███████            ]
+linear_2_to_the_13th/7065.rtre 66.6666666667%
+	[█████████████      ]
+linear_2_to_the_13th/7087.rtre 68.4210526316%
+	[█████████████      ]
+linear_2_to_the_13th/711.rtre 63.1578947368%
+	[████████████       ]
+linear_2_to_the_13th/7129.rtre 54.3859649123%
+	[██████████         ]
+linear_2_to_the_13th/7153.rtre 80.701754386%
+	[████████████████   ]
+linear_2_to_the_13th/716.rtre 71.9298245614%
+	[██████████████     ]
+linear_2_to_the_13th/7162.rtre 80.701754386%
+	[████████████████   ]
+linear_2_to_the_13th/7262.rtre 75.4385964912%
+	[███████████████    ]
+linear_2_to_the_13th/7330.rtre 61.4035087719%
+	[████████████       ]
+linear_2_to_the_13th/7345.rtre 68.4210526316%
+	[█████████████      ]
+linear_2_to_the_13th/7422.rtre 61.4035087719%
+	[████████████       ]
+linear_2_to_the_13th/7453.rtre 61.4035087719%
+	[████████████       ]
+linear_2_to_the_13th/7454.rtre 38.5964912281%
+	[███████            ]
+linear_2_to_the_13th/7492.rtre 80.701754386%
+	[████████████████   ]
+linear_2_to_the_13th/750.rtre 61.4035087719%
+	[████████████       ]
+linear_2_to_the_13th/7520.rtre 49.1228070175%
+	[█████████          ]
+linear_2_to_the_13th/7554.rtre 80.701754386%
+	[████████████████   ]
+linear_2_to_the_13th/7579.rtre 61.4035087719%
+	[████████████       ]
+linear_2_to_the_13th/7591.rtre 64.9122807018%
+	[████████████       ]
+linear_2_to_the_13th/7611.rtre 40.350877193%
+	[████████           ]
+linear_2_to_the_13th/7682.rtre 80.701754386%
+	[████████████████   ]
+linear_2_to_the_13th/7741.rtre 64.9122807018%
+	[████████████       ]
+linear_2_to_the_13th/7822.rtre 73.6842105263%
+	[██████████████     ]
+linear_2_to_the_13th/7850.rtre 50.8771929825%
+	[██████████         ]
+linear_2_to_the_13th/7857.rtre 61.4035087719%
+	[████████████       ]
+linear_2_to_the_13th/7869.rtre 70.1754385965%
+	[██████████████     ]
+linear_2_to_the_13th/7872.rtre 61.4035087719%
+	[████████████       ]
+linear_2_to_the_13th/7898.rtre 61.4035087719%
+	[████████████       ]
+linear_2_to_the_13th/7915.rtre 71.9298245614%
+	[██████████████     ]
+linear_2_to_the_13th/7918.rtre 40.350877193%
+	[████████           ]
+linear_2_to_the_13th/7960.rtre 61.4035087719%
+	[████████████       ]
+linear_2_to_the_13th/7982.rtre 57.8947368421%
+	[███████████        ]
+linear_2_to_the_13th/7996.rtre 61.4035087719%
+	[████████████       ]
+linear_2_to_the_13th/8014.rtre 56.1403508772%
+	[███████████        ]
+linear_2_to_the_13th/8029.rtre 66.6666666667%
+	[█████████████      ]
+linear_2_to_the_13th/8098.rtre 73.6842105263%
+	[██████████████     ]
+linear_2_to_the_13th/8121.rtre 38.5964912281%
+	[███████            ]
+linear_2_to_the_13th/8199.rtre 61.4035087719%
+	[████████████       ]
+linear_2_to_the_13th/8201.rtre 82.4561403509%
+	[████████████████   ]
+linear_2_to_the_13th/8246.rtre 61.4035087719%
+	[████████████       ]
+linear_2_to_the_13th/8247.rtre 61.4035087719%
+	[████████████       ]
+linear_2_to_the_13th/8269.rtre 61.4035087719%
+	[████████████       ]
+linear_2_to_the_13th/8353.rtre 52.6315789474%
+	[██████████         ]
+linear_2_to_the_13th/840.rtre 87.7192982456%
+	[█████████████████  ]
+linear_2_to_the_13th/8402.rtre 61.4035087719%
+	[████████████       ]
+linear_2_to_the_13th/887.rtre 50.8771929825%
+	[██████████         ]
+linear_2_to_the_13th/906.rtre 57.8947368421%
+	[███████████        ]
+linear_2_to_the_13th/943.rtre 82.4561403509%
+	[████████████████   ]
+linear_2_to_the_13th/952.rtre 87.7192982456%
+	[█████████████████  ]
+linear_2_to_the_13th/958.rtre 70.1754385965%
+	[██████████████     ]
+Average file usage: 62.6449598573%
+	[████████████       ]
+Filename 		Disk space
+linear_2_to_the_13th/1.rtre 	 27Kb
+linear_2_to_the_13th/1008.rtre 	 46Kb
+linear_2_to_the_13th/103.rtre 	 24Kb
+linear_2_to_the_13th/1101.rtre 	 43Kb
+linear_2_to_the_13th/1154.rtre 	 33Kb
+linear_2_to_the_13th/1168.rtre 	 36Kb
+linear_2_to_the_13th/1183.rtre 	 42Kb
+linear_2_to_the_13th/1289.rtre 	 55Kb
+linear_2_to_the_13th/1302.rtre 	 29Kb
+linear_2_to_the_13th/1309.rtre 	 25Kb
+linear_2_to_the_13th/1341.rtre 	 33Kb
+linear_2_to_the_13th/135.rtre 	 54Kb
+linear_2_to_the_13th/1362.rtre 	 23Kb
+linear_2_to_the_13th/1394.rtre 	 54Kb
+linear_2_to_the_13th/1482.rtre 	 50Kb
+linear_2_to_the_13th/1518.rtre 	 42Kb
+linear_2_to_the_13th/1527.rtre 	 50Kb
+linear_2_to_the_13th/1533.rtre 	 35Kb
+linear_2_to_the_13th/1550.rtre 	 23Kb
+linear_2_to_the_13th/1588.rtre 	 23Kb
+linear_2_to_the_13th/1613.rtre 	 45Kb
+linear_2_to_the_13th/1653.rtre 	 40Kb
+linear_2_to_the_13th/1712.rtre 	 23Kb
+linear_2_to_the_13th/1785.rtre 	 23Kb
+linear_2_to_the_13th/179.rtre 	 51Kb
+linear_2_to_the_13th/1802.rtre 	 36Kb
+linear_2_to_the_13th/1851.rtre 	 37Kb
+linear_2_to_the_13th/1895.rtre 	 44Kb
+linear_2_to_the_13th/194.rtre 	 40Kb
+linear_2_to_the_13th/1956.rtre 	 36Kb
+linear_2_to_the_13th/1964.rtre 	 25Kb
+linear_2_to_the_13th/2016.rtre 	 36Kb
+linear_2_to_the_13th/2040.rtre 	 23Kb
+linear_2_to_the_13th/2068.rtre 	 36Kb
+linear_2_to_the_13th/2075.rtre 	 25Kb
+linear_2_to_the_13th/2076.rtre 	 38Kb
+linear_2_to_the_13th/2077.rtre 	 9Kb
+linear_2_to_the_13th/2079.rtre 	 25Kb
+linear_2_to_the_13th/2097.rtre 	 50Kb
+linear_2_to_the_13th/2171.rtre 	 44Kb
+linear_2_to_the_13th/2233.rtre 	 24Kb
+linear_2_to_the_13th/2278.rtre 	 35Kb
+linear_2_to_the_13th/2312.rtre 	 35Kb
+linear_2_to_the_13th/2324.rtre 	 32Kb
+linear_2_to_the_13th/233.rtre 	 51Kb
+linear_2_to_the_13th/2368.rtre 	 27Kb
+linear_2_to_the_13th/2418.rtre 	 36Kb
+linear_2_to_the_13th/2491.rtre 	 24Kb
+linear_2_to_the_13th/2529.rtre 	 43Kb
+linear_2_to_the_13th/2560.rtre 	 43Kb
+linear_2_to_the_13th/2572.rtre 	 33Kb
+linear_2_to_the_13th/2579.rtre 	 39Kb
+linear_2_to_the_13th/2655.rtre 	 36Kb
+linear_2_to_the_13th/2658.rtre 	 36Kb
+linear_2_to_the_13th/2666.rtre 	 37Kb
+linear_2_to_the_13th/2674.rtre 	 23Kb
+linear_2_to_the_13th/2762.rtre 	 35Kb
+linear_2_to_the_13th/277.rtre 	 29Kb
+linear_2_to_the_13th/2890.rtre 	 42Kb
+linear_2_to_the_13th/2894.rtre 	 28Kb
+linear_2_to_the_13th/2986.rtre 	 49Kb
+linear_2_to_the_13th/2987.rtre 	 23Kb
+linear_2_to_the_13th/3008.rtre 	 29Kb
+linear_2_to_the_13th/302.rtre 	 36Kb
+linear_2_to_the_13th/3067.rtre 	 36Kb
+linear_2_to_the_13th/3098.rtre 	 35Kb
+linear_2_to_the_13th/3133.rtre 	 46Kb
+linear_2_to_the_13th/3162.rtre 	 39Kb
+linear_2_to_the_13th/3184.rtre 	 37Kb
+linear_2_to_the_13th/3205.rtre 	 37Kb
+linear_2_to_the_13th/3220.rtre 	 41Kb
+linear_2_to_the_13th/3307.rtre 	 35Kb
+linear_2_to_the_13th/3339.rtre 	 38Kb
+linear_2_to_the_13th/336.rtre 	 51Kb
+linear_2_to_the_13th/3426.rtre 	 34Kb
+linear_2_to_the_13th/3447.rtre 	 25Kb
+linear_2_to_the_13th/3452.rtre 	 45Kb
+linear_2_to_the_13th/3454.rtre 	 45Kb
+linear_2_to_the_13th/3465.rtre 	 53Kb
+linear_2_to_the_13th/3561.rtre 	 38Kb
+linear_2_to_the_13th/3568.rtre 	 34Kb
+linear_2_to_the_13th/3636.rtre 	 28Kb
+linear_2_to_the_13th/3704.rtre 	 38Kb
+linear_2_to_the_13th/3707.rtre 	 28Kb
+linear_2_to_the_13th/3712.rtre 	 28Kb
+linear_2_to_the_13th/3716.rtre 	 29Kb
+linear_2_to_the_13th/3757.rtre 	 34Kb
+linear_2_to_the_13th/378.rtre 	 43Kb
+linear_2_to_the_13th/3805.rtre 	 25Kb
+linear_2_to_the_13th/3825.rtre 	 38Kb
+linear_2_to_the_13th/3865.rtre 	 35Kb
+linear_2_to_the_13th/3878.rtre 	 38Kb
+linear_2_to_the_13th/3912.rtre 	 54Kb
+linear_2_to_the_13th/3924.rtre 	 41Kb
+linear_2_to_the_13th/3977.rtre 	 35Kb
+linear_2_to_the_13th/3994.rtre 	 36Kb
+linear_2_to_the_13th/4051.rtre 	 38Kb
+linear_2_to_the_13th/4077.rtre 	 45Kb
+linear_2_to_the_13th/4097.rtre 	 46Kb
+linear_2_to_the_13th/4141.rtre 	 37Kb
+linear_2_to_the_13th/4189.rtre 	 30Kb
+linear_2_to_the_13th/4190.rtre 	 42Kb
+linear_2_to_the_13th/4193.rtre 	 44Kb
+linear_2_to_the_13th/4215.rtre 	 55Kb
+linear_2_to_the_13th/4260.rtre 	 31Kb
+linear_2_to_the_13th/428.rtre 	 23Kb
+linear_2_to_the_13th/4283.rtre 	 40Kb
+linear_2_to_the_13th/4349.rtre 	 23Kb
+linear_2_to_the_13th/4425.rtre 	 25Kb
+linear_2_to_the_13th/4431.rtre 	 41Kb
+linear_2_to_the_13th/447.rtre 	 43Kb
+linear_2_to_the_13th/4479.rtre 	 24Kb
+linear_2_to_the_13th/4536.rtre 	 57Kb
+linear_2_to_the_13th/4545.rtre 	 57Kb
+linear_2_to_the_13th/456.rtre 	 45Kb
+linear_2_to_the_13th/4617.rtre 	 23Kb
+linear_2_to_the_13th/4663.rtre 	 24Kb
+linear_2_to_the_13th/4680.rtre 	 36Kb
+linear_2_to_the_13th/4706.rtre 	 37Kb
+linear_2_to_the_13th/4789.rtre 	 31Kb
+linear_2_to_the_13th/4822.rtre 	 47Kb
+linear_2_to_the_13th/4831.rtre 	 44Kb
+linear_2_to_the_13th/4838.rtre 	 23Kb
+linear_2_to_the_13th/4869.rtre 	 37Kb
+linear_2_to_the_13th/4897.rtre 	 42Kb
+linear_2_to_the_13th/4919.rtre 	 29Kb
+linear_2_to_the_13th/4995.rtre 	 40Kb
+linear_2_to_the_13th/5008.rtre 	 33Kb
+linear_2_to_the_13th/5009.rtre 	 23Kb
+linear_2_to_the_13th/5052.rtre 	 32Kb
+linear_2_to_the_13th/5132.rtre 	 37Kb
+linear_2_to_the_13th/5150.rtre 	 39Kb
+linear_2_to_the_13th/5168.rtre 	 23Kb
+linear_2_to_the_13th/517.rtre 	 47Kb
+linear_2_to_the_13th/5222.rtre 	 36Kb
+linear_2_to_the_13th/5226.rtre 	 23Kb
+linear_2_to_the_13th/5267.rtre 	 51Kb
+linear_2_to_the_13th/5318.rtre 	 23Kb
+linear_2_to_the_13th/5387.rtre 	 34Kb
+linear_2_to_the_13th/5417.rtre 	 46Kb
+linear_2_to_the_13th/5448.rtre 	 37Kb
+linear_2_to_the_13th/5497.rtre 	 43Kb
+linear_2_to_the_13th/5540.rtre 	 40Kb
+linear_2_to_the_13th/5582.rtre 	 34Kb
+linear_2_to_the_13th/5589.rtre 	 37Kb
+linear_2_to_the_13th/5642.rtre 	 27Kb
+linear_2_to_the_13th/5711.rtre 	 24Kb
+linear_2_to_the_13th/5768.rtre 	 57Kb
+linear_2_to_the_13th/5794.rtre 	 51Kb
+linear_2_to_the_13th/5807.rtre 	 35Kb
+linear_2_to_the_13th/5891.rtre 	 30Kb
+linear_2_to_the_13th/59.rtre 	 56Kb
+linear_2_to_the_13th/5945.rtre 	 35Kb
+linear_2_to_the_13th/5956.rtre 	 38Kb
+linear_2_to_the_13th/597.rtre 	 56Kb
+linear_2_to_the_13th/5974.rtre 	 35Kb
+linear_2_to_the_13th/60.rtre 	 24Kb
+linear_2_to_the_13th/6048.rtre 	 46Kb
+linear_2_to_the_13th/6073.rtre 	 24Kb
+linear_2_to_the_13th/6075.rtre 	 43Kb
+linear_2_to_the_13th/6159.rtre 	 37Kb
+linear_2_to_the_13th/6235.rtre 	 51Kb
+linear_2_to_the_13th/6238.rtre 	 37Kb
+linear_2_to_the_13th/6291.rtre 	 37Kb
+linear_2_to_the_13th/634.rtre 	 45Kb
+linear_2_to_the_13th/6349.rtre 	 45Kb
+linear_2_to_the_13th/6429.rtre 	 36Kb
+linear_2_to_the_13th/6454.rtre 	 36Kb
+linear_2_to_the_13th/6459.rtre 	 38Kb
+linear_2_to_the_13th/6460.rtre 	 26Kb
+linear_2_to_the_13th/6480.rtre 	 24Kb
+linear_2_to_the_13th/6537.rtre 	 37Kb
+linear_2_to_the_13th/6569.rtre 	 23Kb
+linear_2_to_the_13th/6586.rtre 	 36Kb
+linear_2_to_the_13th/6608.rtre 	 47Kb
+linear_2_to_the_13th/6673.rtre 	 40Kb
+linear_2_to_the_13th/6676.rtre 	 33Kb
+linear_2_to_the_13th/6741.rtre 	 38Kb
+linear_2_to_the_13th/6806.rtre 	 55Kb
+linear_2_to_the_13th/6844.rtre 	 39Kb
+linear_2_to_the_13th/6893.rtre 	 23Kb
+linear_2_to_the_13th/6955.rtre 	 37Kb
+linear_2_to_the_13th/6973.rtre 	 35Kb
+linear_2_to_the_13th/7026.rtre 	 29Kb
+linear_2_to_the_13th/703.rtre 	 34Kb
+linear_2_to_the_13th/7060.rtre 	 23Kb
+linear_2_to_the_13th/7065.rtre 	 39Kb
+linear_2_to_the_13th/7087.rtre 	 40Kb
+linear_2_to_the_13th/711.rtre 	 37Kb
+linear_2_to_the_13th/7129.rtre 	 32Kb
+linear_2_to_the_13th/7153.rtre 	 47Kb
+linear_2_to_the_13th/716.rtre 	 42Kb
+linear_2_to_the_13th/7162.rtre 	 47Kb
+linear_2_to_the_13th/7262.rtre 	 44Kb
+linear_2_to_the_13th/7330.rtre 	 36Kb
+linear_2_to_the_13th/7345.rtre 	 40Kb
+linear_2_to_the_13th/7422.rtre 	 36Kb
+linear_2_to_the_13th/7453.rtre 	 36Kb
+linear_2_to_the_13th/7454.rtre 	 23Kb
+linear_2_to_the_13th/7492.rtre 	 47Kb
+linear_2_to_the_13th/750.rtre 	 36Kb
+linear_2_to_the_13th/7520.rtre 	 29Kb
+linear_2_to_the_13th/7554.rtre 	 47Kb
+linear_2_to_the_13th/7579.rtre 	 36Kb
+linear_2_to_the_13th/7591.rtre 	 38Kb
+linear_2_to_the_13th/7611.rtre 	 24Kb
+linear_2_to_the_13th/7682.rtre 	 47Kb
+linear_2_to_the_13th/7741.rtre 	 38Kb
+linear_2_to_the_13th/7822.rtre 	 43Kb
+linear_2_to_the_13th/7850.rtre 	 30Kb
+linear_2_to_the_13th/7857.rtre 	 36Kb
+linear_2_to_the_13th/7869.rtre 	 41Kb
+linear_2_to_the_13th/7872.rtre 	 36Kb
+linear_2_to_the_13th/7898.rtre 	 36Kb
+linear_2_to_the_13th/7915.rtre 	 42Kb
+linear_2_to_the_13th/7918.rtre 	 24Kb
+linear_2_to_the_13th/7960.rtre 	 36Kb
+linear_2_to_the_13th/7982.rtre 	 34Kb
+linear_2_to_the_13th/7996.rtre 	 36Kb
+linear_2_to_the_13th/8014.rtre 	 33Kb
+linear_2_to_the_13th/8029.rtre 	 39Kb
+linear_2_to_the_13th/8098.rtre 	 43Kb
+linear_2_to_the_13th/8121.rtre 	 23Kb
+linear_2_to_the_13th/8199.rtre 	 36Kb
+linear_2_to_the_13th/8201.rtre 	 48Kb
+linear_2_to_the_13th/8246.rtre 	 36Kb
+linear_2_to_the_13th/8247.rtre 	 36Kb
+linear_2_to_the_13th/8269.rtre 	 36Kb
+linear_2_to_the_13th/8353.rtre 	 31Kb
+linear_2_to_the_13th/840.rtre 	 51Kb
+linear_2_to_the_13th/8402.rtre 	 36Kb
+linear_2_to_the_13th/887.rtre 	 30Kb
+linear_2_to_the_13th/906.rtre 	 34Kb
+linear_2_to_the_13th/943.rtre 	 48Kb
+linear_2_to_the_13th/952.rtre 	 51Kb
+linear_2_to_the_13th/958.rtre 	 41Kb
+tota 	 8663Kb

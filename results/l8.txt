@@ -1,0 +1,39 @@
+
+rchar: 635494
+wchar: 633398
+syscr: 474
+syscw: 475
+read_bytes: 69632
+write_bytes: 0
+cancelled_write_bytes: 0
+
+Duration: 0.254374027252 seconds.
+Files created: 8
+linear_2_to_the_8th/1.rtre 47.3684210526%
+	[█████████          ]
+linear_2_to_the_8th/108.rtre 77.1929824561%
+	[███████████████    ]
+linear_2_to_the_8th/156.rtre 45.6140350877%
+	[█████████          ]
+linear_2_to_the_8th/201.rtre 45.6140350877%
+	[█████████          ]
+linear_2_to_the_8th/249.rtre 61.4035087719%
+	[████████████       ]
+linear_2_to_the_8th/59.rtre 96.4912280702%
+	[███████████████████]
+linear_2_to_the_8th/60.rtre 12.2807017544%
+	[██                 ]
+linear_2_to_the_8th/83.rtre 75.4385964912%
+	[███████████████    ]
+Average file usage: 57.6754385965%
+	[███████████        ]
+Filename 		Disk space
+linear_2_to_the_8th/1.rtre 	 28Kb
+linear_2_to_the_8th/108.rtre 	 45Kb
+linear_2_to_the_8th/156.rtre 	 27Kb
+linear_2_to_the_8th/201.rtre 	 27Kb
+linear_2_to_the_8th/249.rtre 	 36Kb
+linear_2_to_the_8th/59.rtre 	 56Kb
+linear_2_to_the_8th/60.rtre 	 8Kb
+linear_2_to_the_8th/83.rtre 	 44Kb
+tota 	 271Kb

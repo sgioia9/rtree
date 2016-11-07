@@ -1,0 +1,102 @@
+
+rchar: 3310539
+wchar: 3333129
+syscr: 2042
+syscw: 2074
+read_bytes: 0
+write_bytes: 0
+cancelled_write_bytes: 0
+
+Duration: 1.09290385246 seconds.
+Files created: 29
+linear_2_to_the_10th/1.rtre 64.9122807018%
+	[████████████       ]
+linear_2_to_the_10th/1045.rtre 64.9122807018%
+	[████████████       ]
+linear_2_to_the_10th/121.rtre 63.1578947368%
+	[████████████       ]
+linear_2_to_the_10th/194.rtre 45.6140350877%
+	[█████████          ]
+linear_2_to_the_10th/212.rtre 61.4035087719%
+	[████████████       ]
+linear_2_to_the_10th/259.rtre 59.649122807%
+	[███████████        ]
+linear_2_to_the_10th/307.rtre 87.7192982456%
+	[█████████████████  ]
+linear_2_to_the_10th/321.rtre 61.4035087719%
+	[████████████       ]
+linear_2_to_the_10th/366.rtre 78.9473684211%
+	[███████████████    ]
+linear_2_to_the_10th/369.rtre 96.4912280702%
+	[███████████████████]
+linear_2_to_the_10th/443.rtre 61.4035087719%
+	[████████████       ]
+linear_2_to_the_10th/447.rtre 71.9298245614%
+	[██████████████     ]
+linear_2_to_the_10th/492.rtre 96.4912280702%
+	[███████████████████]
+linear_2_to_the_10th/506.rtre 82.4561403509%
+	[████████████████   ]
+linear_2_to_the_10th/59.rtre 57.8947368421%
+	[███████████        ]
+linear_2_to_the_10th/597.rtre 80.701754386%
+	[████████████████   ]
+linear_2_to_the_10th/599.rtre 50.8771929825%
+	[██████████         ]
+linear_2_to_the_10th/60.rtre 49.1228070175%
+	[█████████          ]
+linear_2_to_the_10th/611.rtre 42.1052631579%
+	[████████           ]
+linear_2_to_the_10th/660.rtre 43.8596491228%
+	[████████           ]
+linear_2_to_the_10th/740.rtre 61.4035087719%
+	[████████████       ]
+linear_2_to_the_10th/796.rtre 42.1052631579%
+	[████████           ]
+linear_2_to_the_10th/851.rtre 45.6140350877%
+	[█████████          ]
+linear_2_to_the_10th/86.rtre 57.8947368421%
+	[███████████        ]
+linear_2_to_the_10th/869.rtre 68.4210526316%
+	[█████████████      ]
+linear_2_to_the_10th/913.rtre 94.7368421053%
+	[██████████████████ ]
+linear_2_to_the_10th/938.rtre 40.350877193%
+	[████████           ]
+linear_2_to_the_10th/987.rtre 75.4385964912%
+	[███████████████    ]
+linear_2_to_the_10th/991.rtre 38.5964912281%
+	[███████            ]
+Average file usage: 63.6418632789%
+	[████████████       ]
+Filename 		Disk space
+linear_2_to_the_10th/1.rtre 	 38Kb
+linear_2_to_the_10th/1045.rtre 	 38Kb
+linear_2_to_the_10th/121.rtre 	 37Kb
+linear_2_to_the_10th/194.rtre 	 27Kb
+linear_2_to_the_10th/212.rtre 	 36Kb
+linear_2_to_the_10th/259.rtre 	 35Kb
+linear_2_to_the_10th/307.rtre 	 51Kb
+linear_2_to_the_10th/321.rtre 	 36Kb
+linear_2_to_the_10th/366.rtre 	 46Kb
+linear_2_to_the_10th/369.rtre 	 56Kb
+linear_2_to_the_10th/443.rtre 	 36Kb
+linear_2_to_the_10th/447.rtre 	 42Kb
+linear_2_to_the_10th/492.rtre 	 56Kb
+linear_2_to_the_10th/506.rtre 	 48Kb
+linear_2_to_the_10th/59.rtre 	 34Kb
+linear_2_to_the_10th/597.rtre 	 47Kb
+linear_2_to_the_10th/599.rtre 	 30Kb
+linear_2_to_the_10th/60.rtre 	 29Kb
+linear_2_to_the_10th/611.rtre 	 25Kb
+linear_2_to_the_10th/660.rtre 	 26Kb
+linear_2_to_the_10th/740.rtre 	 36Kb
+linear_2_to_the_10th/796.rtre 	 25Kb
+linear_2_to_the_10th/851.rtre 	 27Kb
+linear_2_to_the_10th/86.rtre 	 34Kb
+linear_2_to_the_10th/869.rtre 	 40Kb
+linear_2_to_the_10th/913.rtre 	 55Kb
+linear_2_to_the_10th/938.rtre 	 24Kb
+linear_2_to_the_10th/987.rtre 	 44Kb
+linear_2_to_the_10th/991.rtre 	 23Kb
+tota 	 1081Kb

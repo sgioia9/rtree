@@ -1,0 +1,1503 @@
+
+rchar: 90590599
+wchar: 91850536
+syscr: 48398
+syscw: 49147
+read_bytes: 0
+write_bytes: 0
+cancelled_write_bytes: 0
+
+Duration: 38.5531878471 seconds.
+Files created: 496
+linear_2_to_the_14th/1.rtre 38.5964912281%
+	[███████            ]
+linear_2_to_the_14th/10011.rtre 63.1578947368%
+	[████████████       ]
+linear_2_to_the_14th/10035.rtre 70.1754385965%
+	[██████████████     ]
+linear_2_to_the_14th/10090.rtre 38.5964912281%
+	[███████            ]
+linear_2_to_the_14th/10097.rtre 61.4035087719%
+	[████████████       ]
+linear_2_to_the_14th/10149.rtre 50.8771929825%
+	[██████████         ]
+linear_2_to_the_14th/10200.rtre 94.7368421053%
+	[██████████████████ ]
+linear_2_to_the_14th/10248.rtre 38.5964912281%
+	[███████            ]
+linear_2_to_the_14th/10261.rtre 70.1754385965%
+	[██████████████     ]
+linear_2_to_the_14th/1028.rtre 70.1754385965%
+	[██████████████     ]
+linear_2_to_the_14th/10354.rtre 49.1228070175%
+	[█████████          ]
+linear_2_to_the_14th/10357.rtre 52.6315789474%
+	[██████████         ]
+linear_2_to_the_14th/10411.rtre 40.350877193%
+	[████████           ]
+linear_2_to_the_14th/10432.rtre 80.701754386%
+	[████████████████   ]
+linear_2_to_the_14th/10461.rtre 70.1754385965%
+	[██████████████     ]
+linear_2_to_the_14th/10474.rtre 78.9473684211%
+	[███████████████    ]
+linear_2_to_the_14th/10512.rtre 54.3859649123%
+	[██████████         ]
+linear_2_to_the_14th/1052.rtre 38.5964912281%
+	[███████            ]
+linear_2_to_the_14th/10527.rtre 52.6315789474%
+	[██████████         ]
+linear_2_to_the_14th/10529.rtre 64.9122807018%
+	[████████████       ]
+linear_2_to_the_14th/10625.rtre 38.5964912281%
+	[███████            ]
+linear_2_to_the_14th/10648.rtre 64.9122807018%
+	[████████████       ]
+linear_2_to_the_14th/10651.rtre 43.8596491228%
+	[████████           ]
+linear_2_to_the_14th/10659.rtre 80.701754386%
+	[████████████████   ]
+linear_2_to_the_14th/10686.rtre 63.1578947368%
+	[████████████       ]
+linear_2_to_the_14th/10756.rtre 43.8596491228%
+	[████████           ]
+linear_2_to_the_14th/10785.rtre 54.3859649123%
+	[██████████         ]
+linear_2_to_the_14th/10855.rtre 80.701754386%
+	[████████████████   ]
+linear_2_to_the_14th/10877.rtre 94.7368421053%
+	[██████████████████ ]
+linear_2_to_the_14th/10889.rtre 59.649122807%
+	[███████████        ]
+linear_2_to_the_14th/10907.rtre 45.6140350877%
+	[█████████          ]
+linear_2_to_the_14th/10955.rtre 43.8596491228%
+	[████████           ]
+linear_2_to_the_14th/1096.rtre 66.6666666667%
+	[█████████████      ]
+linear_2_to_the_14th/10977.rtre 57.8947368421%
+	[███████████        ]
+linear_2_to_the_14th/11032.rtre 84.2105263158%
+	[████████████████   ]
+linear_2_to_the_14th/11054.rtre 71.9298245614%
+	[██████████████     ]
+linear_2_to_the_14th/11121.rtre 40.350877193%
+	[████████           ]
+linear_2_to_the_14th/11147.rtre 49.1228070175%
+	[█████████          ]
+linear_2_to_the_14th/11191.rtre 50.8771929825%
+	[██████████         ]
+linear_2_to_the_14th/11212.rtre 61.4035087719%
+	[████████████       ]
+linear_2_to_the_14th/11215.rtre 63.1578947368%
+	[████████████       ]
+linear_2_to_the_14th/11216.rtre 38.5964912281%
+	[███████            ]
+linear_2_to_the_14th/11236.rtre 61.4035087719%
+	[████████████       ]
+linear_2_to_the_14th/11272.rtre 49.1228070175%
+	[█████████          ]
+linear_2_to_the_14th/11344.rtre 64.9122807018%
+	[████████████       ]
+linear_2_to_the_14th/11356.rtre 42.1052631579%
+	[████████           ]
+linear_2_to_the_14th/11390.rtre 49.1228070175%
+	[█████████          ]
+linear_2_to_the_14th/114.rtre 38.5964912281%
+	[███████            ]
+linear_2_to_the_14th/11417.rtre 56.1403508772%
+	[███████████        ]
+linear_2_to_the_14th/11440.rtre 45.6140350877%
+	[█████████          ]
+linear_2_to_the_14th/11515.rtre 89.4736842105%
+	[█████████████████  ]
+linear_2_to_the_14th/11547.rtre 54.3859649123%
+	[██████████         ]
+linear_2_to_the_14th/11552.rtre 61.4035087719%
+	[████████████       ]
+linear_2_to_the_14th/11557.rtre 66.6666666667%
+	[█████████████      ]
+linear_2_to_the_14th/11599.rtre 45.6140350877%
+	[█████████          ]
+linear_2_to_the_14th/11614.rtre 47.3684210526%
+	[█████████          ]
+linear_2_to_the_14th/11663.rtre 50.8771929825%
+	[██████████         ]
+linear_2_to_the_14th/11712.rtre 82.4561403509%
+	[████████████████   ]
+linear_2_to_the_14th/11780.rtre 61.4035087719%
+	[████████████       ]
+linear_2_to_the_14th/1180.rtre 61.4035087719%
+	[████████████       ]
+linear_2_to_the_14th/11805.rtre 43.8596491228%
+	[████████           ]
+linear_2_to_the_14th/11815.rtre 71.9298245614%
+	[██████████████     ]
+linear_2_to_the_14th/1185.rtre 94.7368421053%
+	[██████████████████ ]
+linear_2_to_the_14th/11891.rtre 63.1578947368%
+	[████████████       ]
+linear_2_to_the_14th/11942.rtre 52.6315789474%
+	[██████████         ]
+linear_2_to_the_14th/11998.rtre 38.5964912281%
+	[███████            ]
+linear_2_to_the_14th/12029.rtre 50.8771929825%
+	[██████████         ]
+linear_2_to_the_14th/12087.rtre 61.4035087719%
+	[████████████       ]
+linear_2_to_the_14th/12169.rtre 54.3859649123%
+	[██████████         ]
+linear_2_to_the_14th/12175.rtre 61.4035087719%
+	[████████████       ]
+linear_2_to_the_14th/12180.rtre 50.8771929825%
+	[██████████         ]
+linear_2_to_the_14th/12198.rtre 70.1754385965%
+	[██████████████     ]
+linear_2_to_the_14th/12211.rtre 42.1052631579%
+	[████████           ]
+linear_2_to_the_14th/12291.rtre 63.1578947368%
+	[████████████       ]
+linear_2_to_the_14th/12328.rtre 50.8771929825%
+	[██████████         ]
+linear_2_to_the_14th/12336.rtre 47.3684210526%
+	[█████████          ]
+linear_2_to_the_14th/12388.rtre 45.6140350877%
+	[█████████          ]
+linear_2_to_the_14th/12396.rtre 61.4035087719%
+	[████████████       ]
+linear_2_to_the_14th/12416.rtre 61.4035087719%
+	[████████████       ]
+linear_2_to_the_14th/12417.rtre 47.3684210526%
+	[█████████          ]
+linear_2_to_the_14th/12441.rtre 49.1228070175%
+	[█████████          ]
+linear_2_to_the_14th/12476.rtre 43.8596491228%
+	[████████           ]
+linear_2_to_the_14th/12502.rtre 40.350877193%
+	[████████           ]
+linear_2_to_the_14th/12527.rtre 68.4210526316%
+	[█████████████      ]
+linear_2_to_the_14th/12594.rtre 43.8596491228%
+	[████████           ]
+linear_2_to_the_14th/12618.rtre 68.4210526316%
+	[█████████████      ]
+linear_2_to_the_14th/1262.rtre 96.4912280702%
+	[███████████████████]
+linear_2_to_the_14th/12667.rtre 68.4210526316%
+	[█████████████      ]
+linear_2_to_the_14th/1271.rtre 73.6842105263%
+	[██████████████     ]
+linear_2_to_the_14th/12722.rtre 96.4912280702%
+	[███████████████████]
+linear_2_to_the_14th/12742.rtre 40.350877193%
+	[████████           ]
+linear_2_to_the_14th/12747.rtre 40.350877193%
+	[████████           ]
+linear_2_to_the_14th/12854.rtre 63.1578947368%
+	[████████████       ]
+linear_2_to_the_14th/12885.rtre 77.1929824561%
+	[███████████████    ]
+linear_2_to_the_14th/12887.rtre 38.5964912281%
+	[███████            ]
+linear_2_to_the_14th/12891.rtre 77.1929824561%
+	[███████████████    ]
+linear_2_to_the_14th/12978.rtre 92.9824561404%
+	[██████████████████ ]
+linear_2_to_the_14th/12985.rtre 59.649122807%
+	[███████████        ]
+linear_2_to_the_14th/13047.rtre 40.350877193%
+	[████████           ]
+linear_2_to_the_14th/13062.rtre 47.3684210526%
+	[█████████          ]
+linear_2_to_the_14th/13074.rtre 52.6315789474%
+	[██████████         ]
+linear_2_to_the_14th/13098.rtre 78.9473684211%
+	[███████████████    ]
+linear_2_to_the_14th/13127.rtre 61.4035087719%
+	[████████████       ]
+linear_2_to_the_14th/13138.rtre 61.4035087719%
+	[████████████       ]
+linear_2_to_the_14th/13198.rtre 40.350877193%
+	[████████           ]
+linear_2_to_the_14th/13200.rtre 61.4035087719%
+	[████████████       ]
+linear_2_to_the_14th/13222.rtre 89.4736842105%
+	[█████████████████  ]
+linear_2_to_the_14th/13288.rtre 61.4035087719%
+	[████████████       ]
+linear_2_to_the_14th/13289.rtre 38.5964912281%
+	[███████            ]
+linear_2_to_the_14th/1334.rtre 52.6315789474%
+	[██████████         ]
+linear_2_to_the_14th/13382.rtre 43.8596491228%
+	[████████           ]
+linear_2_to_the_14th/13408.rtre 73.6842105263%
+	[██████████████     ]
+linear_2_to_the_14th/13459.rtre 52.6315789474%
+	[██████████         ]
+linear_2_to_the_14th/13461.rtre 71.9298245614%
+	[██████████████     ]
+linear_2_to_the_14th/13487.rtre 43.8596491228%
+	[████████           ]
+linear_2_to_the_14th/13512.rtre 40.350877193%
+	[████████           ]
+linear_2_to_the_14th/13580.rtre 42.1052631579%
+	[████████           ]
+linear_2_to_the_14th/1360.rtre 61.4035087719%
+	[████████████       ]
+linear_2_to_the_14th/13643.rtre 57.8947368421%
+	[███████████        ]
+linear_2_to_the_14th/13647.rtre 42.1052631579%
+	[████████           ]
+linear_2_to_the_14th/13724.rtre 64.9122807018%
+	[████████████       ]
+linear_2_to_the_14th/13733.rtre 63.1578947368%
+	[████████████       ]
+linear_2_to_the_14th/13802.rtre 57.8947368421%
+	[███████████        ]
+linear_2_to_the_14th/13815.rtre 89.4736842105%
+	[█████████████████  ]
+linear_2_to_the_14th/13832.rtre 66.6666666667%
+	[█████████████      ]
+linear_2_to_the_14th/1385.rtre 40.350877193%
+	[████████           ]
+linear_2_to_the_14th/13870.rtre 61.4035087719%
+	[████████████       ]
+linear_2_to_the_14th/13906.rtre 78.9473684211%
+	[███████████████    ]
+linear_2_to_the_14th/13932.rtre 50.8771929825%
+	[██████████         ]
+linear_2_to_the_14th/13961.rtre 61.4035087719%
+	[████████████       ]
+linear_2_to_the_14th/13989.rtre 47.3684210526%
+	[█████████          ]
+linear_2_to_the_14th/14017.rtre 61.4035087719%
+	[████████████       ]
+linear_2_to_the_14th/14041.rtre 64.9122807018%
+	[████████████       ]
+linear_2_to_the_14th/1405.rtre 66.6666666667%
+	[█████████████      ]
+linear_2_to_the_14th/14065.rtre 68.4210526316%
+	[█████████████      ]
+linear_2_to_the_14th/14106.rtre 63.1578947368%
+	[████████████       ]
+linear_2_to_the_14th/14108.rtre 80.701754386%
+	[████████████████   ]
+linear_2_to_the_14th/1412.rtre 50.8771929825%
+	[██████████         ]
+linear_2_to_the_14th/14188.rtre 52.6315789474%
+	[██████████         ]
+linear_2_to_the_14th/14189.rtre 38.5964912281%
+	[███████            ]
+linear_2_to_the_14th/14224.rtre 52.6315789474%
+	[██████████         ]
+linear_2_to_the_14th/14242.rtre 68.4210526316%
+	[█████████████      ]
+linear_2_to_the_14th/1426.rtre 42.1052631579%
+	[████████           ]
+linear_2_to_the_14th/14275.rtre 89.4736842105%
+	[█████████████████  ]
+linear_2_to_the_14th/14303.rtre 63.1578947368%
+	[████████████       ]
+linear_2_to_the_14th/14312.rtre 50.8771929825%
+	[██████████         ]
+linear_2_to_the_14th/14314.rtre 57.8947368421%
+	[███████████        ]
+linear_2_to_the_14th/14356.rtre 61.4035087719%
+	[████████████       ]
+linear_2_to_the_14th/14382.rtre 84.2105263158%
+	[████████████████   ]
+linear_2_to_the_14th/14453.rtre 43.8596491228%
+	[████████           ]
+linear_2_to_the_14th/14493.rtre 61.4035087719%
+	[████████████       ]
+linear_2_to_the_14th/14521.rtre 77.1929824561%
+	[███████████████    ]
+linear_2_to_the_14th/14551.rtre 38.5964912281%
+	[███████            ]
+linear_2_to_the_14th/14586.rtre 42.1052631579%
+	[████████           ]
+linear_2_to_the_14th/14638.rtre 63.1578947368%
+	[████████████       ]
+linear_2_to_the_14th/14676.rtre 89.4736842105%
+	[█████████████████  ]
+linear_2_to_the_14th/14726.rtre 61.4035087719%
+	[████████████       ]
+linear_2_to_the_14th/14730.rtre 38.5964912281%
+	[███████            ]
+linear_2_to_the_14th/14762.rtre 80.701754386%
+	[████████████████   ]
+linear_2_to_the_14th/14821.rtre 61.4035087719%
+	[████████████       ]
+linear_2_to_the_14th/14829.rtre 70.1754385965%
+	[██████████████     ]
+linear_2_to_the_14th/14860.rtre 38.5964912281%
+	[███████            ]
+linear_2_to_the_14th/14878.rtre 61.4035087719%
+	[████████████       ]
+linear_2_to_the_14th/14948.rtre 61.4035087719%
+	[████████████       ]
+linear_2_to_the_14th/14972.rtre 61.4035087719%
+	[████████████       ]
+linear_2_to_the_14th/14973.rtre 61.4035087719%
+	[████████████       ]
+linear_2_to_the_14th/14992.rtre 70.1754385965%
+	[██████████████     ]
+linear_2_to_the_14th/15012.rtre 66.6666666667%
+	[█████████████      ]
+linear_2_to_the_14th/15055.rtre 57.8947368421%
+	[███████████        ]
+linear_2_to_the_14th/15062.rtre 47.3684210526%
+	[█████████          ]
+linear_2_to_the_14th/15102.rtre 63.1578947368%
+	[████████████       ]
+linear_2_to_the_14th/15158.rtre 91.2280701754%
+	[██████████████████ ]
+linear_2_to_the_14th/1519.rtre 63.1578947368%
+	[████████████       ]
+linear_2_to_the_14th/15192.rtre 77.1929824561%
+	[███████████████    ]
+linear_2_to_the_14th/15231.rtre 43.8596491228%
+	[████████           ]
+linear_2_to_the_14th/1527.rtre 64.9122807018%
+	[████████████       ]
+linear_2_to_the_14th/15302.rtre 56.1403508772%
+	[███████████        ]
+linear_2_to_the_14th/15362.rtre 56.1403508772%
+	[███████████        ]
+linear_2_to_the_14th/15364.rtre 54.3859649123%
+	[██████████         ]
+linear_2_to_the_14th/15369.rtre 54.3859649123%
+	[██████████         ]
+linear_2_to_the_14th/15425.rtre 71.9298245614%
+	[██████████████     ]
+linear_2_to_the_14th/15487.rtre 71.9298245614%
+	[██████████████     ]
+linear_2_to_the_14th/15560.rtre 64.9122807018%
+	[████████████       ]
+linear_2_to_the_14th/15611.rtre 43.8596491228%
+	[████████           ]
+linear_2_to_the_14th/15652.rtre 50.8771929825%
+	[██████████         ]
+linear_2_to_the_14th/15695.rtre 56.1403508772%
+	[███████████        ]
+linear_2_to_the_14th/15723.rtre 38.5964912281%
+	[███████            ]
+linear_2_to_the_14th/15738.rtre 38.5964912281%
+	[███████            ]
+linear_2_to_the_14th/15766.rtre 61.4035087719%
+	[████████████       ]
+linear_2_to_the_14th/15821.rtre 38.5964912281%
+	[███████            ]
+linear_2_to_the_14th/15857.rtre 63.1578947368%
+	[████████████       ]
+linear_2_to_the_14th/1586.rtre 68.4210526316%
+	[█████████████      ]
+linear_2_to_the_14th/15878.rtre 38.5964912281%
+	[███████            ]
+linear_2_to_the_14th/15955.rtre 68.4210526316%
+	[█████████████      ]
+linear_2_to_the_14th/15968.rtre 61.4035087719%
+	[████████████       ]
+linear_2_to_the_14th/1603.rtre 45.6140350877%
+	[█████████          ]
+linear_2_to_the_14th/16030.rtre 66.6666666667%
+	[█████████████      ]
+linear_2_to_the_14th/16032.rtre 61.4035087719%
+	[████████████       ]
+linear_2_to_the_14th/16038.rtre 61.4035087719%
+	[████████████       ]
+linear_2_to_the_14th/16082.rtre 71.9298245614%
+	[██████████████     ]
+linear_2_to_the_14th/16089.rtre 61.4035087719%
+	[████████████       ]
+linear_2_to_the_14th/16092.rtre 47.3684210526%
+	[█████████          ]
+linear_2_to_the_14th/16130.rtre 64.9122807018%
+	[████████████       ]
+linear_2_to_the_14th/16183.rtre 61.4035087719%
+	[████████████       ]
+linear_2_to_the_14th/16238.rtre 40.350877193%
+	[████████           ]
+linear_2_to_the_14th/16242.rtre 68.4210526316%
+	[█████████████      ]
+linear_2_to_the_14th/16294.rtre 38.5964912281%
+	[███████            ]
+linear_2_to_the_14th/16295.rtre 85.9649122807%
+	[█████████████████  ]
+linear_2_to_the_14th/163.rtre 43.8596491228%
+	[████████           ]
+linear_2_to_the_14th/1633.rtre 87.7192982456%
+	[█████████████████  ]
+linear_2_to_the_14th/16348.rtre 38.5964912281%
+	[███████            ]
+linear_2_to_the_14th/16351.rtre 38.5964912281%
+	[███████            ]
+linear_2_to_the_14th/16381.rtre 42.1052631579%
+	[████████           ]
+linear_2_to_the_14th/16405.rtre 63.1578947368%
+	[████████████       ]
+linear_2_to_the_14th/16443.rtre 98.2456140351%
+	[███████████████████]
+linear_2_to_the_14th/16459.rtre 61.4035087719%
+	[████████████       ]
+linear_2_to_the_14th/16498.rtre 42.1052631579%
+	[████████           ]
+linear_2_to_the_14th/1656.rtre 56.1403508772%
+	[███████████        ]
+linear_2_to_the_14th/16575.rtre 75.4385964912%
+	[███████████████    ]
+linear_2_to_the_14th/16596.rtre 38.5964912281%
+	[███████            ]
+linear_2_to_the_14th/1664.rtre 61.4035087719%
+	[████████████       ]
+linear_2_to_the_14th/16654.rtre 64.9122807018%
+	[████████████       ]
+linear_2_to_the_14th/16670.rtre 66.6666666667%
+	[█████████████      ]
+linear_2_to_the_14th/16679.rtre 47.3684210526%
+	[█████████          ]
+linear_2_to_the_14th/16682.rtre 63.1578947368%
+	[████████████       ]
+linear_2_to_the_14th/16750.rtre 61.4035087719%
+	[████████████       ]
+linear_2_to_the_14th/1677.rtre 52.6315789474%
+	[██████████         ]
+linear_2_to_the_14th/16787.rtre 61.4035087719%
+	[████████████       ]
+linear_2_to_the_14th/16797.rtre 92.9824561404%
+	[██████████████████ ]
+linear_2_to_the_14th/1689.rtre 87.7192982456%
+	[█████████████████  ]
+linear_2_to_the_14th/1717.rtre 71.9298245614%
+	[██████████████     ]
+linear_2_to_the_14th/1797.rtre 50.8771929825%
+	[██████████         ]
+linear_2_to_the_14th/1890.rtre 43.8596491228%
+	[████████           ]
+linear_2_to_the_14th/1893.rtre 61.4035087719%
+	[████████████       ]
+linear_2_to_the_14th/1930.rtre 61.4035087719%
+	[████████████       ]
+linear_2_to_the_14th/1956.rtre 50.8771929825%
+	[██████████         ]
+linear_2_to_the_14th/198.rtre 42.1052631579%
+	[████████           ]
+linear_2_to_the_14th/1985.rtre 47.3684210526%
+	[█████████          ]
+linear_2_to_the_14th/1986.rtre 47.3684210526%
+	[█████████          ]
+linear_2_to_the_14th/1987.rtre 29.8245614035%
+	[█████              ]
+linear_2_to_the_14th/1994.rtre 38.5964912281%
+	[███████            ]
+linear_2_to_the_14th/1999.rtre 64.9122807018%
+	[████████████       ]
+linear_2_to_the_14th/2067.rtre 43.8596491228%
+	[████████           ]
+linear_2_to_the_14th/2093.rtre 52.6315789474%
+	[██████████         ]
+linear_2_to_the_14th/2182.rtre 47.3684210526%
+	[█████████          ]
+linear_2_to_the_14th/2194.rtre 77.1929824561%
+	[███████████████    ]
+linear_2_to_the_14th/2224.rtre 63.1578947368%
+	[████████████       ]
+linear_2_to_the_14th/2269.rtre 43.8596491228%
+	[████████           ]
+linear_2_to_the_14th/2288.rtre 73.6842105263%
+	[██████████████     ]
+linear_2_to_the_14th/230.rtre 54.3859649123%
+	[██████████         ]
+linear_2_to_the_14th/2321.rtre 63.1578947368%
+	[████████████       ]
+linear_2_to_the_14th/2327.rtre 80.701754386%
+	[████████████████   ]
+linear_2_to_the_14th/2349.rtre 61.4035087719%
+	[████████████       ]
+linear_2_to_the_14th/2387.rtre 47.3684210526%
+	[█████████          ]
+linear_2_to_the_14th/2408.rtre 38.5964912281%
+	[███████            ]
+linear_2_to_the_14th/2490.rtre 68.4210526316%
+	[█████████████      ]
+linear_2_to_the_14th/2584.rtre 75.4385964912%
+	[███████████████    ]
+linear_2_to_the_14th/2615.rtre 52.6315789474%
+	[██████████         ]
+linear_2_to_the_14th/2660.rtre 82.4561403509%
+	[████████████████   ]
+linear_2_to_the_14th/2699.rtre 40.350877193%
+	[████████           ]
+linear_2_to_the_14th/2744.rtre 61.4035087719%
+	[████████████       ]
+linear_2_to_the_14th/2775.rtre 66.6666666667%
+	[█████████████      ]
+linear_2_to_the_14th/2807.rtre 75.4385964912%
+	[███████████████    ]
+linear_2_to_the_14th/2808.rtre 61.4035087719%
+	[████████████       ]
+linear_2_to_the_14th/2811.rtre 54.3859649123%
+	[██████████         ]
+linear_2_to_the_14th/2832.rtre 61.4035087719%
+	[████████████       ]
+linear_2_to_the_14th/284.rtre 42.1052631579%
+	[████████           ]
+linear_2_to_the_14th/2859.rtre 70.1754385965%
+	[██████████████     ]
+linear_2_to_the_14th/2907.rtre 61.4035087719%
+	[████████████       ]
+linear_2_to_the_14th/2926.rtre 50.8771929825%
+	[██████████         ]
+linear_2_to_the_14th/3040.rtre 84.2105263158%
+	[████████████████   ]
+linear_2_to_the_14th/3075.rtre 42.1052631579%
+	[████████           ]
+linear_2_to_the_14th/3078.rtre 45.6140350877%
+	[█████████          ]
+linear_2_to_the_14th/3111.rtre 61.4035087719%
+	[████████████       ]
+linear_2_to_the_14th/3128.rtre 45.6140350877%
+	[█████████          ]
+linear_2_to_the_14th/3138.rtre 43.8596491228%
+	[████████           ]
+linear_2_to_the_14th/3193.rtre 59.649122807%
+	[███████████        ]
+linear_2_to_the_14th/3295.rtre 63.1578947368%
+	[████████████       ]
+linear_2_to_the_14th/331.rtre 68.4210526316%
+	[█████████████      ]
+linear_2_to_the_14th/3341.rtre 82.4561403509%
+	[████████████████   ]
+linear_2_to_the_14th/3418.rtre 59.649122807%
+	[███████████        ]
+linear_2_to_the_14th/3421.rtre 45.6140350877%
+	[█████████          ]
+linear_2_to_the_14th/3430.rtre 77.1929824561%
+	[███████████████    ]
+linear_2_to_the_14th/3485.rtre 66.6666666667%
+	[█████████████      ]
+linear_2_to_the_14th/3518.rtre 66.6666666667%
+	[█████████████      ]
+linear_2_to_the_14th/3541.rtre 50.8771929825%
+	[██████████         ]
+linear_2_to_the_14th/3582.rtre 96.4912280702%
+	[███████████████████]
+linear_2_to_the_14th/3619.rtre 38.5964912281%
+	[███████            ]
+linear_2_to_the_14th/3620.rtre 43.8596491228%
+	[████████           ]
+linear_2_to_the_14th/3678.rtre 77.1929824561%
+	[███████████████    ]
+linear_2_to_the_14th/3693.rtre 59.649122807%
+	[███████████        ]
+linear_2_to_the_14th/3700.rtre 52.6315789474%
+	[██████████         ]
+linear_2_to_the_14th/3733.rtre 71.9298245614%
+	[██████████████     ]
+linear_2_to_the_14th/3800.rtre 40.350877193%
+	[████████           ]
+linear_2_to_the_14th/382.rtre 56.1403508772%
+	[███████████        ]
+linear_2_to_the_14th/3839.rtre 45.6140350877%
+	[█████████          ]
+linear_2_to_the_14th/3850.rtre 66.6666666667%
+	[█████████████      ]
+linear_2_to_the_14th/3881.rtre 66.6666666667%
+	[█████████████      ]
+linear_2_to_the_14th/3904.rtre 50.8771929825%
+	[██████████         ]
+linear_2_to_the_14th/3938.rtre 59.649122807%
+	[███████████        ]
+linear_2_to_the_14th/3960.rtre 66.6666666667%
+	[█████████████      ]
+linear_2_to_the_14th/3976.rtre 38.5964912281%
+	[███████            ]
+linear_2_to_the_14th/4023.rtre 38.5964912281%
+	[███████            ]
+linear_2_to_the_14th/4076.rtre 43.8596491228%
+	[████████           ]
+linear_2_to_the_14th/4089.rtre 92.9824561404%
+	[██████████████████ ]
+linear_2_to_the_14th/4129.rtre 66.6666666667%
+	[█████████████      ]
+linear_2_to_the_14th/4142.rtre 42.1052631579%
+	[████████           ]
+linear_2_to_the_14th/419.rtre 57.8947368421%
+	[███████████        ]
+linear_2_to_the_14th/4248.rtre 49.1228070175%
+	[█████████          ]
+linear_2_to_the_14th/4273.rtre 38.5964912281%
+	[███████            ]
+linear_2_to_the_14th/4280.rtre 57.8947368421%
+	[███████████        ]
+linear_2_to_the_14th/4285.rtre 38.5964912281%
+	[███████            ]
+linear_2_to_the_14th/4325.rtre 61.4035087719%
+	[████████████       ]
+linear_2_to_the_14th/4392.rtre 66.6666666667%
+	[█████████████      ]
+linear_2_to_the_14th/4416.rtre 38.5964912281%
+	[███████            ]
+linear_2_to_the_14th/446.rtre 89.4736842105%
+	[█████████████████  ]
+linear_2_to_the_14th/4463.rtre 61.4035087719%
+	[████████████       ]
+linear_2_to_the_14th/4534.rtre 61.4035087719%
+	[████████████       ]
+linear_2_to_the_14th/4550.rtre 63.1578947368%
+	[████████████       ]
+linear_2_to_the_14th/4573.rtre 63.1578947368%
+	[████████████       ]
+linear_2_to_the_14th/4575.rtre 49.1228070175%
+	[█████████          ]
+linear_2_to_the_14th/4609.rtre 64.9122807018%
+	[████████████       ]
+linear_2_to_the_14th/4626.rtre 49.1228070175%
+	[█████████          ]
+linear_2_to_the_14th/4656.rtre 63.1578947368%
+	[████████████       ]
+linear_2_to_the_14th/4705.rtre 61.4035087719%
+	[████████████       ]
+linear_2_to_the_14th/4721.rtre 49.1228070175%
+	[█████████          ]
+linear_2_to_the_14th/4740.rtre 61.4035087719%
+	[████████████       ]
+linear_2_to_the_14th/4763.rtre 59.649122807%
+	[███████████        ]
+linear_2_to_the_14th/478.rtre 61.4035087719%
+	[████████████       ]
+linear_2_to_the_14th/4798.rtre 61.4035087719%
+	[████████████       ]
+linear_2_to_the_14th/4799.rtre 47.3684210526%
+	[█████████          ]
+linear_2_to_the_14th/4879.rtre 63.1578947368%
+	[████████████       ]
+linear_2_to_the_14th/488.rtre 78.9473684211%
+	[███████████████    ]
+linear_2_to_the_14th/4902.rtre 54.3859649123%
+	[██████████         ]
+linear_2_to_the_14th/4912.rtre 38.5964912281%
+	[███████            ]
+linear_2_to_the_14th/4924.rtre 42.1052631579%
+	[████████           ]
+linear_2_to_the_14th/4942.rtre 61.4035087719%
+	[████████████       ]
+linear_2_to_the_14th/4999.rtre 78.9473684211%
+	[███████████████    ]
+linear_2_to_the_14th/5067.rtre 52.6315789474%
+	[██████████         ]
+linear_2_to_the_14th/5103.rtre 78.9473684211%
+	[███████████████    ]
+linear_2_to_the_14th/5177.rtre 57.8947368421%
+	[███████████        ]
+linear_2_to_the_14th/522.rtre 38.5964912281%
+	[███████            ]
+linear_2_to_the_14th/5224.rtre 49.1228070175%
+	[█████████          ]
+linear_2_to_the_14th/5257.rtre 42.1052631579%
+	[████████           ]
+linear_2_to_the_14th/5336.rtre 64.9122807018%
+	[████████████       ]
+linear_2_to_the_14th/5363.rtre 71.9298245614%
+	[██████████████     ]
+linear_2_to_the_14th/5382.rtre 63.1578947368%
+	[████████████       ]
+linear_2_to_the_14th/5401.rtre 71.9298245614%
+	[██████████████     ]
+linear_2_to_the_14th/5429.rtre 61.4035087719%
+	[████████████       ]
+linear_2_to_the_14th/5450.rtre 38.5964912281%
+	[███████            ]
+linear_2_to_the_14th/5495.rtre 43.8596491228%
+	[████████           ]
+linear_2_to_the_14th/5522.rtre 38.5964912281%
+	[███████            ]
+linear_2_to_the_14th/5584.rtre 63.1578947368%
+	[████████████       ]
+linear_2_to_the_14th/5612.rtre 61.4035087719%
+	[████████████       ]
+linear_2_to_the_14th/5625.rtre 61.4035087719%
+	[████████████       ]
+linear_2_to_the_14th/5626.rtre 40.350877193%
+	[████████           ]
+linear_2_to_the_14th/5663.rtre 43.8596491228%
+	[████████           ]
+linear_2_to_the_14th/5683.rtre 63.1578947368%
+	[████████████       ]
+linear_2_to_the_14th/5724.rtre 87.7192982456%
+	[█████████████████  ]
+linear_2_to_the_14th/574.rtre 45.6140350877%
+	[█████████          ]
+linear_2_to_the_14th/5795.rtre 66.6666666667%
+	[█████████████      ]
+linear_2_to_the_14th/5807.rtre 38.5964912281%
+	[███████            ]
+linear_2_to_the_14th/5832.rtre 73.6842105263%
+	[██████████████     ]
+linear_2_to_the_14th/5875.rtre 38.5964912281%
+	[███████            ]
+linear_2_to_the_14th/5877.rtre 80.701754386%
+	[████████████████   ]
+linear_2_to_the_14th/59.rtre 50.8771929825%
+	[██████████         ]
+linear_2_to_the_14th/5926.rtre 66.6666666667%
+	[█████████████      ]
+linear_2_to_the_14th/5963.rtre 82.4561403509%
+	[████████████████   ]
+linear_2_to_the_14th/60.rtre 42.1052631579%
+	[████████           ]
+linear_2_to_the_14th/6009.rtre 52.6315789474%
+	[██████████         ]
+linear_2_to_the_14th/6018.rtre 73.6842105263%
+	[██████████████     ]
+linear_2_to_the_14th/607.rtre 38.5964912281%
+	[███████            ]
+linear_2_to_the_14th/6089.rtre 56.1403508772%
+	[███████████        ]
+linear_2_to_the_14th/6112.rtre 63.1578947368%
+	[████████████       ]
+linear_2_to_the_14th/6146.rtre 61.4035087719%
+	[████████████       ]
+linear_2_to_the_14th/6175.rtre 92.9824561404%
+	[██████████████████ ]
+linear_2_to_the_14th/6233.rtre 38.5964912281%
+	[███████            ]
+linear_2_to_the_14th/6238.rtre 61.4035087719%
+	[████████████       ]
+linear_2_to_the_14th/6246.rtre 38.5964912281%
+	[███████            ]
+linear_2_to_the_14th/627.rtre 77.1929824561%
+	[███████████████    ]
+linear_2_to_the_14th/6313.rtre 71.9298245614%
+	[██████████████     ]
+linear_2_to_the_14th/6319.rtre 38.5964912281%
+	[███████            ]
+linear_2_to_the_14th/6438.rtre 68.4210526316%
+	[█████████████      ]
+linear_2_to_the_14th/644.rtre 61.4035087719%
+	[████████████       ]
+linear_2_to_the_14th/6456.rtre 61.4035087719%
+	[████████████       ]
+linear_2_to_the_14th/6457.rtre 45.6140350877%
+	[█████████          ]
+linear_2_to_the_14th/6522.rtre 61.4035087719%
+	[████████████       ]
+linear_2_to_the_14th/6530.rtre 61.4035087719%
+	[████████████       ]
+linear_2_to_the_14th/6583.rtre 94.7368421053%
+	[██████████████████ ]
+linear_2_to_the_14th/6612.rtre 40.350877193%
+	[████████           ]
+linear_2_to_the_14th/6644.rtre 42.1052631579%
+	[████████           ]
+linear_2_to_the_14th/6652.rtre 64.9122807018%
+	[████████████       ]
+linear_2_to_the_14th/6717.rtre 61.4035087719%
+	[████████████       ]
+linear_2_to_the_14th/6730.rtre 63.1578947368%
+	[████████████       ]
+linear_2_to_the_14th/674.rtre 59.649122807%
+	[███████████        ]
+linear_2_to_the_14th/6777.rtre 49.1228070175%
+	[█████████          ]
+linear_2_to_the_14th/6849.rtre 47.3684210526%
+	[█████████          ]
+linear_2_to_the_14th/686.rtre 80.701754386%
+	[████████████████   ]
+linear_2_to_the_14th/6897.rtre 61.4035087719%
+	[████████████       ]
+linear_2_to_the_14th/6934.rtre 80.701754386%
+	[████████████████   ]
+linear_2_to_the_14th/7023.rtre 66.6666666667%
+	[█████████████      ]
+linear_2_to_the_14th/7032.rtre 59.649122807%
+	[███████████        ]
+linear_2_to_the_14th/7046.rtre 56.1403508772%
+	[███████████        ]
+linear_2_to_the_14th/7096.rtre 91.2280701754%
+	[██████████████████ ]
+linear_2_to_the_14th/7100.rtre 38.5964912281%
+	[███████            ]
+linear_2_to_the_14th/7113.rtre 61.4035087719%
+	[████████████       ]
+linear_2_to_the_14th/7213.rtre 63.1578947368%
+	[████████████       ]
+linear_2_to_the_14th/7272.rtre 98.2456140351%
+	[███████████████████]
+linear_2_to_the_14th/7294.rtre 38.5964912281%
+	[███████            ]
+linear_2_to_the_14th/733.rtre 80.701754386%
+	[████████████████   ]
+linear_2_to_the_14th/7378.rtre 92.9824561404%
+	[██████████████████ ]
+linear_2_to_the_14th/7418.rtre 42.1052631579%
+	[████████           ]
+linear_2_to_the_14th/7419.rtre 38.5964912281%
+	[███████            ]
+linear_2_to_the_14th/7428.rtre 43.8596491228%
+	[████████           ]
+linear_2_to_the_14th/7492.rtre 61.4035087719%
+	[████████████       ]
+linear_2_to_the_14th/7496.rtre 82.4561403509%
+	[████████████████   ]
+linear_2_to_the_14th/7522.rtre 50.8771929825%
+	[██████████         ]
+linear_2_to_the_14th/7562.rtre 50.8771929825%
+	[██████████         ]
+linear_2_to_the_14th/7582.rtre 84.2105263158%
+	[████████████████   ]
+linear_2_to_the_14th/7665.rtre 40.350877193%
+	[████████           ]
+linear_2_to_the_14th/7683.rtre 38.5964912281%
+	[███████            ]
+linear_2_to_the_14th/7712.rtre 66.6666666667%
+	[█████████████      ]
+linear_2_to_the_14th/7722.rtre 56.1403508772%
+	[███████████        ]
+linear_2_to_the_14th/7761.rtre 61.4035087719%
+	[████████████       ]
+linear_2_to_the_14th/7823.rtre 64.9122807018%
+	[████████████       ]
+linear_2_to_the_14th/788.rtre 77.1929824561%
+	[███████████████    ]
+linear_2_to_the_14th/7887.rtre 38.5964912281%
+	[███████            ]
+linear_2_to_the_14th/7920.rtre 63.1578947368%
+	[████████████       ]
+linear_2_to_the_14th/7934.rtre 61.4035087719%
+	[████████████       ]
+linear_2_to_the_14th/7948.rtre 66.6666666667%
+	[█████████████      ]
+linear_2_to_the_14th/800.rtre 63.1578947368%
+	[████████████       ]
+linear_2_to_the_14th/8016.rtre 80.701754386%
+	[████████████████   ]
+linear_2_to_the_14th/8095.rtre 82.4561403509%
+	[████████████████   ]
+linear_2_to_the_14th/8105.rtre 45.6140350877%
+	[█████████          ]
+linear_2_to_the_14th/8128.rtre 66.6666666667%
+	[█████████████      ]
+linear_2_to_the_14th/8140.rtre 94.7368421053%
+	[██████████████████ ]
+linear_2_to_the_14th/8150.rtre 61.4035087719%
+	[████████████       ]
+linear_2_to_the_14th/8160.rtre 96.4912280702%
+	[███████████████████]
+linear_2_to_the_14th/8166.rtre 61.4035087719%
+	[████████████       ]
+linear_2_to_the_14th/8222.rtre 64.9122807018%
+	[████████████       ]
+linear_2_to_the_14th/8236.rtre 61.4035087719%
+	[████████████       ]
+linear_2_to_the_14th/8237.rtre 42.1052631579%
+	[████████           ]
+linear_2_to_the_14th/8244.rtre 61.4035087719%
+	[████████████       ]
+linear_2_to_the_14th/8306.rtre 64.9122807018%
+	[████████████       ]
+linear_2_to_the_14th/8355.rtre 85.9649122807%
+	[█████████████████  ]
+linear_2_to_the_14th/8374.rtre 38.5964912281%
+	[███████            ]
+linear_2_to_the_14th/8410.rtre 63.1578947368%
+	[████████████       ]
+linear_2_to_the_14th/8431.rtre 40.350877193%
+	[████████           ]
+linear_2_to_the_14th/8433.rtre 61.4035087719%
+	[████████████       ]
+linear_2_to_the_14th/8519.rtre 98.2456140351%
+	[███████████████████]
+linear_2_to_the_14th/8543.rtre 45.6140350877%
+	[█████████          ]
+linear_2_to_the_14th/8593.rtre 96.4912280702%
+	[███████████████████]
+linear_2_to_the_14th/8628.rtre 80.701754386%
+	[████████████████   ]
+linear_2_to_the_14th/863.rtre 54.3859649123%
+	[██████████         ]
+linear_2_to_the_14th/8660.rtre 63.1578947368%
+	[████████████       ]
+linear_2_to_the_14th/8672.rtre 73.6842105263%
+	[██████████████     ]
+linear_2_to_the_14th/87.rtre 75.4385964912%
+	[███████████████    ]
+linear_2_to_the_14th/8731.rtre 40.350877193%
+	[████████           ]
+linear_2_to_the_14th/8757.rtre 75.4385964912%
+	[███████████████    ]
+linear_2_to_the_14th/8798.rtre 40.350877193%
+	[████████           ]
+linear_2_to_the_14th/8818.rtre 38.5964912281%
+	[███████            ]
+linear_2_to_the_14th/8862.rtre 47.3684210526%
+	[█████████          ]
+linear_2_to_the_14th/8886.rtre 61.4035087719%
+	[████████████       ]
+linear_2_to_the_14th/8945.rtre 63.1578947368%
+	[████████████       ]
+linear_2_to_the_14th/8981.rtre 47.3684210526%
+	[█████████          ]
+linear_2_to_the_14th/9028.rtre 92.9824561404%
+	[██████████████████ ]
+linear_2_to_the_14th/9070.rtre 61.4035087719%
+	[████████████       ]
+linear_2_to_the_14th/9095.rtre 40.350877193%
+	[████████           ]
+linear_2_to_the_14th/9096.rtre 57.8947368421%
+	[███████████        ]
+linear_2_to_the_14th/9138.rtre 96.4912280702%
+	[███████████████████]
+linear_2_to_the_14th/914.rtre 49.1228070175%
+	[█████████          ]
+linear_2_to_the_14th/9141.rtre 73.6842105263%
+	[██████████████     ]
+linear_2_to_the_14th/918.rtre 70.1754385965%
+	[██████████████     ]
+linear_2_to_the_14th/9211.rtre 40.350877193%
+	[████████           ]
+linear_2_to_the_14th/9293.rtre 63.1578947368%
+	[████████████       ]
+linear_2_to_the_14th/9335.rtre 40.350877193%
+	[████████           ]
+linear_2_to_the_14th/9339.rtre 38.5964912281%
+	[███████            ]
+linear_2_to_the_14th/9377.rtre 68.4210526316%
+	[█████████████      ]
+linear_2_to_the_14th/9380.rtre 54.3859649123%
+	[██████████         ]
+linear_2_to_the_14th/9389.rtre 70.1754385965%
+	[██████████████     ]
+linear_2_to_the_14th/9444.rtre 98.2456140351%
+	[███████████████████]
+linear_2_to_the_14th/9451.rtre 78.9473684211%
+	[███████████████    ]
+linear_2_to_the_14th/9502.rtre 56.1403508772%
+	[███████████        ]
+linear_2_to_the_14th/9533.rtre 59.649122807%
+	[███████████        ]
+linear_2_to_the_14th/9587.rtre 63.1578947368%
+	[████████████       ]
+linear_2_to_the_14th/9670.rtre 80.701754386%
+	[████████████████   ]
+linear_2_to_the_14th/9729.rtre 64.9122807018%
+	[████████████       ]
+linear_2_to_the_14th/9756.rtre 63.1578947368%
+	[████████████       ]
+linear_2_to_the_14th/9768.rtre 75.4385964912%
+	[███████████████    ]
+linear_2_to_the_14th/9789.rtre 61.4035087719%
+	[████████████       ]
+linear_2_to_the_14th/9839.rtre 61.4035087719%
+	[████████████       ]
+linear_2_to_the_14th/984.rtre 61.4035087719%
+	[████████████       ]
+linear_2_to_the_14th/9848.rtre 80.701754386%
+	[████████████████   ]
+linear_2_to_the_14th/9876.rtre 52.6315789474%
+	[██████████         ]
+linear_2_to_the_14th/9946.rtre 64.9122807018%
+	[████████████       ]
+linear_2_to_the_14th/9947.rtre 61.4035087719%
+	[████████████       ]
+Average file usage: 59.7021788342%
+	[███████████        ]
+Filename 		Disk space
+linear_2_to_the_14th/1.rtre 	 23Kb
+linear_2_to_the_14th/10011.rtre 	 37Kb
+linear_2_to_the_14th/10035.rtre 	 41Kb
+linear_2_to_the_14th/10090.rtre 	 23Kb
+linear_2_to_the_14th/10097.rtre 	 36Kb
+linear_2_to_the_14th/10149.rtre 	 30Kb
+linear_2_to_the_14th/10200.rtre 	 55Kb
+linear_2_to_the_14th/10248.rtre 	 23Kb
+linear_2_to_the_14th/10261.rtre 	 41Kb
+linear_2_to_the_14th/1028.rtre 	 41Kb
+linear_2_to_the_14th/10354.rtre 	 29Kb
+linear_2_to_the_14th/10357.rtre 	 31Kb
+linear_2_to_the_14th/10411.rtre 	 24Kb
+linear_2_to_the_14th/10432.rtre 	 47Kb
+linear_2_to_the_14th/10461.rtre 	 41Kb
+linear_2_to_the_14th/10474.rtre 	 46Kb
+linear_2_to_the_14th/10512.rtre 	 32Kb
+linear_2_to_the_14th/1052.rtre 	 23Kb
+linear_2_to_the_14th/10527.rtre 	 31Kb
+linear_2_to_the_14th/10529.rtre 	 38Kb
+linear_2_to_the_14th/10625.rtre 	 23Kb
+linear_2_to_the_14th/10648.rtre 	 38Kb
+linear_2_to_the_14th/10651.rtre 	 26Kb
+linear_2_to_the_14th/10659.rtre 	 47Kb
+linear_2_to_the_14th/10686.rtre 	 37Kb
+linear_2_to_the_14th/10756.rtre 	 26Kb
+linear_2_to_the_14th/10785.rtre 	 32Kb
+linear_2_to_the_14th/10855.rtre 	 47Kb
+linear_2_to_the_14th/10877.rtre 	 55Kb
+linear_2_to_the_14th/10889.rtre 	 35Kb
+linear_2_to_the_14th/10907.rtre 	 27Kb
+linear_2_to_the_14th/10955.rtre 	 26Kb
+linear_2_to_the_14th/1096.rtre 	 39Kb
+linear_2_to_the_14th/10977.rtre 	 34Kb
+linear_2_to_the_14th/11032.rtre 	 49Kb
+linear_2_to_the_14th/11054.rtre 	 42Kb
+linear_2_to_the_14th/11121.rtre 	 24Kb
+linear_2_to_the_14th/11147.rtre 	 29Kb
+linear_2_to_the_14th/11191.rtre 	 30Kb
+linear_2_to_the_14th/11212.rtre 	 36Kb
+linear_2_to_the_14th/11215.rtre 	 37Kb
+linear_2_to_the_14th/11216.rtre 	 23Kb
+linear_2_to_the_14th/11236.rtre 	 36Kb
+linear_2_to_the_14th/11272.rtre 	 29Kb
+linear_2_to_the_14th/11344.rtre 	 38Kb
+linear_2_to_the_14th/11356.rtre 	 25Kb
+linear_2_to_the_14th/11390.rtre 	 29Kb
+linear_2_to_the_14th/114.rtre 	 23Kb
+linear_2_to_the_14th/11417.rtre 	 33Kb
+linear_2_to_the_14th/11440.rtre 	 27Kb
+linear_2_to_the_14th/11515.rtre 	 52Kb
+linear_2_to_the_14th/11547.rtre 	 32Kb
+linear_2_to_the_14th/11552.rtre 	 36Kb
+linear_2_to_the_14th/11557.rtre 	 39Kb
+linear_2_to_the_14th/11599.rtre 	 27Kb
+linear_2_to_the_14th/11614.rtre 	 28Kb
+linear_2_to_the_14th/11663.rtre 	 30Kb
+linear_2_to_the_14th/11712.rtre 	 48Kb
+linear_2_to_the_14th/11780.rtre 	 36Kb
+linear_2_to_the_14th/1180.rtre 	 36Kb
+linear_2_to_the_14th/11805.rtre 	 26Kb
+linear_2_to_the_14th/11815.rtre 	 42Kb
+linear_2_to_the_14th/1185.rtre 	 55Kb
+linear_2_to_the_14th/11891.rtre 	 37Kb
+linear_2_to_the_14th/11942.rtre 	 31Kb
+linear_2_to_the_14th/11998.rtre 	 23Kb
+linear_2_to_the_14th/12029.rtre 	 30Kb
+linear_2_to_the_14th/12087.rtre 	 36Kb
+linear_2_to_the_14th/12169.rtre 	 32Kb
+linear_2_to_the_14th/12175.rtre 	 36Kb
+linear_2_to_the_14th/12180.rtre 	 30Kb
+linear_2_to_the_14th/12198.rtre 	 41Kb
+linear_2_to_the_14th/12211.rtre 	 25Kb
+linear_2_to_the_14th/12291.rtre 	 37Kb
+linear_2_to_the_14th/12328.rtre 	 30Kb
+linear_2_to_the_14th/12336.rtre 	 28Kb
+linear_2_to_the_14th/12388.rtre 	 27Kb
+linear_2_to_the_14th/12396.rtre 	 36Kb
+linear_2_to_the_14th/12416.rtre 	 36Kb
+linear_2_to_the_14th/12417.rtre 	 28Kb
+linear_2_to_the_14th/12441.rtre 	 29Kb
+linear_2_to_the_14th/12476.rtre 	 26Kb
+linear_2_to_the_14th/12502.rtre 	 24Kb
+linear_2_to_the_14th/12527.rtre 	 40Kb
+linear_2_to_the_14th/12594.rtre 	 26Kb
+linear_2_to_the_14th/12618.rtre 	 40Kb
+linear_2_to_the_14th/1262.rtre 	 56Kb
+linear_2_to_the_14th/12667.rtre 	 40Kb
+linear_2_to_the_14th/1271.rtre 	 43Kb
+linear_2_to_the_14th/12722.rtre 	 56Kb
+linear_2_to_the_14th/12742.rtre 	 24Kb
+linear_2_to_the_14th/12747.rtre 	 24Kb
+linear_2_to_the_14th/12854.rtre 	 37Kb
+linear_2_to_the_14th/12885.rtre 	 45Kb
+linear_2_to_the_14th/12887.rtre 	 23Kb
+linear_2_to_the_14th/12891.rtre 	 45Kb
+linear_2_to_the_14th/12978.rtre 	 54Kb
+linear_2_to_the_14th/12985.rtre 	 35Kb
+linear_2_to_the_14th/13047.rtre 	 24Kb
+linear_2_to_the_14th/13062.rtre 	 28Kb
+linear_2_to_the_14th/13074.rtre 	 31Kb
+linear_2_to_the_14th/13098.rtre 	 46Kb
+linear_2_to_the_14th/13127.rtre 	 36Kb
+linear_2_to_the_14th/13138.rtre 	 36Kb
+linear_2_to_the_14th/13198.rtre 	 24Kb
+linear_2_to_the_14th/13200.rtre 	 36Kb
+linear_2_to_the_14th/13222.rtre 	 52Kb
+linear_2_to_the_14th/13288.rtre 	 36Kb
+linear_2_to_the_14th/13289.rtre 	 23Kb
+linear_2_to_the_14th/1334.rtre 	 31Kb
+linear_2_to_the_14th/13382.rtre 	 26Kb
+linear_2_to_the_14th/13408.rtre 	 43Kb
+linear_2_to_the_14th/13459.rtre 	 31Kb
+linear_2_to_the_14th/13461.rtre 	 42Kb
+linear_2_to_the_14th/13487.rtre 	 26Kb
+linear_2_to_the_14th/13512.rtre 	 24Kb
+linear_2_to_the_14th/13580.rtre 	 25Kb
+linear_2_to_the_14th/1360.rtre 	 36Kb
+linear_2_to_the_14th/13643.rtre 	 34Kb
+linear_2_to_the_14th/13647.rtre 	 25Kb
+linear_2_to_the_14th/13724.rtre 	 38Kb
+linear_2_to_the_14th/13733.rtre 	 37Kb
+linear_2_to_the_14th/13802.rtre 	 34Kb
+linear_2_to_the_14th/13815.rtre 	 52Kb
+linear_2_to_the_14th/13832.rtre 	 39Kb
+linear_2_to_the_14th/1385.rtre 	 24Kb
+linear_2_to_the_14th/13870.rtre 	 36Kb
+linear_2_to_the_14th/13906.rtre 	 46Kb
+linear_2_to_the_14th/13932.rtre 	 30Kb
+linear_2_to_the_14th/13961.rtre 	 36Kb
+linear_2_to_the_14th/13989.rtre 	 28Kb
+linear_2_to_the_14th/14017.rtre 	 36Kb
+linear_2_to_the_14th/14041.rtre 	 38Kb
+linear_2_to_the_14th/1405.rtre 	 39Kb
+linear_2_to_the_14th/14065.rtre 	 40Kb
+linear_2_to_the_14th/14106.rtre 	 37Kb
+linear_2_to_the_14th/14108.rtre 	 47Kb
+linear_2_to_the_14th/1412.rtre 	 30Kb
+linear_2_to_the_14th/14188.rtre 	 31Kb
+linear_2_to_the_14th/14189.rtre 	 23Kb
+linear_2_to_the_14th/14224.rtre 	 31Kb
+linear_2_to_the_14th/14242.rtre 	 40Kb
+linear_2_to_the_14th/1426.rtre 	 25Kb
+linear_2_to_the_14th/14275.rtre 	 52Kb
+linear_2_to_the_14th/14303.rtre 	 37Kb
+linear_2_to_the_14th/14312.rtre 	 30Kb
+linear_2_to_the_14th/14314.rtre 	 34Kb
+linear_2_to_the_14th/14356.rtre 	 36Kb
+linear_2_to_the_14th/14382.rtre 	 49Kb
+linear_2_to_the_14th/14453.rtre 	 26Kb
+linear_2_to_the_14th/14493.rtre 	 36Kb
+linear_2_to_the_14th/14521.rtre 	 45Kb
+linear_2_to_the_14th/14551.rtre 	 23Kb
+linear_2_to_the_14th/14586.rtre 	 25Kb
+linear_2_to_the_14th/14638.rtre 	 37Kb
+linear_2_to_the_14th/14676.rtre 	 52Kb
+linear_2_to_the_14th/14726.rtre 	 36Kb
+linear_2_to_the_14th/14730.rtre 	 23Kb
+linear_2_to_the_14th/14762.rtre 	 47Kb
+linear_2_to_the_14th/14821.rtre 	 36Kb
+linear_2_to_the_14th/14829.rtre 	 41Kb
+linear_2_to_the_14th/14860.rtre 	 23Kb
+linear_2_to_the_14th/14878.rtre 	 36Kb
+linear_2_to_the_14th/14948.rtre 	 36Kb
+linear_2_to_the_14th/14972.rtre 	 36Kb
+linear_2_to_the_14th/14973.rtre 	 36Kb
+linear_2_to_the_14th/14992.rtre 	 41Kb
+linear_2_to_the_14th/15012.rtre 	 39Kb
+linear_2_to_the_14th/15055.rtre 	 34Kb
+linear_2_to_the_14th/15062.rtre 	 28Kb
+linear_2_to_the_14th/15102.rtre 	 37Kb
+linear_2_to_the_14th/15158.rtre 	 53Kb
+linear_2_to_the_14th/1519.rtre 	 37Kb
+linear_2_to_the_14th/15192.rtre 	 45Kb
+linear_2_to_the_14th/15231.rtre 	 26Kb
+linear_2_to_the_14th/1527.rtre 	 38Kb
+linear_2_to_the_14th/15302.rtre 	 33Kb
+linear_2_to_the_14th/15362.rtre 	 33Kb
+linear_2_to_the_14th/15364.rtre 	 32Kb
+linear_2_to_the_14th/15369.rtre 	 32Kb
+linear_2_to_the_14th/15425.rtre 	 42Kb
+linear_2_to_the_14th/15487.rtre 	 42Kb
+linear_2_to_the_14th/15560.rtre 	 38Kb
+linear_2_to_the_14th/15611.rtre 	 26Kb
+linear_2_to_the_14th/15652.rtre 	 30Kb
+linear_2_to_the_14th/15695.rtre 	 33Kb
+linear_2_to_the_14th/15723.rtre 	 23Kb
+linear_2_to_the_14th/15738.rtre 	 23Kb
+linear_2_to_the_14th/15766.rtre 	 36Kb
+linear_2_to_the_14th/15821.rtre 	 23Kb
+linear_2_to_the_14th/15857.rtre 	 37Kb
+linear_2_to_the_14th/1586.rtre 	 40Kb
+linear_2_to_the_14th/15878.rtre 	 23Kb
+linear_2_to_the_14th/15955.rtre 	 40Kb
+linear_2_to_the_14th/15968.rtre 	 36Kb
+linear_2_to_the_14th/1603.rtre 	 27Kb
+linear_2_to_the_14th/16030.rtre 	 39Kb
+linear_2_to_the_14th/16032.rtre 	 36Kb
+linear_2_to_the_14th/16038.rtre 	 36Kb
+linear_2_to_the_14th/16082.rtre 	 42Kb
+linear_2_to_the_14th/16089.rtre 	 36Kb
+linear_2_to_the_14th/16092.rtre 	 28Kb
+linear_2_to_the_14th/16130.rtre 	 38Kb
+linear_2_to_the_14th/16183.rtre 	 36Kb
+linear_2_to_the_14th/16238.rtre 	 24Kb
+linear_2_to_the_14th/16242.rtre 	 40Kb
+linear_2_to_the_14th/16294.rtre 	 23Kb
+linear_2_to_the_14th/16295.rtre 	 50Kb
+linear_2_to_the_14th/163.rtre 	 26Kb
+linear_2_to_the_14th/1633.rtre 	 51Kb
+linear_2_to_the_14th/16348.rtre 	 23Kb
+linear_2_to_the_14th/16351.rtre 	 23Kb
+linear_2_to_the_14th/16381.rtre 	 25Kb
+linear_2_to_the_14th/16405.rtre 	 37Kb
+linear_2_to_the_14th/16443.rtre 	 57Kb
+linear_2_to_the_14th/16459.rtre 	 36Kb
+linear_2_to_the_14th/16498.rtre 	 25Kb
+linear_2_to_the_14th/1656.rtre 	 33Kb
+linear_2_to_the_14th/16575.rtre 	 44Kb
+linear_2_to_the_14th/16596.rtre 	 23Kb
+linear_2_to_the_14th/1664.rtre 	 36Kb
+linear_2_to_the_14th/16654.rtre 	 38Kb
+linear_2_to_the_14th/16670.rtre 	 39Kb
+linear_2_to_the_14th/16679.rtre 	 28Kb
+linear_2_to_the_14th/16682.rtre 	 37Kb
+linear_2_to_the_14th/16750.rtre 	 36Kb
+linear_2_to_the_14th/1677.rtre 	 31Kb
+linear_2_to_the_14th/16787.rtre 	 36Kb
+linear_2_to_the_14th/16797.rtre 	 54Kb
+linear_2_to_the_14th/1689.rtre 	 51Kb
+linear_2_to_the_14th/1717.rtre 	 42Kb
+linear_2_to_the_14th/1797.rtre 	 30Kb
+linear_2_to_the_14th/1890.rtre 	 26Kb
+linear_2_to_the_14th/1893.rtre 	 36Kb
+linear_2_to_the_14th/1930.rtre 	 36Kb
+linear_2_to_the_14th/1956.rtre 	 30Kb
+linear_2_to_the_14th/198.rtre 	 25Kb
+linear_2_to_the_14th/1985.rtre 	 28Kb
+linear_2_to_the_14th/1986.rtre 	 28Kb
+linear_2_to_the_14th/1987.rtre 	 18Kb
+linear_2_to_the_14th/1994.rtre 	 23Kb
+linear_2_to_the_14th/1999.rtre 	 38Kb
+linear_2_to_the_14th/2067.rtre 	 26Kb
+linear_2_to_the_14th/2093.rtre 	 31Kb
+linear_2_to_the_14th/2182.rtre 	 28Kb
+linear_2_to_the_14th/2194.rtre 	 45Kb
+linear_2_to_the_14th/2224.rtre 	 37Kb
+linear_2_to_the_14th/2269.rtre 	 26Kb
+linear_2_to_the_14th/2288.rtre 	 43Kb
+linear_2_to_the_14th/230.rtre 	 32Kb
+linear_2_to_the_14th/2321.rtre 	 37Kb
+linear_2_to_the_14th/2327.rtre 	 47Kb
+linear_2_to_the_14th/2349.rtre 	 36Kb
+linear_2_to_the_14th/2387.rtre 	 28Kb
+linear_2_to_the_14th/2408.rtre 	 23Kb
+linear_2_to_the_14th/2490.rtre 	 40Kb
+linear_2_to_the_14th/2584.rtre 	 44Kb
+linear_2_to_the_14th/2615.rtre 	 31Kb
+linear_2_to_the_14th/2660.rtre 	 48Kb
+linear_2_to_the_14th/2699.rtre 	 24Kb
+linear_2_to_the_14th/2744.rtre 	 36Kb
+linear_2_to_the_14th/2775.rtre 	 39Kb
+linear_2_to_the_14th/2807.rtre 	 44Kb
+linear_2_to_the_14th/2808.rtre 	 36Kb
+linear_2_to_the_14th/2811.rtre 	 32Kb
+linear_2_to_the_14th/2832.rtre 	 36Kb
+linear_2_to_the_14th/284.rtre 	 25Kb
+linear_2_to_the_14th/2859.rtre 	 41Kb
+linear_2_to_the_14th/2907.rtre 	 36Kb
+linear_2_to_the_14th/2926.rtre 	 30Kb
+linear_2_to_the_14th/3040.rtre 	 49Kb
+linear_2_to_the_14th/3075.rtre 	 25Kb
+linear_2_to_the_14th/3078.rtre 	 27Kb
+linear_2_to_the_14th/3111.rtre 	 36Kb
+linear_2_to_the_14th/3128.rtre 	 27Kb
+linear_2_to_the_14th/3138.rtre 	 26Kb
+linear_2_to_the_14th/3193.rtre 	 35Kb
+linear_2_to_the_14th/3295.rtre 	 37Kb
+linear_2_to_the_14th/331.rtre 	 40Kb
+linear_2_to_the_14th/3341.rtre 	 48Kb
+linear_2_to_the_14th/3418.rtre 	 35Kb
+linear_2_to_the_14th/3421.rtre 	 27Kb
+linear_2_to_the_14th/3430.rtre 	 45Kb
+linear_2_to_the_14th/3485.rtre 	 39Kb
+linear_2_to_the_14th/3518.rtre 	 39Kb
+linear_2_to_the_14th/3541.rtre 	 30Kb
+linear_2_to_the_14th/3582.rtre 	 56Kb
+linear_2_to_the_14th/3619.rtre 	 23Kb
+linear_2_to_the_14th/3620.rtre 	 26Kb
+linear_2_to_the_14th/3678.rtre 	 45Kb
+linear_2_to_the_14th/3693.rtre 	 35Kb
+linear_2_to_the_14th/3700.rtre 	 31Kb
+linear_2_to_the_14th/3733.rtre 	 42Kb
+linear_2_to_the_14th/3800.rtre 	 24Kb
+linear_2_to_the_14th/382.rtre 	 33Kb
+linear_2_to_the_14th/3839.rtre 	 27Kb
+linear_2_to_the_14th/3850.rtre 	 39Kb
+linear_2_to_the_14th/3881.rtre 	 39Kb
+linear_2_to_the_14th/3904.rtre 	 30Kb
+linear_2_to_the_14th/3938.rtre 	 35Kb
+linear_2_to_the_14th/3960.rtre 	 39Kb
+linear_2_to_the_14th/3976.rtre 	 23Kb
+linear_2_to_the_14th/4023.rtre 	 23Kb
+linear_2_to_the_14th/4076.rtre 	 26Kb
+linear_2_to_the_14th/4089.rtre 	 54Kb
+linear_2_to_the_14th/4129.rtre 	 39Kb
+linear_2_to_the_14th/4142.rtre 	 25Kb
+linear_2_to_the_14th/419.rtre 	 34Kb
+linear_2_to_the_14th/4248.rtre 	 29Kb
+linear_2_to_the_14th/4273.rtre 	 23Kb
+linear_2_to_the_14th/4280.rtre 	 34Kb
+linear_2_to_the_14th/4285.rtre 	 23Kb
+linear_2_to_the_14th/4325.rtre 	 36Kb
+linear_2_to_the_14th/4392.rtre 	 39Kb
+linear_2_to_the_14th/4416.rtre 	 23Kb
+linear_2_to_the_14th/446.rtre 	 52Kb
+linear_2_to_the_14th/4463.rtre 	 36Kb
+linear_2_to_the_14th/4534.rtre 	 36Kb
+linear_2_to_the_14th/4550.rtre 	 37Kb
+linear_2_to_the_14th/4573.rtre 	 37Kb
+linear_2_to_the_14th/4575.rtre 	 29Kb
+linear_2_to_the_14th/4609.rtre 	 38Kb
+linear_2_to_the_14th/4626.rtre 	 29Kb
+linear_2_to_the_14th/4656.rtre 	 37Kb
+linear_2_to_the_14th/4705.rtre 	 36Kb
+linear_2_to_the_14th/4721.rtre 	 29Kb
+linear_2_to_the_14th/4740.rtre 	 36Kb
+linear_2_to_the_14th/4763.rtre 	 35Kb
+linear_2_to_the_14th/478.rtre 	 36Kb
+linear_2_to_the_14th/4798.rtre 	 36Kb
+linear_2_to_the_14th/4799.rtre 	 28Kb
+linear_2_to_the_14th/4879.rtre 	 37Kb
+linear_2_to_the_14th/488.rtre 	 46Kb
+linear_2_to_the_14th/4902.rtre 	 32Kb
+linear_2_to_the_14th/4912.rtre 	 23Kb
+linear_2_to_the_14th/4924.rtre 	 25Kb
+linear_2_to_the_14th/4942.rtre 	 36Kb
+linear_2_to_the_14th/4999.rtre 	 46Kb
+linear_2_to_the_14th/5067.rtre 	 31Kb
+linear_2_to_the_14th/5103.rtre 	 46Kb
+linear_2_to_the_14th/5177.rtre 	 34Kb
+linear_2_to_the_14th/522.rtre 	 23Kb
+linear_2_to_the_14th/5224.rtre 	 29Kb
+linear_2_to_the_14th/5257.rtre 	 25Kb
+linear_2_to_the_14th/5336.rtre 	 38Kb
+linear_2_to_the_14th/5363.rtre 	 42Kb
+linear_2_to_the_14th/5382.rtre 	 37Kb
+linear_2_to_the_14th/5401.rtre 	 42Kb
+linear_2_to_the_14th/5429.rtre 	 36Kb
+linear_2_to_the_14th/5450.rtre 	 23Kb
+linear_2_to_the_14th/5495.rtre 	 26Kb
+linear_2_to_the_14th/5522.rtre 	 23Kb
+linear_2_to_the_14th/5584.rtre 	 37Kb
+linear_2_to_the_14th/5612.rtre 	 36Kb
+linear_2_to_the_14th/5625.rtre 	 36Kb
+linear_2_to_the_14th/5626.rtre 	 24Kb
+linear_2_to_the_14th/5663.rtre 	 26Kb
+linear_2_to_the_14th/5683.rtre 	 37Kb
+linear_2_to_the_14th/5724.rtre 	 51Kb
+linear_2_to_the_14th/574.rtre 	 27Kb
+linear_2_to_the_14th/5795.rtre 	 39Kb
+linear_2_to_the_14th/5807.rtre 	 23Kb
+linear_2_to_the_14th/5832.rtre 	 43Kb
+linear_2_to_the_14th/5875.rtre 	 23Kb
+linear_2_to_the_14th/5877.rtre 	 47Kb
+linear_2_to_the_14th/59.rtre 	 30Kb
+linear_2_to_the_14th/5926.rtre 	 39Kb
+linear_2_to_the_14th/5963.rtre 	 48Kb
+linear_2_to_the_14th/60.rtre 	 25Kb
+linear_2_to_the_14th/6009.rtre 	 31Kb
+linear_2_to_the_14th/6018.rtre 	 43Kb
+linear_2_to_the_14th/607.rtre 	 23Kb
+linear_2_to_the_14th/6089.rtre 	 33Kb
+linear_2_to_the_14th/6112.rtre 	 37Kb
+linear_2_to_the_14th/6146.rtre 	 36Kb
+linear_2_to_the_14th/6175.rtre 	 54Kb
+linear_2_to_the_14th/6233.rtre 	 23Kb
+linear_2_to_the_14th/6238.rtre 	 36Kb
+linear_2_to_the_14th/6246.rtre 	 23Kb
+linear_2_to_the_14th/627.rtre 	 45Kb
+linear_2_to_the_14th/6313.rtre 	 42Kb
+linear_2_to_the_14th/6319.rtre 	 23Kb
+linear_2_to_the_14th/6438.rtre 	 40Kb
+linear_2_to_the_14th/644.rtre 	 36Kb
+linear_2_to_the_14th/6456.rtre 	 36Kb
+linear_2_to_the_14th/6457.rtre 	 27Kb
+linear_2_to_the_14th/6522.rtre 	 36Kb
+linear_2_to_the_14th/6530.rtre 	 36Kb
+linear_2_to_the_14th/6583.rtre 	 55Kb
+linear_2_to_the_14th/6612.rtre 	 24Kb
+linear_2_to_the_14th/6644.rtre 	 25Kb
+linear_2_to_the_14th/6652.rtre 	 38Kb
+linear_2_to_the_14th/6717.rtre 	 36Kb
+linear_2_to_the_14th/6730.rtre 	 37Kb
+linear_2_to_the_14th/674.rtre 	 35Kb
+linear_2_to_the_14th/6777.rtre 	 29Kb
+linear_2_to_the_14th/6849.rtre 	 28Kb
+linear_2_to_the_14th/686.rtre 	 47Kb
+linear_2_to_the_14th/6897.rtre 	 36Kb
+linear_2_to_the_14th/6934.rtre 	 47Kb
+linear_2_to_the_14th/7023.rtre 	 39Kb
+linear_2_to_the_14th/7032.rtre 	 35Kb
+linear_2_to_the_14th/7046.rtre 	 33Kb
+linear_2_to_the_14th/7096.rtre 	 53Kb
+linear_2_to_the_14th/7100.rtre 	 23Kb
+linear_2_to_the_14th/7113.rtre 	 36Kb
+linear_2_to_the_14th/7213.rtre 	 37Kb
+linear_2_to_the_14th/7272.rtre 	 57Kb
+linear_2_to_the_14th/7294.rtre 	 23Kb
+linear_2_to_the_14th/733.rtre 	 47Kb
+linear_2_to_the_14th/7378.rtre 	 54Kb
+linear_2_to_the_14th/7418.rtre 	 25Kb
+linear_2_to_the_14th/7419.rtre 	 23Kb
+linear_2_to_the_14th/7428.rtre 	 26Kb
+linear_2_to_the_14th/7492.rtre 	 36Kb
+linear_2_to_the_14th/7496.rtre 	 48Kb
+linear_2_to_the_14th/7522.rtre 	 30Kb
+linear_2_to_the_14th/7562.rtre 	 30Kb
+linear_2_to_the_14th/7582.rtre 	 49Kb
+linear_2_to_the_14th/7665.rtre 	 24Kb
+linear_2_to_the_14th/7683.rtre 	 23Kb
+linear_2_to_the_14th/7712.rtre 	 39Kb
+linear_2_to_the_14th/7722.rtre 	 33Kb
+linear_2_to_the_14th/7761.rtre 	 36Kb
+linear_2_to_the_14th/7823.rtre 	 38Kb
+linear_2_to_the_14th/788.rtre 	 45Kb
+linear_2_to_the_14th/7887.rtre 	 23Kb
+linear_2_to_the_14th/7920.rtre 	 37Kb
+linear_2_to_the_14th/7934.rtre 	 36Kb
+linear_2_to_the_14th/7948.rtre 	 39Kb
+linear_2_to_the_14th/800.rtre 	 37Kb
+linear_2_to_the_14th/8016.rtre 	 47Kb
+linear_2_to_the_14th/8095.rtre 	 48Kb
+linear_2_to_the_14th/8105.rtre 	 27Kb
+linear_2_to_the_14th/8128.rtre 	 39Kb
+linear_2_to_the_14th/8140.rtre 	 55Kb
+linear_2_to_the_14th/8150.rtre 	 36Kb
+linear_2_to_the_14th/8160.rtre 	 56Kb
+linear_2_to_the_14th/8166.rtre 	 36Kb
+linear_2_to_the_14th/8222.rtre 	 38Kb
+linear_2_to_the_14th/8236.rtre 	 36Kb
+linear_2_to_the_14th/8237.rtre 	 25Kb
+linear_2_to_the_14th/8244.rtre 	 36Kb
+linear_2_to_the_14th/8306.rtre 	 38Kb
+linear_2_to_the_14th/8355.rtre 	 50Kb
+linear_2_to_the_14th/8374.rtre 	 23Kb
+linear_2_to_the_14th/8410.rtre 	 37Kb
+linear_2_to_the_14th/8431.rtre 	 24Kb
+linear_2_to_the_14th/8433.rtre 	 36Kb
+linear_2_to_the_14th/8519.rtre 	 57Kb
+linear_2_to_the_14th/8543.rtre 	 27Kb
+linear_2_to_the_14th/8593.rtre 	 56Kb
+linear_2_to_the_14th/8628.rtre 	 47Kb
+linear_2_to_the_14th/863.rtre 	 32Kb
+linear_2_to_the_14th/8660.rtre 	 37Kb
+linear_2_to_the_14th/8672.rtre 	 43Kb
+linear_2_to_the_14th/87.rtre 	 44Kb
+linear_2_to_the_14th/8731.rtre 	 24Kb
+linear_2_to_the_14th/8757.rtre 	 44Kb
+linear_2_to_the_14th/8798.rtre 	 24Kb
+linear_2_to_the_14th/8818.rtre 	 23Kb
+linear_2_to_the_14th/8862.rtre 	 28Kb
+linear_2_to_the_14th/8886.rtre 	 36Kb
+linear_2_to_the_14th/8945.rtre 	 37Kb
+linear_2_to_the_14th/8981.rtre 	 28Kb
+linear_2_to_the_14th/9028.rtre 	 54Kb
+linear_2_to_the_14th/9070.rtre 	 36Kb
+linear_2_to_the_14th/9095.rtre 	 24Kb
+linear_2_to_the_14th/9096.rtre 	 34Kb
+linear_2_to_the_14th/9138.rtre 	 56Kb
+linear_2_to_the_14th/914.rtre 	 29Kb
+linear_2_to_the_14th/9141.rtre 	 43Kb
+linear_2_to_the_14th/918.rtre 	 41Kb
+linear_2_to_the_14th/9211.rtre 	 24Kb
+linear_2_to_the_14th/9293.rtre 	 37Kb
+linear_2_to_the_14th/9335.rtre 	 24Kb
+linear_2_to_the_14th/9339.rtre 	 23Kb
+linear_2_to_the_14th/9377.rtre 	 40Kb
+linear_2_to_the_14th/9380.rtre 	 32Kb
+linear_2_to_the_14th/9389.rtre 	 41Kb
+linear_2_to_the_14th/9444.rtre 	 57Kb
+linear_2_to_the_14th/9451.rtre 	 46Kb
+linear_2_to_the_14th/9502.rtre 	 33Kb
+linear_2_to_the_14th/9533.rtre 	 35Kb
+linear_2_to_the_14th/9587.rtre 	 37Kb
+linear_2_to_the_14th/9670.rtre 	 47Kb
+linear_2_to_the_14th/9729.rtre 	 38Kb
+linear_2_to_the_14th/9756.rtre 	 37Kb
+linear_2_to_the_14th/9768.rtre 	 44Kb
+linear_2_to_the_14th/9789.rtre 	 36Kb
+linear_2_to_the_14th/9839.rtre 	 36Kb
+linear_2_to_the_14th/984.rtre 	 36Kb
+linear_2_to_the_14th/9848.rtre 	 47Kb
+linear_2_to_the_14th/9876.rtre 	 31Kb
+linear_2_to_the_14th/9946.rtre 	 38Kb
+linear_2_to_the_14th/9947.rtre 	 36Kb
+tota 	 17375Kb
