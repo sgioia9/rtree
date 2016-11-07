@@ -12,6 +12,36 @@ RTree::RTree(int m, int M, Split* split, const std::string& tree_directory)
   current_tree_node->writeToDisk(tree_directory);
 }
 
+RTree::RTree(const std::string &tree_directory, Split* split) {
+  std::ifstream file;
+  file.open(tree_directory + "/rtree.properties");
+  if (!file.is_open()) {
+    std::cerr << "rtree.properties not found at " << tree_directory << "\n";
+    std::exit(1);
+  }
+  int root_id, m, M, total_node_count;
+  file >> root_id >> m >> M >> total_node_count;
+  this->root_id = root_id;
+  this->m = m;
+  this->M = M;
+  this->total_node_count = total_node_count;
+  this->split_method = split;
+  this->tree_directory = tree_directory;
+  current_tree_node = nullptr;
+}
+
+void RTree::save() const {
+  createConfigFile(tree_directory);
+}
+
+void RTree::createConfigFile(const std::string& tree_directory) const {
+  std::ofstream file;
+  file.open(tree_directory + "/rtree.properties");
+  file << root_id << " " << m << " " << M << " " << total_node_count << "\n";
+  file << "root_id m M total_node_count" << "\n";
+  file.close();
+}
+
 void RTree::find(const Rectangle other_rectangle) {
   std::queue<int> q;
   std::vector<Rectangle> results;
