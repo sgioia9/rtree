@@ -1,0 +1,1515 @@
+
+rchar: 89179688
+wchar: 90442565
+syscr: 48280
+syscw: 49037
+read_bytes: 0
+write_bytes: 0
+cancelled_write_bytes: 0
+
+Duration: 37.5015099049 seconds.
+Files created: 500
+greene_2_to_the_14th/1.rtre 75.4385964912%
+	[███████████████    ]
+greene_2_to_the_14th/10030.rtre 63.1578947368%
+	[████████████       ]
+greene_2_to_the_14th/10067.rtre 56.1403508772%
+	[███████████        ]
+greene_2_to_the_14th/1009.rtre 54.3859649123%
+	[██████████         ]
+greene_2_to_the_14th/10095.rtre 54.3859649123%
+	[██████████         ]
+greene_2_to_the_14th/10150.rtre 49.1228070175%
+	[█████████          ]
+greene_2_to_the_14th/10158.rtre 84.2105263158%
+	[████████████████   ]
+greene_2_to_the_14th/10269.rtre 50.8771929825%
+	[██████████         ]
+greene_2_to_the_14th/10289.rtre 59.649122807%
+	[███████████        ]
+greene_2_to_the_14th/10302.rtre 52.6315789474%
+	[██████████         ]
+greene_2_to_the_14th/10365.rtre 50.8771929825%
+	[██████████         ]
+greene_2_to_the_14th/10394.rtre 50.8771929825%
+	[██████████         ]
+greene_2_to_the_14th/1040.rtre 54.3859649123%
+	[██████████         ]
+greene_2_to_the_14th/10404.rtre 50.8771929825%
+	[██████████         ]
+greene_2_to_the_14th/1042.rtre 49.1228070175%
+	[█████████          ]
+greene_2_to_the_14th/10491.rtre 63.1578947368%
+	[████████████       ]
+greene_2_to_the_14th/10541.rtre 66.6666666667%
+	[█████████████      ]
+greene_2_to_the_14th/10557.rtre 52.6315789474%
+	[██████████         ]
+greene_2_to_the_14th/10559.rtre 50.8771929825%
+	[██████████         ]
+greene_2_to_the_14th/10602.rtre 71.9298245614%
+	[██████████████     ]
+greene_2_to_the_14th/10620.rtre 49.1228070175%
+	[█████████          ]
+greene_2_to_the_14th/10660.rtre 50.8771929825%
+	[██████████         ]
+greene_2_to_the_14th/10731.rtre 61.4035087719%
+	[████████████       ]
+greene_2_to_the_14th/1074.rtre 59.649122807%
+	[███████████        ]
+greene_2_to_the_14th/10820.rtre 49.1228070175%
+	[█████████          ]
+greene_2_to_the_14th/10833.rtre 63.1578947368%
+	[████████████       ]
+greene_2_to_the_14th/10860.rtre 50.8771929825%
+	[██████████         ]
+greene_2_to_the_14th/10896.rtre 49.1228070175%
+	[█████████          ]
+greene_2_to_the_14th/10898.rtre 75.4385964912%
+	[███████████████    ]
+greene_2_to_the_14th/10992.rtre 50.8771929825%
+	[██████████         ]
+greene_2_to_the_14th/10993.rtre 49.1228070175%
+	[█████████          ]
+greene_2_to_the_14th/11019.rtre 49.1228070175%
+	[█████████          ]
+greene_2_to_the_14th/11051.rtre 50.8771929825%
+	[██████████         ]
+greene_2_to_the_14th/11078.rtre 63.1578947368%
+	[████████████       ]
+greene_2_to_the_14th/11138.rtre 50.8771929825%
+	[██████████         ]
+greene_2_to_the_14th/11146.rtre 49.1228070175%
+	[█████████          ]
+greene_2_to_the_14th/11154.rtre 70.1754385965%
+	[██████████████     ]
+greene_2_to_the_14th/11226.rtre 49.1228070175%
+	[█████████          ]
+greene_2_to_the_14th/11268.rtre 54.3859649123%
+	[██████████         ]
+greene_2_to_the_14th/11287.rtre 49.1228070175%
+	[█████████          ]
+greene_2_to_the_14th/11372.rtre 49.1228070175%
+	[█████████          ]
+greene_2_to_the_14th/11421.rtre 98.2456140351%
+	[███████████████████]
+greene_2_to_the_14th/11424.rtre 57.8947368421%
+	[███████████        ]
+greene_2_to_the_14th/11440.rtre 59.649122807%
+	[███████████        ]
+greene_2_to_the_14th/11460.rtre 50.8771929825%
+	[██████████         ]
+greene_2_to_the_14th/11470.rtre 50.8771929825%
+	[██████████         ]
+greene_2_to_the_14th/11507.rtre 80.701754386%
+	[████████████████   ]
+greene_2_to_the_14th/11516.rtre 49.1228070175%
+	[█████████          ]
+greene_2_to_the_14th/11538.rtre 50.8771929825%
+	[██████████         ]
+greene_2_to_the_14th/1154.rtre 82.4561403509%
+	[████████████████   ]
+greene_2_to_the_14th/11556.rtre 85.9649122807%
+	[█████████████████  ]
+greene_2_to_the_14th/11621.rtre 50.8771929825%
+	[██████████         ]
+greene_2_to_the_14th/1164.rtre 49.1228070175%
+	[█████████          ]
+greene_2_to_the_14th/11644.rtre 64.9122807018%
+	[████████████       ]
+greene_2_to_the_14th/11650.rtre 73.6842105263%
+	[██████████████     ]
+greene_2_to_the_14th/11743.rtre 54.3859649123%
+	[██████████         ]
+greene_2_to_the_14th/11763.rtre 49.1228070175%
+	[█████████          ]
+greene_2_to_the_14th/11785.rtre 49.1228070175%
+	[█████████          ]
+greene_2_to_the_14th/11847.rtre 59.649122807%
+	[███████████        ]
+greene_2_to_the_14th/11874.rtre 50.8771929825%
+	[██████████         ]
+greene_2_to_the_14th/11888.rtre 49.1228070175%
+	[█████████          ]
+greene_2_to_the_14th/11910.rtre 50.8771929825%
+	[██████████         ]
+greene_2_to_the_14th/11912.rtre 49.1228070175%
+	[█████████          ]
+greene_2_to_the_14th/12017.rtre 50.8771929825%
+	[██████████         ]
+greene_2_to_the_14th/12032.rtre 56.1403508772%
+	[███████████        ]
+greene_2_to_the_14th/12050.rtre 70.1754385965%
+	[██████████████     ]
+greene_2_to_the_14th/12076.rtre 52.6315789474%
+	[██████████         ]
+greene_2_to_the_14th/12085.rtre 54.3859649123%
+	[██████████         ]
+greene_2_to_the_14th/12155.rtre 63.1578947368%
+	[████████████       ]
+greene_2_to_the_14th/12190.rtre 96.4912280702%
+	[███████████████████]
+greene_2_to_the_14th/12260.rtre 50.8771929825%
+	[██████████         ]
+greene_2_to_the_14th/12274.rtre 57.8947368421%
+	[███████████        ]
+greene_2_to_the_14th/12296.rtre 50.8771929825%
+	[██████████         ]
+greene_2_to_the_14th/12305.rtre 49.1228070175%
+	[█████████          ]
+greene_2_to_the_14th/1231.rtre 54.3859649123%
+	[██████████         ]
+greene_2_to_the_14th/12334.rtre 49.1228070175%
+	[█████████          ]
+greene_2_to_the_14th/12362.rtre 52.6315789474%
+	[██████████         ]
+greene_2_to_the_14th/12363.rtre 57.8947368421%
+	[███████████        ]
+greene_2_to_the_14th/1237.rtre 78.9473684211%
+	[███████████████    ]
+greene_2_to_the_14th/12389.rtre 49.1228070175%
+	[█████████          ]
+greene_2_to_the_14th/12409.rtre 57.8947368421%
+	[███████████        ]
+greene_2_to_the_14th/12536.rtre 64.9122807018%
+	[████████████       ]
+greene_2_to_the_14th/1254.rtre 49.1228070175%
+	[█████████          ]
+greene_2_to_the_14th/12543.rtre 50.8771929825%
+	[██████████         ]
+greene_2_to_the_14th/12679.rtre 49.1228070175%
+	[█████████          ]
+greene_2_to_the_14th/12682.rtre 61.4035087719%
+	[████████████       ]
+greene_2_to_the_14th/12705.rtre 52.6315789474%
+	[██████████         ]
+greene_2_to_the_14th/12749.rtre 49.1228070175%
+	[█████████          ]
+greene_2_to_the_14th/12753.rtre 50.8771929825%
+	[██████████         ]
+greene_2_to_the_14th/12756.rtre 50.8771929825%
+	[██████████         ]
+greene_2_to_the_14th/12759.rtre 49.1228070175%
+	[█████████          ]
+greene_2_to_the_14th/12891.rtre 59.649122807%
+	[███████████        ]
+greene_2_to_the_14th/12895.rtre 84.2105263158%
+	[████████████████   ]
+greene_2_to_the_14th/12925.rtre 66.6666666667%
+	[█████████████      ]
+greene_2_to_the_14th/12941.rtre 49.1228070175%
+	[█████████          ]
+greene_2_to_the_14th/12977.rtre 91.2280701754%
+	[██████████████████ ]
+greene_2_to_the_14th/13065.rtre 49.1228070175%
+	[█████████          ]
+greene_2_to_the_14th/13093.rtre 82.4561403509%
+	[████████████████   ]
+greene_2_to_the_14th/13096.rtre 50.8771929825%
+	[██████████         ]
+greene_2_to_the_14th/13154.rtre 61.4035087719%
+	[████████████       ]
+greene_2_to_the_14th/13158.rtre 50.8771929825%
+	[██████████         ]
+greene_2_to_the_14th/13223.rtre 50.8771929825%
+	[██████████         ]
+greene_2_to_the_14th/1326.rtre 49.1228070175%
+	[█████████          ]
+greene_2_to_the_14th/13294.rtre 94.7368421053%
+	[██████████████████ ]
+greene_2_to_the_14th/13301.rtre 73.6842105263%
+	[██████████████     ]
+greene_2_to_the_14th/13320.rtre 49.1228070175%
+	[█████████          ]
+greene_2_to_the_14th/134.rtre 96.4912280702%
+	[███████████████████]
+greene_2_to_the_14th/13410.rtre 49.1228070175%
+	[█████████          ]
+greene_2_to_the_14th/13427.rtre 59.649122807%
+	[███████████        ]
+greene_2_to_the_14th/13429.rtre 49.1228070175%
+	[█████████          ]
+greene_2_to_the_14th/13475.rtre 59.649122807%
+	[███████████        ]
+greene_2_to_the_14th/1349.rtre 85.9649122807%
+	[█████████████████  ]
+greene_2_to_the_14th/1351.rtre 49.1228070175%
+	[█████████          ]
+greene_2_to_the_14th/13573.rtre 50.8771929825%
+	[██████████         ]
+greene_2_to_the_14th/13624.rtre 50.8771929825%
+	[██████████         ]
+greene_2_to_the_14th/13649.rtre 49.1228070175%
+	[█████████          ]
+greene_2_to_the_14th/13688.rtre 50.8771929825%
+	[██████████         ]
+greene_2_to_the_14th/13690.rtre 59.649122807%
+	[███████████        ]
+greene_2_to_the_14th/13692.rtre 66.6666666667%
+	[█████████████      ]
+greene_2_to_the_14th/13704.rtre 50.8771929825%
+	[██████████         ]
+greene_2_to_the_14th/13713.rtre 50.8771929825%
+	[██████████         ]
+greene_2_to_the_14th/13794.rtre 49.1228070175%
+	[█████████          ]
+greene_2_to_the_14th/13812.rtre 84.2105263158%
+	[████████████████   ]
+greene_2_to_the_14th/13845.rtre 50.8771929825%
+	[██████████         ]
+greene_2_to_the_14th/13898.rtre 91.2280701754%
+	[██████████████████ ]
+greene_2_to_the_14th/13910.rtre 64.9122807018%
+	[████████████       ]
+greene_2_to_the_14th/13936.rtre 91.2280701754%
+	[██████████████████ ]
+greene_2_to_the_14th/13985.rtre 50.8771929825%
+	[██████████         ]
+greene_2_to_the_14th/14025.rtre 63.1578947368%
+	[████████████       ]
+greene_2_to_the_14th/14026.rtre 50.8771929825%
+	[██████████         ]
+greene_2_to_the_14th/14047.rtre 50.8771929825%
+	[██████████         ]
+greene_2_to_the_14th/14064.rtre 50.8771929825%
+	[██████████         ]
+greene_2_to_the_14th/14086.rtre 50.8771929825%
+	[██████████         ]
+greene_2_to_the_14th/14087.rtre 54.3859649123%
+	[██████████         ]
+greene_2_to_the_14th/1413.rtre 64.9122807018%
+	[████████████       ]
+greene_2_to_the_14th/14133.rtre 56.1403508772%
+	[███████████        ]
+greene_2_to_the_14th/14148.rtre 50.8771929825%
+	[██████████         ]
+greene_2_to_the_14th/14152.rtre 70.1754385965%
+	[██████████████     ]
+greene_2_to_the_14th/14224.rtre 70.1754385965%
+	[██████████████     ]
+greene_2_to_the_14th/14289.rtre 52.6315789474%
+	[██████████         ]
+greene_2_to_the_14th/14318.rtre 49.1228070175%
+	[█████████          ]
+greene_2_to_the_14th/14339.rtre 52.6315789474%
+	[██████████         ]
+greene_2_to_the_14th/14364.rtre 59.649122807%
+	[███████████        ]
+greene_2_to_the_14th/14381.rtre 63.1578947368%
+	[████████████       ]
+greene_2_to_the_14th/14415.rtre 49.1228070175%
+	[█████████          ]
+greene_2_to_the_14th/14483.rtre 50.8771929825%
+	[██████████         ]
+greene_2_to_the_14th/14549.rtre 49.1228070175%
+	[█████████          ]
+greene_2_to_the_14th/14601.rtre 50.8771929825%
+	[██████████         ]
+greene_2_to_the_14th/14621.rtre 77.1929824561%
+	[███████████████    ]
+greene_2_to_the_14th/14673.rtre 52.6315789474%
+	[██████████         ]
+greene_2_to_the_14th/14682.rtre 50.8771929825%
+	[██████████         ]
+greene_2_to_the_14th/14701.rtre 57.8947368421%
+	[███████████        ]
+greene_2_to_the_14th/14741.rtre 87.7192982456%
+	[█████████████████  ]
+greene_2_to_the_14th/14753.rtre 49.1228070175%
+	[█████████          ]
+greene_2_to_the_14th/1480.rtre 59.649122807%
+	[███████████        ]
+greene_2_to_the_14th/14862.rtre 50.8771929825%
+	[██████████         ]
+greene_2_to_the_14th/14879.rtre 68.4210526316%
+	[█████████████      ]
+greene_2_to_the_14th/14881.rtre 64.9122807018%
+	[████████████       ]
+greene_2_to_the_14th/14893.rtre 66.6666666667%
+	[█████████████      ]
+greene_2_to_the_14th/14920.rtre 50.8771929825%
+	[██████████         ]
+greene_2_to_the_14th/14925.rtre 82.4561403509%
+	[████████████████   ]
+greene_2_to_the_14th/14934.rtre 50.8771929825%
+	[██████████         ]
+greene_2_to_the_14th/1499.rtre 57.8947368421%
+	[███████████        ]
+greene_2_to_the_14th/14998.rtre 50.8771929825%
+	[██████████         ]
+greene_2_to_the_14th/15018.rtre 50.8771929825%
+	[██████████         ]
+greene_2_to_the_14th/15051.rtre 78.9473684211%
+	[███████████████    ]
+greene_2_to_the_14th/15086.rtre 49.1228070175%
+	[█████████          ]
+greene_2_to_the_14th/15097.rtre 54.3859649123%
+	[██████████         ]
+greene_2_to_the_14th/15117.rtre 52.6315789474%
+	[██████████         ]
+greene_2_to_the_14th/15143.rtre 49.1228070175%
+	[█████████          ]
+greene_2_to_the_14th/1516.rtre 61.4035087719%
+	[████████████       ]
+greene_2_to_the_14th/15189.rtre 66.6666666667%
+	[█████████████      ]
+greene_2_to_the_14th/15205.rtre 66.6666666667%
+	[█████████████      ]
+greene_2_to_the_14th/15213.rtre 73.6842105263%
+	[██████████████     ]
+greene_2_to_the_14th/15214.rtre 49.1228070175%
+	[█████████          ]
+greene_2_to_the_14th/15314.rtre 59.649122807%
+	[███████████        ]
+greene_2_to_the_14th/15320.rtre 49.1228070175%
+	[█████████          ]
+greene_2_to_the_14th/15341.rtre 91.2280701754%
+	[██████████████████ ]
+greene_2_to_the_14th/15344.rtre 54.3859649123%
+	[██████████         ]
+greene_2_to_the_14th/15413.rtre 50.8771929825%
+	[██████████         ]
+greene_2_to_the_14th/15463.rtre 54.3859649123%
+	[██████████         ]
+greene_2_to_the_14th/15467.rtre 96.4912280702%
+	[███████████████████]
+greene_2_to_the_14th/15550.rtre 54.3859649123%
+	[██████████         ]
+greene_2_to_the_14th/15586.rtre 50.8771929825%
+	[██████████         ]
+greene_2_to_the_14th/15595.rtre 50.8771929825%
+	[██████████         ]
+greene_2_to_the_14th/15660.rtre 50.8771929825%
+	[██████████         ]
+greene_2_to_the_14th/15663.rtre 56.1403508772%
+	[███████████        ]
+greene_2_to_the_14th/15704.rtre 57.8947368421%
+	[███████████        ]
+greene_2_to_the_14th/15716.rtre 50.8771929825%
+	[██████████         ]
+greene_2_to_the_14th/1572.rtre 63.1578947368%
+	[████████████       ]
+greene_2_to_the_14th/15733.rtre 52.6315789474%
+	[██████████         ]
+greene_2_to_the_14th/15744.rtre 49.1228070175%
+	[█████████          ]
+greene_2_to_the_14th/15766.rtre 52.6315789474%
+	[██████████         ]
+greene_2_to_the_14th/15782.rtre 50.8771929825%
+	[██████████         ]
+greene_2_to_the_14th/15805.rtre 77.1929824561%
+	[███████████████    ]
+greene_2_to_the_14th/15832.rtre 71.9298245614%
+	[██████████████     ]
+greene_2_to_the_14th/15869.rtre 49.1228070175%
+	[█████████          ]
+greene_2_to_the_14th/1599.rtre 85.9649122807%
+	[█████████████████  ]
+greene_2_to_the_14th/16004.rtre 50.8771929825%
+	[██████████         ]
+greene_2_to_the_14th/16008.rtre 64.9122807018%
+	[████████████       ]
+greene_2_to_the_14th/16015.rtre 54.3859649123%
+	[██████████         ]
+greene_2_to_the_14th/16031.rtre 87.7192982456%
+	[█████████████████  ]
+greene_2_to_the_14th/16123.rtre 49.1228070175%
+	[█████████          ]
+greene_2_to_the_14th/16179.rtre 56.1403508772%
+	[███████████        ]
+greene_2_to_the_14th/16219.rtre 82.4561403509%
+	[████████████████   ]
+greene_2_to_the_14th/16254.rtre 84.2105263158%
+	[████████████████   ]
+greene_2_to_the_14th/16272.rtre 49.1228070175%
+	[█████████          ]
+greene_2_to_the_14th/16322.rtre 50.8771929825%
+	[██████████         ]
+greene_2_to_the_14th/16392.rtre 50.8771929825%
+	[██████████         ]
+greene_2_to_the_14th/16394.rtre 50.8771929825%
+	[██████████         ]
+greene_2_to_the_14th/16395.rtre 66.6666666667%
+	[█████████████      ]
+greene_2_to_the_14th/16462.rtre 71.9298245614%
+	[██████████████     ]
+greene_2_to_the_14th/16468.rtre 49.1228070175%
+	[█████████          ]
+greene_2_to_the_14th/16596.rtre 50.8771929825%
+	[██████████         ]
+greene_2_to_the_14th/166.rtre 54.3859649123%
+	[██████████         ]
+greene_2_to_the_14th/16623.rtre 61.4035087719%
+	[████████████       ]
+greene_2_to_the_14th/16649.rtre 71.9298245614%
+	[██████████████     ]
+greene_2_to_the_14th/16668.rtre 50.8771929825%
+	[██████████         ]
+greene_2_to_the_14th/16709.rtre 50.8771929825%
+	[██████████         ]
+greene_2_to_the_14th/16744.rtre 54.3859649123%
+	[██████████         ]
+greene_2_to_the_14th/1675.rtre 50.8771929825%
+	[██████████         ]
+greene_2_to_the_14th/16753.rtre 71.9298245614%
+	[██████████████     ]
+greene_2_to_the_14th/16773.rtre 64.9122807018%
+	[████████████       ]
+greene_2_to_the_14th/1680.rtre 54.3859649123%
+	[██████████         ]
+greene_2_to_the_14th/16834.rtre 75.4385964912%
+	[███████████████    ]
+greene_2_to_the_14th/1692.rtre 80.701754386%
+	[████████████████   ]
+greene_2_to_the_14th/1722.rtre 49.1228070175%
+	[█████████          ]
+greene_2_to_the_14th/1725.rtre 73.6842105263%
+	[██████████████     ]
+greene_2_to_the_14th/1753.rtre 50.8771929825%
+	[██████████         ]
+greene_2_to_the_14th/1810.rtre 61.4035087719%
+	[████████████       ]
+greene_2_to_the_14th/1836.rtre 59.649122807%
+	[███████████        ]
+greene_2_to_the_14th/1840.rtre 52.6315789474%
+	[██████████         ]
+greene_2_to_the_14th/1905.rtre 50.8771929825%
+	[██████████         ]
+greene_2_to_the_14th/1942.rtre 49.1228070175%
+	[█████████          ]
+greene_2_to_the_14th/2015.rtre 49.1228070175%
+	[█████████          ]
+greene_2_to_the_14th/2016.rtre 52.6315789474%
+	[██████████         ]
+greene_2_to_the_14th/2017.rtre 26.3157894737%
+	[█████              ]
+greene_2_to_the_14th/2041.rtre 54.3859649123%
+	[██████████         ]
+greene_2_to_the_14th/2131.rtre 49.1228070175%
+	[█████████          ]
+greene_2_to_the_14th/2254.rtre 49.1228070175%
+	[█████████          ]
+greene_2_to_the_14th/2284.rtre 78.9473684211%
+	[███████████████    ]
+greene_2_to_the_14th/2290.rtre 49.1228070175%
+	[█████████          ]
+greene_2_to_the_14th/2292.rtre 56.1403508772%
+	[███████████        ]
+greene_2_to_the_14th/2318.rtre 49.1228070175%
+	[█████████          ]
+greene_2_to_the_14th/2375.rtre 63.1578947368%
+	[████████████       ]
+greene_2_to_the_14th/2390.rtre 49.1228070175%
+	[█████████          ]
+greene_2_to_the_14th/2401.rtre 50.8771929825%
+	[██████████         ]
+greene_2_to_the_14th/2407.rtre 50.8771929825%
+	[██████████         ]
+greene_2_to_the_14th/2421.rtre 52.6315789474%
+	[██████████         ]
+greene_2_to_the_14th/2434.rtre 78.9473684211%
+	[███████████████    ]
+greene_2_to_the_14th/246.rtre 49.1228070175%
+	[█████████          ]
+greene_2_to_the_14th/2544.rtre 50.8771929825%
+	[██████████         ]
+greene_2_to_the_14th/2597.rtre 50.8771929825%
+	[██████████         ]
+greene_2_to_the_14th/2614.rtre 52.6315789474%
+	[██████████         ]
+greene_2_to_the_14th/2651.rtre 50.8771929825%
+	[██████████         ]
+greene_2_to_the_14th/2657.rtre 50.8771929825%
+	[██████████         ]
+greene_2_to_the_14th/2679.rtre 63.1578947368%
+	[████████████       ]
+greene_2_to_the_14th/2717.rtre 49.1228070175%
+	[█████████          ]
+greene_2_to_the_14th/279.rtre 52.6315789474%
+	[██████████         ]
+greene_2_to_the_14th/2821.rtre 57.8947368421%
+	[███████████        ]
+greene_2_to_the_14th/2825.rtre 61.4035087719%
+	[████████████       ]
+greene_2_to_the_14th/2927.rtre 49.1228070175%
+	[█████████          ]
+greene_2_to_the_14th/2963.rtre 54.3859649123%
+	[██████████         ]
+greene_2_to_the_14th/2967.rtre 75.4385964912%
+	[███████████████    ]
+greene_2_to_the_14th/2989.rtre 78.9473684211%
+	[███████████████    ]
+greene_2_to_the_14th/3007.rtre 50.8771929825%
+	[██████████         ]
+greene_2_to_the_14th/3066.rtre 71.9298245614%
+	[██████████████     ]
+greene_2_to_the_14th/3104.rtre 73.6842105263%
+	[██████████████     ]
+greene_2_to_the_14th/3136.rtre 50.8771929825%
+	[██████████         ]
+greene_2_to_the_14th/3137.rtre 91.2280701754%
+	[██████████████████ ]
+greene_2_to_the_14th/3145.rtre 77.1929824561%
+	[███████████████    ]
+greene_2_to_the_14th/3147.rtre 63.1578947368%
+	[████████████       ]
+greene_2_to_the_14th/3155.rtre 50.8771929825%
+	[██████████         ]
+greene_2_to_the_14th/3183.rtre 50.8771929825%
+	[██████████         ]
+greene_2_to_the_14th/3186.rtre 49.1228070175%
+	[█████████          ]
+greene_2_to_the_14th/3276.rtre 75.4385964912%
+	[███████████████    ]
+greene_2_to_the_14th/3294.rtre 92.9824561404%
+	[██████████████████ ]
+greene_2_to_the_14th/333.rtre 64.9122807018%
+	[████████████       ]
+greene_2_to_the_14th/3341.rtre 49.1228070175%
+	[█████████          ]
+greene_2_to_the_14th/3343.rtre 49.1228070175%
+	[█████████          ]
+greene_2_to_the_14th/3363.rtre 50.8771929825%
+	[██████████         ]
+greene_2_to_the_14th/339.rtre 78.9473684211%
+	[███████████████    ]
+greene_2_to_the_14th/3391.rtre 91.2280701754%
+	[██████████████████ ]
+greene_2_to_the_14th/3411.rtre 50.8771929825%
+	[██████████         ]
+greene_2_to_the_14th/345.rtre 50.8771929825%
+	[██████████         ]
+greene_2_to_the_14th/3466.rtre 50.8771929825%
+	[██████████         ]
+greene_2_to_the_14th/3515.rtre 52.6315789474%
+	[██████████         ]
+greene_2_to_the_14th/3523.rtre 50.8771929825%
+	[██████████         ]
+greene_2_to_the_14th/3532.rtre 75.4385964912%
+	[███████████████    ]
+greene_2_to_the_14th/3579.rtre 50.8771929825%
+	[██████████         ]
+greene_2_to_the_14th/3650.rtre 49.1228070175%
+	[█████████          ]
+greene_2_to_the_14th/3734.rtre 49.1228070175%
+	[█████████          ]
+greene_2_to_the_14th/3749.rtre 68.4210526316%
+	[█████████████      ]
+greene_2_to_the_14th/3752.rtre 49.1228070175%
+	[█████████          ]
+greene_2_to_the_14th/3764.rtre 56.1403508772%
+	[███████████        ]
+greene_2_to_the_14th/3794.rtre 50.8771929825%
+	[██████████         ]
+greene_2_to_the_14th/3811.rtre 49.1228070175%
+	[█████████          ]
+greene_2_to_the_14th/3910.rtre 59.649122807%
+	[███████████        ]
+greene_2_to_the_14th/3913.rtre 64.9122807018%
+	[████████████       ]
+greene_2_to_the_14th/3987.rtre 70.1754385965%
+	[██████████████     ]
+greene_2_to_the_14th/3999.rtre 49.1228070175%
+	[█████████          ]
+greene_2_to_the_14th/4094.rtre 52.6315789474%
+	[██████████         ]
+greene_2_to_the_14th/4141.rtre 70.1754385965%
+	[██████████████     ]
+greene_2_to_the_14th/4142.rtre 57.8947368421%
+	[███████████        ]
+greene_2_to_the_14th/4235.rtre 50.8771929825%
+	[██████████         ]
+greene_2_to_the_14th/4280.rtre 50.8771929825%
+	[██████████         ]
+greene_2_to_the_14th/4283.rtre 50.8771929825%
+	[██████████         ]
+greene_2_to_the_14th/4291.rtre 49.1228070175%
+	[█████████          ]
+greene_2_to_the_14th/432.rtre 98.2456140351%
+	[███████████████████]
+greene_2_to_the_14th/4370.rtre 64.9122807018%
+	[████████████       ]
+greene_2_to_the_14th/4432.rtre 56.1403508772%
+	[███████████        ]
+greene_2_to_the_14th/4446.rtre 50.8771929825%
+	[██████████         ]
+greene_2_to_the_14th/4502.rtre 54.3859649123%
+	[██████████         ]
+greene_2_to_the_14th/4505.rtre 59.649122807%
+	[███████████        ]
+greene_2_to_the_14th/4575.rtre 80.701754386%
+	[████████████████   ]
+greene_2_to_the_14th/4600.rtre 61.4035087719%
+	[████████████       ]
+greene_2_to_the_14th/462.rtre 57.8947368421%
+	[███████████        ]
+greene_2_to_the_14th/4628.rtre 50.8771929825%
+	[██████████         ]
+greene_2_to_the_14th/4638.rtre 50.8771929825%
+	[██████████         ]
+greene_2_to_the_14th/4641.rtre 49.1228070175%
+	[█████████          ]
+greene_2_to_the_14th/465.rtre 54.3859649123%
+	[██████████         ]
+greene_2_to_the_14th/4712.rtre 52.6315789474%
+	[██████████         ]
+greene_2_to_the_14th/4743.rtre 49.1228070175%
+	[█████████          ]
+greene_2_to_the_14th/4821.rtre 54.3859649123%
+	[██████████         ]
+greene_2_to_the_14th/4851.rtre 56.1403508772%
+	[███████████        ]
+greene_2_to_the_14th/4884.rtre 50.8771929825%
+	[██████████         ]
+greene_2_to_the_14th/490.rtre 49.1228070175%
+	[█████████          ]
+greene_2_to_the_14th/4907.rtre 49.1228070175%
+	[█████████          ]
+greene_2_to_the_14th/5022.rtre 50.8771929825%
+	[██████████         ]
+greene_2_to_the_14th/5027.rtre 57.8947368421%
+	[███████████        ]
+greene_2_to_the_14th/5030.rtre 49.1228070175%
+	[█████████          ]
+greene_2_to_the_14th/5050.rtre 75.4385964912%
+	[███████████████    ]
+greene_2_to_the_14th/5063.rtre 50.8771929825%
+	[██████████         ]
+greene_2_to_the_14th/5081.rtre 56.1403508772%
+	[███████████        ]
+greene_2_to_the_14th/5176.rtre 89.4736842105%
+	[█████████████████  ]
+greene_2_to_the_14th/5208.rtre 61.4035087719%
+	[████████████       ]
+greene_2_to_the_14th/5268.rtre 56.1403508772%
+	[███████████        ]
+greene_2_to_the_14th/5273.rtre 91.2280701754%
+	[██████████████████ ]
+greene_2_to_the_14th/5274.rtre 57.8947368421%
+	[███████████        ]
+greene_2_to_the_14th/5298.rtre 57.8947368421%
+	[███████████        ]
+greene_2_to_the_14th/5350.rtre 49.1228070175%
+	[█████████          ]
+greene_2_to_the_14th/5362.rtre 85.9649122807%
+	[█████████████████  ]
+greene_2_to_the_14th/5410.rtre 49.1228070175%
+	[█████████          ]
+greene_2_to_the_14th/5537.rtre 77.1929824561%
+	[███████████████    ]
+greene_2_to_the_14th/5540.rtre 50.8771929825%
+	[██████████         ]
+greene_2_to_the_14th/5545.rtre 92.9824561404%
+	[██████████████████ ]
+greene_2_to_the_14th/5605.rtre 49.1228070175%
+	[█████████          ]
+greene_2_to_the_14th/5650.rtre 50.8771929825%
+	[██████████         ]
+greene_2_to_the_14th/5666.rtre 61.4035087719%
+	[████████████       ]
+greene_2_to_the_14th/5696.rtre 68.4210526316%
+	[█████████████      ]
+greene_2_to_the_14th/5718.rtre 50.8771929825%
+	[██████████         ]
+greene_2_to_the_14th/5728.rtre 50.8771929825%
+	[██████████         ]
+greene_2_to_the_14th/575.rtre 49.1228070175%
+	[█████████          ]
+greene_2_to_the_14th/5779.rtre 50.8771929825%
+	[██████████         ]
+greene_2_to_the_14th/5788.rtre 52.6315789474%
+	[██████████         ]
+greene_2_to_the_14th/5793.rtre 71.9298245614%
+	[██████████████     ]
+greene_2_to_the_14th/5811.rtre 50.8771929825%
+	[██████████         ]
+greene_2_to_the_14th/5827.rtre 49.1228070175%
+	[█████████          ]
+greene_2_to_the_14th/5840.rtre 49.1228070175%
+	[█████████          ]
+greene_2_to_the_14th/5855.rtre 49.1228070175%
+	[█████████          ]
+greene_2_to_the_14th/5867.rtre 56.1403508772%
+	[███████████        ]
+greene_2_to_the_14th/59.rtre 54.3859649123%
+	[██████████         ]
+greene_2_to_the_14th/5920.rtre 50.8771929825%
+	[██████████         ]
+greene_2_to_the_14th/5962.rtre 92.9824561404%
+	[██████████████████ ]
+greene_2_to_the_14th/60.rtre 54.3859649123%
+	[██████████         ]
+greene_2_to_the_14th/6010.rtre 49.1228070175%
+	[█████████          ]
+greene_2_to_the_14th/6025.rtre 50.8771929825%
+	[██████████         ]
+greene_2_to_the_14th/6032.rtre 57.8947368421%
+	[███████████        ]
+greene_2_to_the_14th/6054.rtre 70.1754385965%
+	[██████████████     ]
+greene_2_to_the_14th/6074.rtre 66.6666666667%
+	[█████████████      ]
+greene_2_to_the_14th/6158.rtre 80.701754386%
+	[████████████████   ]
+greene_2_to_the_14th/6167.rtre 54.3859649123%
+	[██████████         ]
+greene_2_to_the_14th/6229.rtre 50.8771929825%
+	[██████████         ]
+greene_2_to_the_14th/6258.rtre 70.1754385965%
+	[██████████████     ]
+greene_2_to_the_14th/6303.rtre 73.6842105263%
+	[██████████████     ]
+greene_2_to_the_14th/6307.rtre 80.701754386%
+	[████████████████   ]
+greene_2_to_the_14th/6320.rtre 49.1228070175%
+	[█████████          ]
+greene_2_to_the_14th/6321.rtre 49.1228070175%
+	[█████████          ]
+greene_2_to_the_14th/6406.rtre 56.1403508772%
+	[███████████        ]
+greene_2_to_the_14th/6430.rtre 82.4561403509%
+	[████████████████   ]
+greene_2_to_the_14th/650.rtre 64.9122807018%
+	[████████████       ]
+greene_2_to_the_14th/6527.rtre 68.4210526316%
+	[█████████████      ]
+greene_2_to_the_14th/6529.rtre 52.6315789474%
+	[██████████         ]
+greene_2_to_the_14th/6587.rtre 87.7192982456%
+	[█████████████████  ]
+greene_2_to_the_14th/6605.rtre 56.1403508772%
+	[███████████        ]
+greene_2_to_the_14th/6658.rtre 64.9122807018%
+	[████████████       ]
+greene_2_to_the_14th/6670.rtre 70.1754385965%
+	[██████████████     ]
+greene_2_to_the_14th/6698.rtre 49.1228070175%
+	[█████████          ]
+greene_2_to_the_14th/6712.rtre 50.8771929825%
+	[██████████         ]
+greene_2_to_the_14th/6715.rtre 64.9122807018%
+	[████████████       ]
+greene_2_to_the_14th/6730.rtre 63.1578947368%
+	[████████████       ]
+greene_2_to_the_14th/6767.rtre 78.9473684211%
+	[███████████████    ]
+greene_2_to_the_14th/680.rtre 49.1228070175%
+	[█████████          ]
+greene_2_to_the_14th/6810.rtre 57.8947368421%
+	[███████████        ]
+greene_2_to_the_14th/6854.rtre 92.9824561404%
+	[██████████████████ ]
+greene_2_to_the_14th/6888.rtre 57.8947368421%
+	[███████████        ]
+greene_2_to_the_14th/694.rtre 59.649122807%
+	[███████████        ]
+greene_2_to_the_14th/6951.rtre 50.8771929825%
+	[██████████         ]
+greene_2_to_the_14th/6954.rtre 52.6315789474%
+	[██████████         ]
+greene_2_to_the_14th/700.rtre 52.6315789474%
+	[██████████         ]
+greene_2_to_the_14th/703.rtre 49.1228070175%
+	[█████████          ]
+greene_2_to_the_14th/7054.rtre 78.9473684211%
+	[███████████████    ]
+greene_2_to_the_14th/7063.rtre 63.1578947368%
+	[████████████       ]
+greene_2_to_the_14th/7090.rtre 50.8771929825%
+	[██████████         ]
+greene_2_to_the_14th/7105.rtre 56.1403508772%
+	[███████████        ]
+greene_2_to_the_14th/7139.rtre 49.1228070175%
+	[█████████          ]
+greene_2_to_the_14th/7162.rtre 50.8771929825%
+	[██████████         ]
+greene_2_to_the_14th/7211.rtre 49.1228070175%
+	[█████████          ]
+greene_2_to_the_14th/7253.rtre 50.8771929825%
+	[██████████         ]
+greene_2_to_the_14th/7274.rtre 59.649122807%
+	[███████████        ]
+greene_2_to_the_14th/7279.rtre 50.8771929825%
+	[██████████         ]
+greene_2_to_the_14th/7303.rtre 50.8771929825%
+	[██████████         ]
+greene_2_to_the_14th/7312.rtre 50.8771929825%
+	[██████████         ]
+greene_2_to_the_14th/7319.rtre 54.3859649123%
+	[██████████         ]
+greene_2_to_the_14th/7421.rtre 50.8771929825%
+	[██████████         ]
+greene_2_to_the_14th/7433.rtre 49.1228070175%
+	[█████████          ]
+greene_2_to_the_14th/7466.rtre 52.6315789474%
+	[██████████         ]
+greene_2_to_the_14th/7484.rtre 49.1228070175%
+	[█████████          ]
+greene_2_to_the_14th/7487.rtre 96.4912280702%
+	[███████████████████]
+greene_2_to_the_14th/7496.rtre 84.2105263158%
+	[████████████████   ]
+greene_2_to_the_14th/750.rtre 96.4912280702%
+	[███████████████████]
+greene_2_to_the_14th/7549.rtre 50.8771929825%
+	[██████████         ]
+greene_2_to_the_14th/7563.rtre 64.9122807018%
+	[████████████       ]
+greene_2_to_the_14th/7589.rtre 68.4210526316%
+	[█████████████      ]
+greene_2_to_the_14th/7590.rtre 54.3859649123%
+	[██████████         ]
+greene_2_to_the_14th/7675.rtre 49.1228070175%
+	[█████████          ]
+greene_2_to_the_14th/7708.rtre 50.8771929825%
+	[██████████         ]
+greene_2_to_the_14th/7767.rtre 56.1403508772%
+	[███████████        ]
+greene_2_to_the_14th/7797.rtre 50.8771929825%
+	[██████████         ]
+greene_2_to_the_14th/7800.rtre 78.9473684211%
+	[███████████████    ]
+greene_2_to_the_14th/787.rtre 50.8771929825%
+	[██████████         ]
+greene_2_to_the_14th/7875.rtre 92.9824561404%
+	[██████████████████ ]
+greene_2_to_the_14th/7884.rtre 49.1228070175%
+	[█████████          ]
+greene_2_to_the_14th/7887.rtre 91.2280701754%
+	[██████████████████ ]
+greene_2_to_the_14th/7890.rtre 59.649122807%
+	[███████████        ]
+greene_2_to_the_14th/7901.rtre 50.8771929825%
+	[██████████         ]
+greene_2_to_the_14th/7925.rtre 73.6842105263%
+	[██████████████     ]
+greene_2_to_the_14th/8022.rtre 57.8947368421%
+	[███████████        ]
+greene_2_to_the_14th/8068.rtre 50.8771929825%
+	[██████████         ]
+greene_2_to_the_14th/8185.rtre 49.1228070175%
+	[█████████          ]
+greene_2_to_the_14th/8203.rtre 68.4210526316%
+	[█████████████      ]
+greene_2_to_the_14th/8262.rtre 71.9298245614%
+	[██████████████     ]
+greene_2_to_the_14th/8295.rtre 50.8771929825%
+	[██████████         ]
+greene_2_to_the_14th/8311.rtre 52.6315789474%
+	[██████████         ]
+greene_2_to_the_14th/8336.rtre 52.6315789474%
+	[██████████         ]
+greene_2_to_the_14th/834.rtre 50.8771929825%
+	[██████████         ]
+greene_2_to_the_14th/8352.rtre 63.1578947368%
+	[████████████       ]
+greene_2_to_the_14th/8403.rtre 64.9122807018%
+	[████████████       ]
+greene_2_to_the_14th/8405.rtre 66.6666666667%
+	[█████████████      ]
+greene_2_to_the_14th/8423.rtre 52.6315789474%
+	[██████████         ]
+greene_2_to_the_14th/8547.rtre 50.8771929825%
+	[██████████         ]
+greene_2_to_the_14th/8551.rtre 50.8771929825%
+	[██████████         ]
+greene_2_to_the_14th/8557.rtre 59.649122807%
+	[███████████        ]
+greene_2_to_the_14th/8558.rtre 49.1228070175%
+	[█████████          ]
+greene_2_to_the_14th/8663.rtre 63.1578947368%
+	[████████████       ]
+greene_2_to_the_14th/8675.rtre 50.8771929825%
+	[██████████         ]
+greene_2_to_the_14th/8751.rtre 54.3859649123%
+	[██████████         ]
+greene_2_to_the_14th/8758.rtre 64.9122807018%
+	[████████████       ]
+greene_2_to_the_14th/8764.rtre 50.8771929825%
+	[██████████         ]
+greene_2_to_the_14th/8833.rtre 49.1228070175%
+	[█████████          ]
+greene_2_to_the_14th/8836.rtre 50.8771929825%
+	[██████████         ]
+greene_2_to_the_14th/8854.rtre 64.9122807018%
+	[████████████       ]
+greene_2_to_the_14th/8942.rtre 82.4561403509%
+	[████████████████   ]
+greene_2_to_the_14th/8951.rtre 54.3859649123%
+	[██████████         ]
+greene_2_to_the_14th/898.rtre 54.3859649123%
+	[██████████         ]
+greene_2_to_the_14th/900.rtre 92.9824561404%
+	[██████████████████ ]
+greene_2_to_the_14th/9005.rtre 50.8771929825%
+	[██████████         ]
+greene_2_to_the_14th/9032.rtre 50.8771929825%
+	[██████████         ]
+greene_2_to_the_14th/9035.rtre 49.1228070175%
+	[█████████          ]
+greene_2_to_the_14th/9070.rtre 54.3859649123%
+	[██████████         ]
+greene_2_to_the_14th/9140.rtre 50.8771929825%
+	[██████████         ]
+greene_2_to_the_14th/917.rtre 96.4912280702%
+	[███████████████████]
+greene_2_to_the_14th/9238.rtre 49.1228070175%
+	[█████████          ]
+greene_2_to_the_14th/9281.rtre 49.1228070175%
+	[█████████          ]
+greene_2_to_the_14th/9336.rtre 50.8771929825%
+	[██████████         ]
+greene_2_to_the_14th/9344.rtre 71.9298245614%
+	[██████████████     ]
+greene_2_to_the_14th/9397.rtre 56.1403508772%
+	[███████████        ]
+greene_2_to_the_14th/9426.rtre 59.649122807%
+	[███████████        ]
+greene_2_to_the_14th/9428.rtre 85.9649122807%
+	[█████████████████  ]
+greene_2_to_the_14th/9461.rtre 59.649122807%
+	[███████████        ]
+greene_2_to_the_14th/9485.rtre 49.1228070175%
+	[█████████          ]
+greene_2_to_the_14th/9506.rtre 80.701754386%
+	[████████████████   ]
+greene_2_to_the_14th/9537.rtre 70.1754385965%
+	[██████████████     ]
+greene_2_to_the_14th/9565.rtre 49.1228070175%
+	[█████████          ]
+greene_2_to_the_14th/9612.rtre 85.9649122807%
+	[█████████████████  ]
+greene_2_to_the_14th/9642.rtre 49.1228070175%
+	[█████████          ]
+greene_2_to_the_14th/9676.rtre 50.8771929825%
+	[██████████         ]
+greene_2_to_the_14th/9712.rtre 49.1228070175%
+	[█████████          ]
+greene_2_to_the_14th/9725.rtre 49.1228070175%
+	[█████████          ]
+greene_2_to_the_14th/9737.rtre 50.8771929825%
+	[██████████         ]
+greene_2_to_the_14th/9743.rtre 80.701754386%
+	[████████████████   ]
+greene_2_to_the_14th/9744.rtre 54.3859649123%
+	[██████████         ]
+greene_2_to_the_14th/9754.rtre 77.1929824561%
+	[███████████████    ]
+greene_2_to_the_14th/98.rtre 64.9122807018%
+	[████████████       ]
+greene_2_to_the_14th/9819.rtre 49.1228070175%
+	[█████████          ]
+greene_2_to_the_14th/9844.rtre 49.1228070175%
+	[█████████          ]
+greene_2_to_the_14th/9863.rtre 49.1228070175%
+	[█████████          ]
+greene_2_to_the_14th/989.rtre 84.2105263158%
+	[████████████████   ]
+greene_2_to_the_14th/9902.rtre 61.4035087719%
+	[████████████       ]
+greene_2_to_the_14th/9939.rtre 54.3859649123%
+	[██████████         ]
+Average file usage: 59.2385964912%
+	[███████████        ]
+Filename 		Disk space
+greene_2_to_the_14th/1.rtre 	 44Kb
+greene_2_to_the_14th/10030.rtre 	 37Kb
+greene_2_to_the_14th/10067.rtre 	 33Kb
+greene_2_to_the_14th/1009.rtre 	 32Kb
+greene_2_to_the_14th/10095.rtre 	 32Kb
+greene_2_to_the_14th/10150.rtre 	 29Kb
+greene_2_to_the_14th/10158.rtre 	 49Kb
+greene_2_to_the_14th/10269.rtre 	 30Kb
+greene_2_to_the_14th/10289.rtre 	 35Kb
+greene_2_to_the_14th/10302.rtre 	 31Kb
+greene_2_to_the_14th/10365.rtre 	 30Kb
+greene_2_to_the_14th/10394.rtre 	 30Kb
+greene_2_to_the_14th/1040.rtre 	 32Kb
+greene_2_to_the_14th/10404.rtre 	 30Kb
+greene_2_to_the_14th/1042.rtre 	 29Kb
+greene_2_to_the_14th/10491.rtre 	 37Kb
+greene_2_to_the_14th/10541.rtre 	 39Kb
+greene_2_to_the_14th/10557.rtre 	 31Kb
+greene_2_to_the_14th/10559.rtre 	 30Kb
+greene_2_to_the_14th/10602.rtre 	 42Kb
+greene_2_to_the_14th/10620.rtre 	 29Kb
+greene_2_to_the_14th/10660.rtre 	 30Kb
+greene_2_to_the_14th/10731.rtre 	 36Kb
+greene_2_to_the_14th/1074.rtre 	 35Kb
+greene_2_to_the_14th/10820.rtre 	 29Kb
+greene_2_to_the_14th/10833.rtre 	 37Kb
+greene_2_to_the_14th/10860.rtre 	 30Kb
+greene_2_to_the_14th/10896.rtre 	 29Kb
+greene_2_to_the_14th/10898.rtre 	 44Kb
+greene_2_to_the_14th/10992.rtre 	 30Kb
+greene_2_to_the_14th/10993.rtre 	 29Kb
+greene_2_to_the_14th/11019.rtre 	 29Kb
+greene_2_to_the_14th/11051.rtre 	 30Kb
+greene_2_to_the_14th/11078.rtre 	 37Kb
+greene_2_to_the_14th/11138.rtre 	 30Kb
+greene_2_to_the_14th/11146.rtre 	 29Kb
+greene_2_to_the_14th/11154.rtre 	 41Kb
+greene_2_to_the_14th/11226.rtre 	 29Kb
+greene_2_to_the_14th/11268.rtre 	 32Kb
+greene_2_to_the_14th/11287.rtre 	 29Kb
+greene_2_to_the_14th/11372.rtre 	 29Kb
+greene_2_to_the_14th/11421.rtre 	 57Kb
+greene_2_to_the_14th/11424.rtre 	 34Kb
+greene_2_to_the_14th/11440.rtre 	 35Kb
+greene_2_to_the_14th/11460.rtre 	 30Kb
+greene_2_to_the_14th/11470.rtre 	 30Kb
+greene_2_to_the_14th/11507.rtre 	 47Kb
+greene_2_to_the_14th/11516.rtre 	 29Kb
+greene_2_to_the_14th/11538.rtre 	 30Kb
+greene_2_to_the_14th/1154.rtre 	 48Kb
+greene_2_to_the_14th/11556.rtre 	 50Kb
+greene_2_to_the_14th/11621.rtre 	 30Kb
+greene_2_to_the_14th/1164.rtre 	 29Kb
+greene_2_to_the_14th/11644.rtre 	 38Kb
+greene_2_to_the_14th/11650.rtre 	 43Kb
+greene_2_to_the_14th/11743.rtre 	 32Kb
+greene_2_to_the_14th/11763.rtre 	 29Kb
+greene_2_to_the_14th/11785.rtre 	 29Kb
+greene_2_to_the_14th/11847.rtre 	 35Kb
+greene_2_to_the_14th/11874.rtre 	 30Kb
+greene_2_to_the_14th/11888.rtre 	 29Kb
+greene_2_to_the_14th/11910.rtre 	 30Kb
+greene_2_to_the_14th/11912.rtre 	 29Kb
+greene_2_to_the_14th/12017.rtre 	 30Kb
+greene_2_to_the_14th/12032.rtre 	 33Kb
+greene_2_to_the_14th/12050.rtre 	 41Kb
+greene_2_to_the_14th/12076.rtre 	 31Kb
+greene_2_to_the_14th/12085.rtre 	 32Kb
+greene_2_to_the_14th/12155.rtre 	 37Kb
+greene_2_to_the_14th/12190.rtre 	 56Kb
+greene_2_to_the_14th/12260.rtre 	 30Kb
+greene_2_to_the_14th/12274.rtre 	 34Kb
+greene_2_to_the_14th/12296.rtre 	 30Kb
+greene_2_to_the_14th/12305.rtre 	 29Kb
+greene_2_to_the_14th/1231.rtre 	 32Kb
+greene_2_to_the_14th/12334.rtre 	 29Kb
+greene_2_to_the_14th/12362.rtre 	 31Kb
+greene_2_to_the_14th/12363.rtre 	 34Kb
+greene_2_to_the_14th/1237.rtre 	 46Kb
+greene_2_to_the_14th/12389.rtre 	 29Kb
+greene_2_to_the_14th/12409.rtre 	 34Kb
+greene_2_to_the_14th/12536.rtre 	 38Kb
+greene_2_to_the_14th/1254.rtre 	 29Kb
+greene_2_to_the_14th/12543.rtre 	 30Kb
+greene_2_to_the_14th/12679.rtre 	 29Kb
+greene_2_to_the_14th/12682.rtre 	 36Kb
+greene_2_to_the_14th/12705.rtre 	 31Kb
+greene_2_to_the_14th/12749.rtre 	 29Kb
+greene_2_to_the_14th/12753.rtre 	 30Kb
+greene_2_to_the_14th/12756.rtre 	 30Kb
+greene_2_to_the_14th/12759.rtre 	 29Kb
+greene_2_to_the_14th/12891.rtre 	 35Kb
+greene_2_to_the_14th/12895.rtre 	 49Kb
+greene_2_to_the_14th/12925.rtre 	 39Kb
+greene_2_to_the_14th/12941.rtre 	 29Kb
+greene_2_to_the_14th/12977.rtre 	 53Kb
+greene_2_to_the_14th/13065.rtre 	 29Kb
+greene_2_to_the_14th/13093.rtre 	 48Kb
+greene_2_to_the_14th/13096.rtre 	 30Kb
+greene_2_to_the_14th/13154.rtre 	 36Kb
+greene_2_to_the_14th/13158.rtre 	 30Kb
+greene_2_to_the_14th/13223.rtre 	 30Kb
+greene_2_to_the_14th/1326.rtre 	 29Kb
+greene_2_to_the_14th/13294.rtre 	 55Kb
+greene_2_to_the_14th/13301.rtre 	 43Kb
+greene_2_to_the_14th/13320.rtre 	 29Kb
+greene_2_to_the_14th/134.rtre 	 56Kb
+greene_2_to_the_14th/13410.rtre 	 29Kb
+greene_2_to_the_14th/13427.rtre 	 35Kb
+greene_2_to_the_14th/13429.rtre 	 29Kb
+greene_2_to_the_14th/13475.rtre 	 35Kb
+greene_2_to_the_14th/1349.rtre 	 50Kb
+greene_2_to_the_14th/1351.rtre 	 29Kb
+greene_2_to_the_14th/13573.rtre 	 30Kb
+greene_2_to_the_14th/13624.rtre 	 30Kb
+greene_2_to_the_14th/13649.rtre 	 29Kb
+greene_2_to_the_14th/13688.rtre 	 30Kb
+greene_2_to_the_14th/13690.rtre 	 35Kb
+greene_2_to_the_14th/13692.rtre 	 39Kb
+greene_2_to_the_14th/13704.rtre 	 30Kb
+greene_2_to_the_14th/13713.rtre 	 30Kb
+greene_2_to_the_14th/13794.rtre 	 29Kb
+greene_2_to_the_14th/13812.rtre 	 49Kb
+greene_2_to_the_14th/13845.rtre 	 30Kb
+greene_2_to_the_14th/13898.rtre 	 53Kb
+greene_2_to_the_14th/13910.rtre 	 38Kb
+greene_2_to_the_14th/13936.rtre 	 53Kb
+greene_2_to_the_14th/13985.rtre 	 30Kb
+greene_2_to_the_14th/14025.rtre 	 37Kb
+greene_2_to_the_14th/14026.rtre 	 30Kb
+greene_2_to_the_14th/14047.rtre 	 30Kb
+greene_2_to_the_14th/14064.rtre 	 30Kb
+greene_2_to_the_14th/14086.rtre 	 30Kb
+greene_2_to_the_14th/14087.rtre 	 32Kb
+greene_2_to_the_14th/1413.rtre 	 38Kb
+greene_2_to_the_14th/14133.rtre 	 33Kb
+greene_2_to_the_14th/14148.rtre 	 30Kb
+greene_2_to_the_14th/14152.rtre 	 41Kb
+greene_2_to_the_14th/14224.rtre 	 41Kb
+greene_2_to_the_14th/14289.rtre 	 31Kb
+greene_2_to_the_14th/14318.rtre 	 29Kb
+greene_2_to_the_14th/14339.rtre 	 31Kb
+greene_2_to_the_14th/14364.rtre 	 35Kb
+greene_2_to_the_14th/14381.rtre 	 37Kb
+greene_2_to_the_14th/14415.rtre 	 29Kb
+greene_2_to_the_14th/14483.rtre 	 30Kb
+greene_2_to_the_14th/14549.rtre 	 29Kb
+greene_2_to_the_14th/14601.rtre 	 30Kb
+greene_2_to_the_14th/14621.rtre 	 45Kb
+greene_2_to_the_14th/14673.rtre 	 31Kb
+greene_2_to_the_14th/14682.rtre 	 30Kb
+greene_2_to_the_14th/14701.rtre 	 34Kb
+greene_2_to_the_14th/14741.rtre 	 51Kb
+greene_2_to_the_14th/14753.rtre 	 29Kb
+greene_2_to_the_14th/1480.rtre 	 35Kb
+greene_2_to_the_14th/14862.rtre 	 30Kb
+greene_2_to_the_14th/14879.rtre 	 40Kb
+greene_2_to_the_14th/14881.rtre 	 38Kb
+greene_2_to_the_14th/14893.rtre 	 39Kb
+greene_2_to_the_14th/14920.rtre 	 30Kb
+greene_2_to_the_14th/14925.rtre 	 48Kb
+greene_2_to_the_14th/14934.rtre 	 30Kb
+greene_2_to_the_14th/1499.rtre 	 34Kb
+greene_2_to_the_14th/14998.rtre 	 30Kb
+greene_2_to_the_14th/15018.rtre 	 30Kb
+greene_2_to_the_14th/15051.rtre 	 46Kb
+greene_2_to_the_14th/15086.rtre 	 29Kb
+greene_2_to_the_14th/15097.rtre 	 32Kb
+greene_2_to_the_14th/15117.rtre 	 31Kb
+greene_2_to_the_14th/15143.rtre 	 29Kb
+greene_2_to_the_14th/1516.rtre 	 36Kb
+greene_2_to_the_14th/15189.rtre 	 39Kb
+greene_2_to_the_14th/15205.rtre 	 39Kb
+greene_2_to_the_14th/15213.rtre 	 43Kb
+greene_2_to_the_14th/15214.rtre 	 29Kb
+greene_2_to_the_14th/15314.rtre 	 35Kb
+greene_2_to_the_14th/15320.rtre 	 29Kb
+greene_2_to_the_14th/15341.rtre 	 53Kb
+greene_2_to_the_14th/15344.rtre 	 32Kb
+greene_2_to_the_14th/15413.rtre 	 30Kb
+greene_2_to_the_14th/15463.rtre 	 32Kb
+greene_2_to_the_14th/15467.rtre 	 56Kb
+greene_2_to_the_14th/15550.rtre 	 32Kb
+greene_2_to_the_14th/15586.rtre 	 30Kb
+greene_2_to_the_14th/15595.rtre 	 30Kb
+greene_2_to_the_14th/15660.rtre 	 30Kb
+greene_2_to_the_14th/15663.rtre 	 33Kb
+greene_2_to_the_14th/15704.rtre 	 34Kb
+greene_2_to_the_14th/15716.rtre 	 30Kb
+greene_2_to_the_14th/1572.rtre 	 37Kb
+greene_2_to_the_14th/15733.rtre 	 31Kb
+greene_2_to_the_14th/15744.rtre 	 29Kb
+greene_2_to_the_14th/15766.rtre 	 31Kb
+greene_2_to_the_14th/15782.rtre 	 30Kb
+greene_2_to_the_14th/15805.rtre 	 45Kb
+greene_2_to_the_14th/15832.rtre 	 42Kb
+greene_2_to_the_14th/15869.rtre 	 29Kb
+greene_2_to_the_14th/1599.rtre 	 50Kb
+greene_2_to_the_14th/16004.rtre 	 30Kb
+greene_2_to_the_14th/16008.rtre 	 38Kb
+greene_2_to_the_14th/16015.rtre 	 32Kb
+greene_2_to_the_14th/16031.rtre 	 51Kb
+greene_2_to_the_14th/16123.rtre 	 29Kb
+greene_2_to_the_14th/16179.rtre 	 33Kb
+greene_2_to_the_14th/16219.rtre 	 48Kb
+greene_2_to_the_14th/16254.rtre 	 49Kb
+greene_2_to_the_14th/16272.rtre 	 29Kb
+greene_2_to_the_14th/16322.rtre 	 30Kb
+greene_2_to_the_14th/16392.rtre 	 30Kb
+greene_2_to_the_14th/16394.rtre 	 30Kb
+greene_2_to_the_14th/16395.rtre 	 39Kb
+greene_2_to_the_14th/16462.rtre 	 42Kb
+greene_2_to_the_14th/16468.rtre 	 29Kb
+greene_2_to_the_14th/16596.rtre 	 30Kb
+greene_2_to_the_14th/166.rtre 	 32Kb
+greene_2_to_the_14th/16623.rtre 	 36Kb
+greene_2_to_the_14th/16649.rtre 	 42Kb
+greene_2_to_the_14th/16668.rtre 	 30Kb
+greene_2_to_the_14th/16709.rtre 	 30Kb
+greene_2_to_the_14th/16744.rtre 	 32Kb
+greene_2_to_the_14th/1675.rtre 	 30Kb
+greene_2_to_the_14th/16753.rtre 	 42Kb
+greene_2_to_the_14th/16773.rtre 	 38Kb
+greene_2_to_the_14th/1680.rtre 	 32Kb
+greene_2_to_the_14th/16834.rtre 	 44Kb
+greene_2_to_the_14th/1692.rtre 	 47Kb
+greene_2_to_the_14th/1722.rtre 	 29Kb
+greene_2_to_the_14th/1725.rtre 	 43Kb
+greene_2_to_the_14th/1753.rtre 	 30Kb
+greene_2_to_the_14th/1810.rtre 	 36Kb
+greene_2_to_the_14th/1836.rtre 	 35Kb
+greene_2_to_the_14th/1840.rtre 	 31Kb
+greene_2_to_the_14th/1905.rtre 	 30Kb
+greene_2_to_the_14th/1942.rtre 	 29Kb
+greene_2_to_the_14th/2015.rtre 	 29Kb
+greene_2_to_the_14th/2016.rtre 	 31Kb
+greene_2_to_the_14th/2017.rtre 	 16Kb
+greene_2_to_the_14th/2041.rtre 	 32Kb
+greene_2_to_the_14th/2131.rtre 	 29Kb
+greene_2_to_the_14th/2254.rtre 	 29Kb
+greene_2_to_the_14th/2284.rtre 	 46Kb
+greene_2_to_the_14th/2290.rtre 	 29Kb
+greene_2_to_the_14th/2292.rtre 	 33Kb
+greene_2_to_the_14th/2318.rtre 	 29Kb
+greene_2_to_the_14th/2375.rtre 	 37Kb
+greene_2_to_the_14th/2390.rtre 	 29Kb
+greene_2_to_the_14th/2401.rtre 	 30Kb
+greene_2_to_the_14th/2407.rtre 	 30Kb
+greene_2_to_the_14th/2421.rtre 	 31Kb
+greene_2_to_the_14th/2434.rtre 	 46Kb
+greene_2_to_the_14th/246.rtre 	 29Kb
+greene_2_to_the_14th/2544.rtre 	 30Kb
+greene_2_to_the_14th/2597.rtre 	 30Kb
+greene_2_to_the_14th/2614.rtre 	 31Kb
+greene_2_to_the_14th/2651.rtre 	 30Kb
+greene_2_to_the_14th/2657.rtre 	 30Kb
+greene_2_to_the_14th/2679.rtre 	 37Kb
+greene_2_to_the_14th/2717.rtre 	 29Kb
+greene_2_to_the_14th/279.rtre 	 31Kb
+greene_2_to_the_14th/2821.rtre 	 34Kb
+greene_2_to_the_14th/2825.rtre 	 36Kb
+greene_2_to_the_14th/2927.rtre 	 29Kb
+greene_2_to_the_14th/2963.rtre 	 32Kb
+greene_2_to_the_14th/2967.rtre 	 44Kb
+greene_2_to_the_14th/2989.rtre 	 46Kb
+greene_2_to_the_14th/3007.rtre 	 30Kb
+greene_2_to_the_14th/3066.rtre 	 42Kb
+greene_2_to_the_14th/3104.rtre 	 43Kb
+greene_2_to_the_14th/3136.rtre 	 30Kb
+greene_2_to_the_14th/3137.rtre 	 53Kb
+greene_2_to_the_14th/3145.rtre 	 45Kb
+greene_2_to_the_14th/3147.rtre 	 37Kb
+greene_2_to_the_14th/3155.rtre 	 30Kb
+greene_2_to_the_14th/3183.rtre 	 30Kb
+greene_2_to_the_14th/3186.rtre 	 29Kb
+greene_2_to_the_14th/3276.rtre 	 44Kb
+greene_2_to_the_14th/3294.rtre 	 54Kb
+greene_2_to_the_14th/333.rtre 	 38Kb
+greene_2_to_the_14th/3341.rtre 	 29Kb
+greene_2_to_the_14th/3343.rtre 	 29Kb
+greene_2_to_the_14th/3363.rtre 	 30Kb
+greene_2_to_the_14th/339.rtre 	 46Kb
+greene_2_to_the_14th/3391.rtre 	 53Kb
+greene_2_to_the_14th/3411.rtre 	 30Kb
+greene_2_to_the_14th/345.rtre 	 30Kb
+greene_2_to_the_14th/3466.rtre 	 30Kb
+greene_2_to_the_14th/3515.rtre 	 31Kb
+greene_2_to_the_14th/3523.rtre 	 30Kb
+greene_2_to_the_14th/3532.rtre 	 44Kb
+greene_2_to_the_14th/3579.rtre 	 30Kb
+greene_2_to_the_14th/3650.rtre 	 29Kb
+greene_2_to_the_14th/3734.rtre 	 29Kb
+greene_2_to_the_14th/3749.rtre 	 40Kb
+greene_2_to_the_14th/3752.rtre 	 29Kb
+greene_2_to_the_14th/3764.rtre 	 33Kb
+greene_2_to_the_14th/3794.rtre 	 30Kb
+greene_2_to_the_14th/3811.rtre 	 29Kb
+greene_2_to_the_14th/3910.rtre 	 35Kb
+greene_2_to_the_14th/3913.rtre 	 38Kb
+greene_2_to_the_14th/3987.rtre 	 41Kb
+greene_2_to_the_14th/3999.rtre 	 29Kb
+greene_2_to_the_14th/4094.rtre 	 31Kb
+greene_2_to_the_14th/4141.rtre 	 41Kb
+greene_2_to_the_14th/4142.rtre 	 34Kb
+greene_2_to_the_14th/4235.rtre 	 30Kb
+greene_2_to_the_14th/4280.rtre 	 30Kb
+greene_2_to_the_14th/4283.rtre 	 30Kb
+greene_2_to_the_14th/4291.rtre 	 29Kb
+greene_2_to_the_14th/432.rtre 	 57Kb
+greene_2_to_the_14th/4370.rtre 	 38Kb
+greene_2_to_the_14th/4432.rtre 	 33Kb
+greene_2_to_the_14th/4446.rtre 	 30Kb
+greene_2_to_the_14th/4502.rtre 	 32Kb
+greene_2_to_the_14th/4505.rtre 	 35Kb
+greene_2_to_the_14th/4575.rtre 	 47Kb
+greene_2_to_the_14th/4600.rtre 	 36Kb
+greene_2_to_the_14th/462.rtre 	 34Kb
+greene_2_to_the_14th/4628.rtre 	 30Kb
+greene_2_to_the_14th/4638.rtre 	 30Kb
+greene_2_to_the_14th/4641.rtre 	 29Kb
+greene_2_to_the_14th/465.rtre 	 32Kb
+greene_2_to_the_14th/4712.rtre 	 31Kb
+greene_2_to_the_14th/4743.rtre 	 29Kb
+greene_2_to_the_14th/4821.rtre 	 32Kb
+greene_2_to_the_14th/4851.rtre 	 33Kb
+greene_2_to_the_14th/4884.rtre 	 30Kb
+greene_2_to_the_14th/490.rtre 	 29Kb
+greene_2_to_the_14th/4907.rtre 	 29Kb
+greene_2_to_the_14th/5022.rtre 	 30Kb
+greene_2_to_the_14th/5027.rtre 	 34Kb
+greene_2_to_the_14th/5030.rtre 	 29Kb
+greene_2_to_the_14th/5050.rtre 	 44Kb
+greene_2_to_the_14th/5063.rtre 	 30Kb
+greene_2_to_the_14th/5081.rtre 	 33Kb
+greene_2_to_the_14th/5176.rtre 	 52Kb
+greene_2_to_the_14th/5208.rtre 	 36Kb
+greene_2_to_the_14th/5268.rtre 	 33Kb
+greene_2_to_the_14th/5273.rtre 	 53Kb
+greene_2_to_the_14th/5274.rtre 	 34Kb
+greene_2_to_the_14th/5298.rtre 	 34Kb
+greene_2_to_the_14th/5350.rtre 	 29Kb
+greene_2_to_the_14th/5362.rtre 	 50Kb
+greene_2_to_the_14th/5410.rtre 	 29Kb
+greene_2_to_the_14th/5537.rtre 	 45Kb
+greene_2_to_the_14th/5540.rtre 	 30Kb
+greene_2_to_the_14th/5545.rtre 	 54Kb
+greene_2_to_the_14th/5605.rtre 	 29Kb
+greene_2_to_the_14th/5650.rtre 	 30Kb
+greene_2_to_the_14th/5666.rtre 	 36Kb
+greene_2_to_the_14th/5696.rtre 	 40Kb
+greene_2_to_the_14th/5718.rtre 	 30Kb
+greene_2_to_the_14th/5728.rtre 	 30Kb
+greene_2_to_the_14th/575.rtre 	 29Kb
+greene_2_to_the_14th/5779.rtre 	 30Kb
+greene_2_to_the_14th/5788.rtre 	 31Kb
+greene_2_to_the_14th/5793.rtre 	 42Kb
+greene_2_to_the_14th/5811.rtre 	 30Kb
+greene_2_to_the_14th/5827.rtre 	 29Kb
+greene_2_to_the_14th/5840.rtre 	 29Kb
+greene_2_to_the_14th/5855.rtre 	 29Kb
+greene_2_to_the_14th/5867.rtre 	 33Kb
+greene_2_to_the_14th/59.rtre 	 32Kb
+greene_2_to_the_14th/5920.rtre 	 30Kb
+greene_2_to_the_14th/5962.rtre 	 54Kb
+greene_2_to_the_14th/60.rtre 	 32Kb
+greene_2_to_the_14th/6010.rtre 	 29Kb
+greene_2_to_the_14th/6025.rtre 	 30Kb
+greene_2_to_the_14th/6032.rtre 	 34Kb
+greene_2_to_the_14th/6054.rtre 	 41Kb
+greene_2_to_the_14th/6074.rtre 	 39Kb
+greene_2_to_the_14th/6158.rtre 	 47Kb
+greene_2_to_the_14th/6167.rtre 	 32Kb
+greene_2_to_the_14th/6229.rtre 	 30Kb
+greene_2_to_the_14th/6258.rtre 	 41Kb
+greene_2_to_the_14th/6303.rtre 	 43Kb
+greene_2_to_the_14th/6307.rtre 	 47Kb
+greene_2_to_the_14th/6320.rtre 	 29Kb
+greene_2_to_the_14th/6321.rtre 	 29Kb
+greene_2_to_the_14th/6406.rtre 	 33Kb
+greene_2_to_the_14th/6430.rtre 	 48Kb
+greene_2_to_the_14th/650.rtre 	 38Kb
+greene_2_to_the_14th/6527.rtre 	 40Kb
+greene_2_to_the_14th/6529.rtre 	 31Kb
+greene_2_to_the_14th/6587.rtre 	 51Kb
+greene_2_to_the_14th/6605.rtre 	 33Kb
+greene_2_to_the_14th/6658.rtre 	 38Kb
+greene_2_to_the_14th/6670.rtre 	 41Kb
+greene_2_to_the_14th/6698.rtre 	 29Kb
+greene_2_to_the_14th/6712.rtre 	 30Kb
+greene_2_to_the_14th/6715.rtre 	 38Kb
+greene_2_to_the_14th/6730.rtre 	 37Kb
+greene_2_to_the_14th/6767.rtre 	 46Kb
+greene_2_to_the_14th/680.rtre 	 29Kb
+greene_2_to_the_14th/6810.rtre 	 34Kb
+greene_2_to_the_14th/6854.rtre 	 54Kb
+greene_2_to_the_14th/6888.rtre 	 34Kb
+greene_2_to_the_14th/694.rtre 	 35Kb
+greene_2_to_the_14th/6951.rtre 	 30Kb
+greene_2_to_the_14th/6954.rtre 	 31Kb
+greene_2_to_the_14th/700.rtre 	 31Kb
+greene_2_to_the_14th/703.rtre 	 29Kb
+greene_2_to_the_14th/7054.rtre 	 46Kb
+greene_2_to_the_14th/7063.rtre 	 37Kb
+greene_2_to_the_14th/7090.rtre 	 30Kb
+greene_2_to_the_14th/7105.rtre 	 33Kb
+greene_2_to_the_14th/7139.rtre 	 29Kb
+greene_2_to_the_14th/7162.rtre 	 30Kb
+greene_2_to_the_14th/7211.rtre 	 29Kb
+greene_2_to_the_14th/7253.rtre 	 30Kb
+greene_2_to_the_14th/7274.rtre 	 35Kb
+greene_2_to_the_14th/7279.rtre 	 30Kb
+greene_2_to_the_14th/7303.rtre 	 30Kb
+greene_2_to_the_14th/7312.rtre 	 30Kb
+greene_2_to_the_14th/7319.rtre 	 32Kb
+greene_2_to_the_14th/7421.rtre 	 30Kb
+greene_2_to_the_14th/7433.rtre 	 29Kb
+greene_2_to_the_14th/7466.rtre 	 31Kb
+greene_2_to_the_14th/7484.rtre 	 29Kb
+greene_2_to_the_14th/7487.rtre 	 56Kb
+greene_2_to_the_14th/7496.rtre 	 49Kb
+greene_2_to_the_14th/750.rtre 	 56Kb
+greene_2_to_the_14th/7549.rtre 	 30Kb
+greene_2_to_the_14th/7563.rtre 	 38Kb
+greene_2_to_the_14th/7589.rtre 	 40Kb
+greene_2_to_the_14th/7590.rtre 	 32Kb
+greene_2_to_the_14th/7675.rtre 	 29Kb
+greene_2_to_the_14th/7708.rtre 	 30Kb
+greene_2_to_the_14th/7767.rtre 	 33Kb
+greene_2_to_the_14th/7797.rtre 	 30Kb
+greene_2_to_the_14th/7800.rtre 	 46Kb
+greene_2_to_the_14th/787.rtre 	 30Kb
+greene_2_to_the_14th/7875.rtre 	 54Kb
+greene_2_to_the_14th/7884.rtre 	 29Kb
+greene_2_to_the_14th/7887.rtre 	 53Kb
+greene_2_to_the_14th/7890.rtre 	 35Kb
+greene_2_to_the_14th/7901.rtre 	 30Kb
+greene_2_to_the_14th/7925.rtre 	 43Kb
+greene_2_to_the_14th/8022.rtre 	 34Kb
+greene_2_to_the_14th/8068.rtre 	 30Kb
+greene_2_to_the_14th/8185.rtre 	 29Kb
+greene_2_to_the_14th/8203.rtre 	 40Kb
+greene_2_to_the_14th/8262.rtre 	 42Kb
+greene_2_to_the_14th/8295.rtre 	 30Kb
+greene_2_to_the_14th/8311.rtre 	 31Kb
+greene_2_to_the_14th/8336.rtre 	 31Kb
+greene_2_to_the_14th/834.rtre 	 30Kb
+greene_2_to_the_14th/8352.rtre 	 37Kb
+greene_2_to_the_14th/8403.rtre 	 38Kb
+greene_2_to_the_14th/8405.rtre 	 39Kb
+greene_2_to_the_14th/8423.rtre 	 31Kb
+greene_2_to_the_14th/8547.rtre 	 30Kb
+greene_2_to_the_14th/8551.rtre 	 30Kb
+greene_2_to_the_14th/8557.rtre 	 35Kb
+greene_2_to_the_14th/8558.rtre 	 29Kb
+greene_2_to_the_14th/8663.rtre 	 37Kb
+greene_2_to_the_14th/8675.rtre 	 30Kb
+greene_2_to_the_14th/8751.rtre 	 32Kb
+greene_2_to_the_14th/8758.rtre 	 38Kb
+greene_2_to_the_14th/8764.rtre 	 30Kb
+greene_2_to_the_14th/8833.rtre 	 29Kb
+greene_2_to_the_14th/8836.rtre 	 30Kb
+greene_2_to_the_14th/8854.rtre 	 38Kb
+greene_2_to_the_14th/8942.rtre 	 48Kb
+greene_2_to_the_14th/8951.rtre 	 32Kb
+greene_2_to_the_14th/898.rtre 	 32Kb
+greene_2_to_the_14th/900.rtre 	 54Kb
+greene_2_to_the_14th/9005.rtre 	 30Kb
+greene_2_to_the_14th/9032.rtre 	 30Kb
+greene_2_to_the_14th/9035.rtre 	 29Kb
+greene_2_to_the_14th/9070.rtre 	 32Kb
+greene_2_to_the_14th/9140.rtre 	 30Kb
+greene_2_to_the_14th/917.rtre 	 56Kb
+greene_2_to_the_14th/9238.rtre 	 29Kb
+greene_2_to_the_14th/9281.rtre 	 29Kb
+greene_2_to_the_14th/9336.rtre 	 30Kb
+greene_2_to_the_14th/9344.rtre 	 42Kb
+greene_2_to_the_14th/9397.rtre 	 33Kb
+greene_2_to_the_14th/9426.rtre 	 35Kb
+greene_2_to_the_14th/9428.rtre 	 50Kb
+greene_2_to_the_14th/9461.rtre 	 35Kb
+greene_2_to_the_14th/9485.rtre 	 29Kb
+greene_2_to_the_14th/9506.rtre 	 47Kb
+greene_2_to_the_14th/9537.rtre 	 41Kb
+greene_2_to_the_14th/9565.rtre 	 29Kb
+greene_2_to_the_14th/9612.rtre 	 50Kb
+greene_2_to_the_14th/9642.rtre 	 29Kb
+greene_2_to_the_14th/9676.rtre 	 30Kb
+greene_2_to_the_14th/9712.rtre 	 29Kb
+greene_2_to_the_14th/9725.rtre 	 29Kb
+greene_2_to_the_14th/9737.rtre 	 30Kb
+greene_2_to_the_14th/9743.rtre 	 47Kb
+greene_2_to_the_14th/9744.rtre 	 32Kb
+greene_2_to_the_14th/9754.rtre 	 45Kb
+greene_2_to_the_14th/98.rtre 	 38Kb
+greene_2_to_the_14th/9819.rtre 	 29Kb
+greene_2_to_the_14th/9844.rtre 	 29Kb
+greene_2_to_the_14th/9863.rtre 	 29Kb
+greene_2_to_the_14th/989.rtre 	 49Kb
+greene_2_to_the_14th/9902.rtre 	 36Kb
+greene_2_to_the_14th/9939.rtre 	 32Kb
+tota 	 17383Kb

@@ -1,0 +1,60 @@
+
+rchar: 1411306
+wchar: 1414555
+syscr: 997
+syscw: 1008
+read_bytes: 0
+write_bytes: 0
+cancelled_write_bytes: 0
+
+Duration: 0.471447944641 seconds.
+Files created: 15
+greene_2_to_the_9th/1.rtre 49.1228070175%
+	[█████████          ]
+greene_2_to_the_9th/143.rtre 49.1228070175%
+	[█████████          ]
+greene_2_to_the_9th/196.rtre 89.4736842105%
+	[█████████████████  ]
+greene_2_to_the_9th/235.rtre 57.8947368421%
+	[███████████        ]
+greene_2_to_the_9th/240.rtre 73.6842105263%
+	[██████████████     ]
+greene_2_to_the_9th/319.rtre 54.3859649123%
+	[██████████         ]
+greene_2_to_the_9th/331.rtre 77.1929824561%
+	[███████████████    ]
+greene_2_to_the_9th/401.rtre 50.8771929825%
+	[██████████         ]
+greene_2_to_the_9th/407.rtre 82.4561403509%
+	[████████████████   ]
+greene_2_to_the_9th/464.rtre 49.1228070175%
+	[█████████          ]
+greene_2_to_the_9th/517.rtre 50.8771929825%
+	[██████████         ]
+greene_2_to_the_9th/527.rtre 50.8771929825%
+	[██████████         ]
+greene_2_to_the_9th/59.rtre 85.9649122807%
+	[█████████████████  ]
+greene_2_to_the_9th/60.rtre 24.5614035088%
+	[████               ]
+greene_2_to_the_9th/97.rtre 77.1929824561%
+	[███████████████    ]
+Average file usage: 61.5204678363%
+	[████████████       ]
+Filename 		Disk space
+greene_2_to_the_9th/1.rtre 	 29Kb
+greene_2_to_the_9th/143.rtre 	 29Kb
+greene_2_to_the_9th/196.rtre 	 52Kb
+greene_2_to_the_9th/235.rtre 	 34Kb
+greene_2_to_the_9th/240.rtre 	 43Kb
+greene_2_to_the_9th/319.rtre 	 32Kb
+greene_2_to_the_9th/331.rtre 	 45Kb
+greene_2_to_the_9th/401.rtre 	 30Kb
+greene_2_to_the_9th/407.rtre 	 48Kb
+greene_2_to_the_9th/464.rtre 	 29Kb
+greene_2_to_the_9th/517.rtre 	 30Kb
+greene_2_to_the_9th/527.rtre 	 30Kb
+greene_2_to_the_9th/59.rtre 	 50Kb
+greene_2_to_the_9th/60.rtre 	 15Kb
+greene_2_to_the_9th/97.rtre 	 45Kb
+tota 	 541Kb

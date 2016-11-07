@@ -1,0 +1,93 @@
+
+rchar: 3274123
+wchar: 3291889
+syscr: 2039
+syscw: 2065
+read_bytes: 0
+write_bytes: 0
+cancelled_write_bytes: 0
+
+Duration: 1.11246085167 seconds.
+Files created: 26
+greene_2_to_the_10th/1.rtre 96.4912280702%
+	[███████████████████]
+greene_2_to_the_10th/1006.rtre 57.8947368421%
+	[███████████        ]
+greene_2_to_the_10th/106.rtre 91.2280701754%
+	[██████████████████ ]
+greene_2_to_the_10th/134.rtre 77.1929824561%
+	[███████████████    ]
+greene_2_to_the_10th/202.rtre 75.4385964912%
+	[███████████████    ]
+greene_2_to_the_10th/268.rtre 98.2456140351%
+	[███████████████████]
+greene_2_to_the_10th/274.rtre 70.1754385965%
+	[██████████████     ]
+greene_2_to_the_10th/282.rtre 82.4561403509%
+	[████████████████   ]
+greene_2_to_the_10th/312.rtre 52.6315789474%
+	[██████████         ]
+greene_2_to_the_10th/327.rtre 54.3859649123%
+	[██████████         ]
+greene_2_to_the_10th/415.rtre 98.2456140351%
+	[███████████████████]
+greene_2_to_the_10th/511.rtre 49.1228070175%
+	[█████████          ]
+greene_2_to_the_10th/529.rtre 57.8947368421%
+	[███████████        ]
+greene_2_to_the_10th/538.rtre 63.1578947368%
+	[████████████       ]
+greene_2_to_the_10th/59.rtre 91.2280701754%
+	[██████████████████ ]
+greene_2_to_the_10th/60.rtre 43.8596491228%
+	[████████           ]
+greene_2_to_the_10th/635.rtre 98.2456140351%
+	[███████████████████]
+greene_2_to_the_10th/652.rtre 50.8771929825%
+	[██████████         ]
+greene_2_to_the_10th/709.rtre 57.8947368421%
+	[███████████        ]
+greene_2_to_the_10th/737.rtre 64.9122807018%
+	[████████████       ]
+greene_2_to_the_10th/773.rtre 80.701754386%
+	[████████████████   ]
+greene_2_to_the_10th/813.rtre 61.4035087719%
+	[████████████       ]
+greene_2_to_the_10th/817.rtre 52.6315789474%
+	[██████████         ]
+greene_2_to_the_10th/832.rtre 89.4736842105%
+	[█████████████████  ]
+greene_2_to_the_10th/887.rtre 50.8771929825%
+	[██████████         ]
+greene_2_to_the_10th/971.rtre 73.6842105263%
+	[██████████████     ]
+Average file usage: 70.7827260459%
+	[██████████████     ]
+Filename 		Disk space
+greene_2_to_the_10th/1.rtre 	 56Kb
+greene_2_to_the_10th/1006.rtre 	 34Kb
+greene_2_to_the_10th/106.rtre 	 53Kb
+greene_2_to_the_10th/134.rtre 	 45Kb
+greene_2_to_the_10th/202.rtre 	 44Kb
+greene_2_to_the_10th/268.rtre 	 57Kb
+greene_2_to_the_10th/274.rtre 	 41Kb
+greene_2_to_the_10th/282.rtre 	 48Kb
+greene_2_to_the_10th/312.rtre 	 31Kb
+greene_2_to_the_10th/327.rtre 	 32Kb
+greene_2_to_the_10th/415.rtre 	 57Kb
+greene_2_to_the_10th/511.rtre 	 29Kb
+greene_2_to_the_10th/529.rtre 	 34Kb
+greene_2_to_the_10th/538.rtre 	 37Kb
+greene_2_to_the_10th/59.rtre 	 53Kb
+greene_2_to_the_10th/60.rtre 	 26Kb
+greene_2_to_the_10th/635.rtre 	 57Kb
+greene_2_to_the_10th/652.rtre 	 30Kb
+greene_2_to_the_10th/709.rtre 	 34Kb
+greene_2_to_the_10th/737.rtre 	 38Kb
+greene_2_to_the_10th/773.rtre 	 47Kb
+greene_2_to_the_10th/813.rtre 	 36Kb
+greene_2_to_the_10th/817.rtre 	 31Kb
+greene_2_to_the_10th/832.rtre 	 52Kb
+greene_2_to_the_10th/887.rtre 	 30Kb
+greene_2_to_the_10th/971.rtre 	 43Kb
+tota 	 1075Kb

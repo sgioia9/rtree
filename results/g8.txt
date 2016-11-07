@@ -1,0 +1,39 @@
+
+rchar: 627139
+wchar: 625082
+syscr: 474
+syscw: 475
+read_bytes: 0
+write_bytes: 0
+cancelled_write_bytes: 0
+
+Duration: 0.228111982346 seconds.
+Files created: 8
+greene_2_to_the_8th/1.rtre 50.8771929825%
+	[██████████         ]
+greene_2_to_the_8th/106.rtre 73.6842105263%
+	[██████████████     ]
+greene_2_to_the_8th/153.rtre 64.9122807018%
+	[████████████       ]
+greene_2_to_the_8th/157.rtre 80.701754386%
+	[████████████████   ]
+greene_2_to_the_8th/212.rtre 70.1754385965%
+	[██████████████     ]
+greene_2_to_the_8th/257.rtre 50.8771929825%
+	[██████████         ]
+greene_2_to_the_8th/59.rtre 57.8947368421%
+	[███████████        ]
+greene_2_to_the_8th/60.rtre 12.2807017544%
+	[██                 ]
+Average file usage: 57.6754385965%
+	[███████████        ]
+Filename 		Disk space
+greene_2_to_the_8th/1.rtre 	 30Kb
+greene_2_to_the_8th/106.rtre 	 43Kb
+greene_2_to_the_8th/153.rtre 	 38Kb
+greene_2_to_the_8th/157.rtre 	 47Kb
+greene_2_to_the_8th/212.rtre 	 41Kb
+greene_2_to_the_8th/257.rtre 	 30Kb
+greene_2_to_the_8th/59.rtre 	 34Kb
+greene_2_to_the_8th/60.rtre 	 8Kb
+tota 	 271Kb

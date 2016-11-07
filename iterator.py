@@ -6,7 +6,7 @@ if len(sys.argv) < 2:
 
 split = sys.argv[1]
 
-for i in xrange(18, 19):
+for i in xrange(8, 23):
     N = 2**i
     print "Running " + str(N)
     directory_name = split + "_2_to_the_" + str(i) + "th"
