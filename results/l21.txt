@@ -1,0 +1,11 @@
+
+rchar: 20466646551
+wchar: 20647926261
+syscr: 9002611
+syscw: 9098844
+read_bytes: 0
+write_bytes: 0
+cancelled_write_bytes: 0
+
+Duration: 6430.34430599 seconds.
+Files created: 62858
