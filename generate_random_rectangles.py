@@ -9,7 +9,7 @@ max_value = 50000
 min_dim = 25000
 max_dim = 25000
 
-buf = "0\n" if mod == "I" else "1\n"
+buf = "1\n" if mod == "I" else "0\n"
 
 for i in range(N):
     x = random.random() * (max_value - min_value)
