@@ -1,5 +1,5 @@
 
-buf = ""
+buf = "0\n"
 
 with open("datasets/osm.csv") as f:
 	for line in f:
