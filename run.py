@@ -52,7 +52,7 @@ print "Files created: " + str(nofiles)
 wc = os.popen("wc -l " + directory + "/*.rtree | xargs")
 wcres = wc.read().split(" ")
 
-for i in range(0,len(wcres),2):
+for i in range(0,len(wcres)-1,2):
     us = float(int(wcres[i]) - 1)/M
     print wcres[i+1][:-1] + " " + str(us*100) + "%"
     print "\t[" + "█" * int(us * 20) + " " * int(20 - us * 20) + "]"
