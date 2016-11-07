@@ -2,12 +2,12 @@ import random
 import sys
 
 N = int(sys.argv[1])
-mod = "I" if len(sys.argv) <= 2 else sys.argv
+mod = "I" if len(sys.argv) <= 2 else sys.argv[2]
 
-min_value = -50000
-max_value = 50000
-min_dim = 25000
-max_dim = 25000
+min_value = 0
+max_value = 500000
+min_dim = 0
+max_dim = 100
 
 buf = "1\n" if mod == "I" else "0\n"
 

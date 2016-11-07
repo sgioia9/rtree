@@ -36,7 +36,6 @@ while proc.poll() is None:
         proc_file = open("/proc/" + str(proc.pid) + "/io", "r")
         results = proc_file.read() if proc_file is not None else ""
         proc_file.close()
-        time.sleep(delta_time)
     except IOError, e:
         pass
 
@@ -51,9 +50,9 @@ nofiles = len([name for name in os.listdir(directory) if ".rtree" in name])
 print "Files created: " + str(nofiles)
 
 wc = os.popen("wc -l " + directory + "/*.rtree | xargs")
-wcres = wc.read().split(" ")
+wcres = wc.read().replace("\n", " ").split(" ")
 
-for i in range(0,len(wcres)-1,2):
+for i in range(0,len(wcres)-2, 2):
     us = float(int(wcres[i]) - 1)/M
     print wcres[i+1][:-1] + " " + str(us*100) + "%"
     print "\t[" + "█" * int(us * 20) + " " * int(20 - us * 20) + "]"
