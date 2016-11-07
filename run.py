@@ -52,12 +52,12 @@ print "Files created: " + str(nofiles)
 wc = os.popen("wc -l " + directory + "/*.rtree | xargs")
 wcres = wc.read().replace("\n", " ").split(" ")
 
-for i in range(0,len(wcres)-2, 2):
+for i in range(0,len(wcres) - 3, 2):
     us = float(int(wcres[i]) - 1)/M
     print wcres[i+1][:-1] + " " + str(us*100) + "%"
     print "\t[" + "█" * int(us * 20) + " " * int(20 - us * 20) + "]"
 
-usage = float((int(wcres[-2]) - nofiles)) / (M * nofiles)
+usage = float((int(wcres[-3]) - nofiles)) / (M * nofiles)
 test_file.close()
 
 print "Average file usage: " + str(usage * 100) + "%"
@@ -68,6 +68,5 @@ du = os.popen("du -sc " + directory + "/*.rtree | xargs")
 dures = du.read().split(" ")
 
 print "Filename \t\tDisk space"
-for i in range(0,len(wcres),2):
-    us = int(wcres[i])
-    print wcres[i+1][:-1] + " \t " + str(us) + "Kb"
+for i in range(0, len(wcres) - 1, 2):
+    print wcres[i+1][:-1] + " \t " + str(wcres[i]) + "Kb"
