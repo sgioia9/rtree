@@ -1,0 +1,10 @@
+
+rchar: 18287517
+wchar: 18405132
+syscr: 16982
+syscw: 17234
+read_bytes: 0
+write_bytes: 0
+cancelled_write_bytes: 0
+
+Duration: 18.6468038559 seconds.
