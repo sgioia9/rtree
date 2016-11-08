@@ -35,14 +35,14 @@ greene = [2^8,0.228111982346,474,475;
 	2^22,13060.6250529,19284423,19486980;
 ];
 
-loglog(linear(:,1),linear(:,4),'*-b','linewidth',2);
+plot(linear(:,1),linear(:,4),'*-b','linewidth',2);
 hold on
-loglog(greene(:,1),greene(:,4),'*-r','linewidth',2);
+plot(greene(:,1),greene(:,4),'*-r','linewidth',2);
 hold off
 xlabel('Nodos insertados');
-ylabel('Cantidad de bloques escritos');
+ylabel('Escrituras (llamadas a sistema)');
 title('Escrituras en insercion en RTree')
-%axis([2^10 2^22 0 20000000]);
+axis([2^10 2^22 0 20000000]);
 legend('Linear','Greene','location','northwest');
-%grid on;
-print -depsc writlogeplot.eps
+grid on;
+print -depsc writeplot.eps
