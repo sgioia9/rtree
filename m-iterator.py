@@ -13,4 +13,4 @@ for split in splits:
 	    file_name = "datasets/parsed_osm.txt"
 	    os.system("mkdir " + directory_name)
 	    #os.system("python generate_random_rectangles.py " + str(N) + " > " + file_name)
-	    os.system("python simple-run.py -split " + split + " -test " + file_name + " -M "+str(M)+" -d " + directory_name + " > " + directory_name + "/resM/"+str(M)+".txt")
+	    os.system("python simple-run.py -split " + split + " -test " + file_name + " -M "+str(M)+" -d " + directory_name + " > resM/"+str(M)+".txt")
