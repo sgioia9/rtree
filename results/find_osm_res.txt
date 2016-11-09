@@ -1,0 +1,477 @@
+
+rchar: 148661
+wchar: 45
+syscr: 419
+syscw: 1
+read_bytes: 0
+write_bytes: 0
+cancelled_write_bytes: 0
+
+Duration: 0.0557999610901 seconds.
+Files created: 154
+small/1.rtre 43.8596491228%
+	[████████           ]
+small/1058.rtre 73.6842105263%
+	[██████████████     ]
+small/1089.rtre 45.6140350877%
+	[█████████          ]
+small/1099.rtre 40.350877193%
+	[████████           ]
+small/1128.rtre 87.7192982456%
+	[█████████████████  ]
+small/1137.rtre 38.5964912281%
+	[███████            ]
+small/1178.rtre 38.5964912281%
+	[███████            ]
+small/1232.rtre 38.5964912281%
+	[███████            ]
+small/1269.rtre 64.9122807018%
+	[████████████       ]
+small/1337.rtre 89.4736842105%
+	[█████████████████  ]
+small/1346.rtre 68.4210526316%
+	[█████████████      ]
+small/1350.rtre 82.4561403509%
+	[████████████████   ]
+small/1370.rtre 66.6666666667%
+	[█████████████      ]
+small/1448.rtre 38.5964912281%
+	[███████            ]
+small/1506.rtre 75.4385964912%
+	[███████████████    ]
+small/1516.rtre 38.5964912281%
+	[███████            ]
+small/155.rtre 45.6140350877%
+	[█████████          ]
+small/1579.rtre 54.3859649123%
+	[██████████         ]
+small/1585.rtre 49.1228070175%
+	[█████████          ]
+small/1608.rtre 54.3859649123%
+	[██████████         ]
+small/1641.rtre 38.5964912281%
+	[███████            ]
+small/1683.rtre 42.1052631579%
+	[████████           ]
+small/1727.rtre 42.1052631579%
+	[████████           ]
+small/176.rtre 38.5964912281%
+	[███████            ]
+small/1764.rtre 70.1754385965%
+	[██████████████     ]
+small/1771.rtre 87.7192982456%
+	[█████████████████  ]
+small/1836.rtre 38.5964912281%
+	[███████            ]
+small/1855.rtre 66.6666666667%
+	[█████████████      ]
+small/1876.rtre 45.6140350877%
+	[█████████          ]
+small/1920.rtre 38.5964912281%
+	[███████            ]
+small/193.rtre 40.350877193%
+	[████████           ]
+small/1970.rtre 57.8947368421%
+	[███████████        ]
+small/1971.rtre 49.1228070175%
+	[█████████          ]
+small/1972.rtre 7.01754385965%
+	[█                  ]
+small/1986.rtre 42.1052631579%
+	[████████           ]
+small/1992.rtre 61.4035087719%
+	[████████████       ]
+small/2025.rtre 78.9473684211%
+	[███████████████    ]
+small/2036.rtre 54.3859649123%
+	[██████████         ]
+small/2092.rtre 98.2456140351%
+	[███████████████████]
+small/2147.rtre 38.5964912281%
+	[███████            ]
+small/2161.rtre 42.1052631579%
+	[████████           ]
+small/2177.rtre 96.4912280702%
+	[███████████████████]
+small/2262.rtre 64.9122807018%
+	[████████████       ]
+small/2272.rtre 61.4035087719%
+	[████████████       ]
+small/2321.rtre 57.8947368421%
+	[███████████        ]
+small/2360.rtre 98.2456140351%
+	[███████████████████]
+small/2420.rtre 96.4912280702%
+	[███████████████████]
+small/246.rtre 49.1228070175%
+	[█████████          ]
+small/2509.rtre 66.6666666667%
+	[█████████████      ]
+small/2535.rtre 59.649122807%
+	[███████████        ]
+small/2578.rtre 59.649122807%
+	[███████████        ]
+small/2586.rtre 68.4210526316%
+	[█████████████      ]
+small/2608.rtre 98.2456140351%
+	[███████████████████]
+small/2646.rtre 38.5964912281%
+	[███████            ]
+small/2689.rtre 40.350877193%
+	[████████           ]
+small/2697.rtre 52.6315789474%
+	[██████████         ]
+small/2756.rtre 87.7192982456%
+	[█████████████████  ]
+small/278.rtre 87.7192982456%
+	[█████████████████  ]
+small/2786.rtre 91.2280701754%
+	[██████████████████ ]
+small/2836.rtre 38.5964912281%
+	[███████            ]
+small/2840.rtre 73.6842105263%
+	[██████████████     ]
+small/2880.rtre 56.1403508772%
+	[███████████        ]
+small/2962.rtre 38.5964912281%
+	[███████            ]
+small/2980.rtre 91.2280701754%
+	[██████████████████ ]
+small/3034.rtre 52.6315789474%
+	[██████████         ]
+small/3042.rtre 45.6140350877%
+	[█████████          ]
+small/305.rtre 47.3684210526%
+	[█████████          ]
+small/3076.rtre 98.2456140351%
+	[███████████████████]
+small/3151.rtre 38.5964912281%
+	[███████            ]
+small/3190.rtre 45.6140350877%
+	[█████████          ]
+small/3204.rtre 73.6842105263%
+	[██████████████     ]
+small/3206.rtre 71.9298245614%
+	[██████████████     ]
+small/3207.rtre 91.2280701754%
+	[██████████████████ ]
+small/3242.rtre 61.4035087719%
+	[████████████       ]
+small/3268.rtre 61.4035087719%
+	[████████████       ]
+small/330.rtre 38.5964912281%
+	[███████            ]
+small/3313.rtre 70.1754385965%
+	[██████████████     ]
+small/3361.rtre 45.6140350877%
+	[█████████          ]
+small/3365.rtre 61.4035087719%
+	[████████████       ]
+small/3377.rtre 92.9824561404%
+	[██████████████████ ]
+small/3467.rtre 61.4035087719%
+	[████████████       ]
+small/3469.rtre 52.6315789474%
+	[██████████         ]
+small/3475.rtre 63.1578947368%
+	[████████████       ]
+small/3522.rtre 89.4736842105%
+	[█████████████████  ]
+small/3548.rtre 84.2105263158%
+	[████████████████   ]
+small/3630.rtre 94.7368421053%
+	[██████████████████ ]
+small/3659.rtre 73.6842105263%
+	[██████████████     ]
+small/3680.rtre 45.6140350877%
+	[█████████          ]
+small/377.rtre 73.6842105263%
+	[██████████████     ]
+small/3777.rtre 71.9298245614%
+	[██████████████     ]
+small/3779.rtre 80.701754386%
+	[████████████████   ]
+small/3807.rtre 61.4035087719%
+	[████████████       ]
+small/387.rtre 70.1754385965%
+	[██████████████     ]
+small/3872.rtre 96.4912280702%
+	[███████████████████]
+small/3929.rtre 64.9122807018%
+	[████████████       ]
+small/3931.rtre 57.8947368421%
+	[███████████        ]
+small/3961.rtre 61.4035087719%
+	[████████████       ]
+small/4049.rtre 38.5964912281%
+	[███████            ]
+small/4051.rtre 38.5964912281%
+	[███████            ]
+small/4081.rtre 82.4561403509%
+	[████████████████   ]
+small/4124.rtre 80.701754386%
+	[████████████████   ]
+small/415.rtre 38.5964912281%
+	[███████            ]
+small/4173.rtre 49.1228070175%
+	[█████████          ]
+small/4177.rtre 61.4035087719%
+	[████████████       ]
+small/4266.rtre 89.4736842105%
+	[█████████████████  ]
+small/432.rtre 59.649122807%
+	[███████████        ]
+small/4349.rtre 85.9649122807%
+	[█████████████████  ]
+small/4355.rtre 94.7368421053%
+	[██████████████████ ]
+small/4358.rtre 59.649122807%
+	[███████████        ]
+small/4389.rtre 71.9298245614%
+	[██████████████     ]
+small/4434.rtre 63.1578947368%
+	[████████████       ]
+small/4504.rtre 61.4035087719%
+	[████████████       ]
+small/4539.rtre 94.7368421053%
+	[██████████████████ ]
+small/4553.rtre 98.2456140351%
+	[███████████████████]
+small/4594.rtre 49.1228070175%
+	[█████████          ]
+small/4644.rtre 84.2105263158%
+	[████████████████   ]
+small/4645.rtre 59.649122807%
+	[███████████        ]
+small/4739.rtre 73.6842105263%
+	[██████████████     ]
+small/4756.rtre 66.6666666667%
+	[█████████████      ]
+small/4763.rtre 80.701754386%
+	[████████████████   ]
+small/4850.rtre 80.701754386%
+	[████████████████   ]
+small/4858.rtre 89.4736842105%
+	[█████████████████  ]
+small/491.rtre 84.2105263158%
+	[████████████████   ]
+small/4964.rtre 45.6140350877%
+	[█████████          ]
+small/5004.rtre 89.4736842105%
+	[█████████████████  ]
+small/5039.rtre 61.4035087719%
+	[████████████       ]
+small/5052.rtre 68.4210526316%
+	[█████████████      ]
+small/5068.rtre 61.4035087719%
+	[████████████       ]
+small/5134.rtre 91.2280701754%
+	[██████████████████ ]
+small/5161.rtre 82.4561403509%
+	[████████████████   ]
+small/526.rtre 38.5964912281%
+	[███████            ]
+small/5283.rtre 38.5964912281%
+	[███████            ]
+small/5289.rtre 63.1578947368%
+	[████████████       ]
+small/5355.rtre 38.5964912281%
+	[███████            ]
+small/5470.rtre 38.5964912281%
+	[███████            ]
+small/5531.rtre 59.649122807%
+	[███████████        ]
+small/5550.rtre 56.1403508772%
+	[███████████        ]
+small/5569.rtre 61.4035087719%
+	[████████████       ]
+small/567.rtre 71.9298245614%
+	[██████████████     ]
+small/59.rtre 87.7192982456%
+	[█████████████████  ]
+small/596.rtre 66.6666666667%
+	[█████████████      ]
+small/60.rtre 61.4035087719%
+	[████████████       ]
+small/655.rtre 52.6315789474%
+	[██████████         ]
+small/697.rtre 70.1754385965%
+	[██████████████     ]
+small/700.rtre 45.6140350877%
+	[█████████          ]
+small/723.rtre 70.1754385965%
+	[██████████████     ]
+small/787.rtre 98.2456140351%
+	[███████████████████]
+small/792.rtre 77.1929824561%
+	[███████████████    ]
+small/883.rtre 73.6842105263%
+	[██████████████     ]
+small/910.rtre 47.3684210526%
+	[█████████          ]
+small/918.rtre 80.701754386%
+	[████████████████   ]
+small/92.rtre 64.9122807018%
+	[████████████       ]
+small/980.rtre 38.5964912281%
+	[███████            ]
+small/990.rtre 49.1228070175%
+	[█████████          ]
+Average file usage: 63.4768740032%
+	[████████████       ]
+Filename 		Disk space
+small/1.rtre 	 26Kb
+small/1058.rtre 	 43Kb
+small/1089.rtre 	 27Kb
+small/1099.rtre 	 24Kb
+small/1128.rtre 	 51Kb
+small/1137.rtre 	 23Kb
+small/1178.rtre 	 23Kb
+small/1232.rtre 	 23Kb
+small/1269.rtre 	 38Kb
+small/1337.rtre 	 52Kb
+small/1346.rtre 	 40Kb
+small/1350.rtre 	 48Kb
+small/1370.rtre 	 39Kb
+small/1448.rtre 	 23Kb
+small/1506.rtre 	 44Kb
+small/1516.rtre 	 23Kb
+small/155.rtre 	 27Kb
+small/1579.rtre 	 32Kb
+small/1585.rtre 	 29Kb
+small/1608.rtre 	 32Kb
+small/1641.rtre 	 23Kb
+small/1683.rtre 	 25Kb
+small/1727.rtre 	 25Kb
+small/176.rtre 	 23Kb
+small/1764.rtre 	 41Kb
+small/1771.rtre 	 51Kb
+small/1836.rtre 	 23Kb
+small/1855.rtre 	 39Kb
+small/1876.rtre 	 27Kb
+small/1920.rtre 	 23Kb
+small/193.rtre 	 24Kb
+small/1970.rtre 	 34Kb
+small/1971.rtre 	 29Kb
+small/1972.rtre 	 5Kb
+small/1986.rtre 	 25Kb
+small/1992.rtre 	 36Kb
+small/2025.rtre 	 46Kb
+small/2036.rtre 	 32Kb
+small/2092.rtre 	 57Kb
+small/2147.rtre 	 23Kb
+small/2161.rtre 	 25Kb
+small/2177.rtre 	 56Kb
+small/2262.rtre 	 38Kb
+small/2272.rtre 	 36Kb
+small/2321.rtre 	 34Kb
+small/2360.rtre 	 57Kb
+small/2420.rtre 	 56Kb
+small/246.rtre 	 29Kb
+small/2509.rtre 	 39Kb
+small/2535.rtre 	 35Kb
+small/2578.rtre 	 35Kb
+small/2586.rtre 	 40Kb
+small/2608.rtre 	 57Kb
+small/2646.rtre 	 23Kb
+small/2689.rtre 	 24Kb
+small/2697.rtre 	 31Kb
+small/2756.rtre 	 51Kb
+small/278.rtre 	 51Kb
+small/2786.rtre 	 53Kb
+small/2836.rtre 	 23Kb
+small/2840.rtre 	 43Kb
+small/2880.rtre 	 33Kb
+small/2962.rtre 	 23Kb
+small/2980.rtre 	 53Kb
+small/3034.rtre 	 31Kb
+small/3042.rtre 	 27Kb
+small/305.rtre 	 28Kb
+small/3076.rtre 	 57Kb
+small/3151.rtre 	 23Kb
+small/3190.rtre 	 27Kb
+small/3204.rtre 	 43Kb
+small/3206.rtre 	 42Kb
+small/3207.rtre 	 53Kb
+small/3242.rtre 	 36Kb
+small/3268.rtre 	 36Kb
+small/330.rtre 	 23Kb
+small/3313.rtre 	 41Kb
+small/3361.rtre 	 27Kb
+small/3365.rtre 	 36Kb
+small/3377.rtre 	 54Kb
+small/3467.rtre 	 36Kb
+small/3469.rtre 	 31Kb
+small/3475.rtre 	 37Kb
+small/3522.rtre 	 52Kb
+small/3548.rtre 	 49Kb
+small/3630.rtre 	 55Kb
+small/3659.rtre 	 43Kb
+small/3680.rtre 	 27Kb
+small/377.rtre 	 43Kb
+small/3777.rtre 	 42Kb
+small/3779.rtre 	 47Kb
+small/3807.rtre 	 36Kb
+small/387.rtre 	 41Kb
+small/3872.rtre 	 56Kb
+small/3929.rtre 	 38Kb
+small/3931.rtre 	 34Kb
+small/3961.rtre 	 36Kb
+small/4049.rtre 	 23Kb
+small/4051.rtre 	 23Kb
+small/4081.rtre 	 48Kb
+small/4124.rtre 	 47Kb
+small/415.rtre 	 23Kb
+small/4173.rtre 	 29Kb
+small/4177.rtre 	 36Kb
+small/4266.rtre 	 52Kb
+small/432.rtre 	 35Kb
+small/4349.rtre 	 50Kb
+small/4355.rtre 	 55Kb
+small/4358.rtre 	 35Kb
+small/4389.rtre 	 42Kb
+small/4434.rtre 	 37Kb
+small/4504.rtre 	 36Kb
+small/4539.rtre 	 55Kb
+small/4553.rtre 	 57Kb
+small/4594.rtre 	 29Kb
+small/4644.rtre 	 49Kb
+small/4645.rtre 	 35Kb
+small/4739.rtre 	 43Kb
+small/4756.rtre 	 39Kb
+small/4763.rtre 	 47Kb
+small/4850.rtre 	 47Kb
+small/4858.rtre 	 52Kb
+small/491.rtre 	 49Kb
+small/4964.rtre 	 27Kb
+small/5004.rtre 	 52Kb
+small/5039.rtre 	 36Kb
+small/5052.rtre 	 40Kb
+small/5068.rtre 	 36Kb
+small/5134.rtre 	 53Kb
+small/5161.rtre 	 48Kb
+small/526.rtre 	 23Kb
+small/5283.rtre 	 23Kb
+small/5289.rtre 	 37Kb
+small/5355.rtre 	 23Kb
+small/5470.rtre 	 23Kb
+small/5531.rtre 	 35Kb
+small/5550.rtre 	 33Kb
+small/5569.rtre 	 36Kb
+small/567.rtre 	 42Kb
+small/59.rtre 	 51Kb
+small/596.rtre 	 39Kb
+small/60.rtre 	 36Kb
+small/655.rtre 	 31Kb
+small/697.rtre 	 41Kb
+small/700.rtre 	 27Kb
+small/723.rtre 	 41Kb
+small/787.rtre 	 57Kb
+small/792.rtre 	 45Kb
+small/883.rtre 	 43Kb
+small/910.rtre 	 28Kb
+small/918.rtre 	 47Kb
+small/92.rtre 	 38Kb
+small/980.rtre 	 23Kb
+small/990.rtre 	 29Kb
+tota 	 5726Kb
