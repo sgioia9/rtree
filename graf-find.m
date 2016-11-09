@@ -25,14 +25,14 @@ greene = [2^8 126 1 0.027206897735 ;
 2^17 17975993 1 3861.4914810
 ];
 
-plot(linear(:,1),linear(:,4),'*-b','linewidth',2);
+plot(linear(:,1),linear(:,2)./linear(:,1)./log2(linear(:,1)),'*-b','linewidth',2);
 hold on
-plot(greene(:,1),greene(:,4),'*-r','linewidth',2);
+plot(greene(:,1),greene(:,2)./greene(:,1)./log2(greene(:,1)),'*-r','linewidth',2);
 hold off
 xlabel('Cantidad de busquedas (N)');
-ylabel('Tiempo [s]');
-title('Tiempo de busqueda en RTree')
-axis([0 2^17 0 8000]);
+ylabel('Lecturas / N log N');
+title('Lecturas en busqueda en RTree')
+axis([0 2^17 0 16]);
 legend('Linear','Greene','location','northwest');
 grid on;
-print -depsc findtimeplot.eps
+print -depsc nlogn.eps
