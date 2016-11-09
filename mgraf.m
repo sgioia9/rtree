@@ -88,9 +88,9 @@ hold on
 plot(greene(:,1),greene(:,2).*ceil(greene(:,1).*70./4000),'*-r','linewidth',2);
 hold off
 xlabel('M');
-ylabel('Escrituras (llamadas a sistema)');
-title('Escrituras en insercion en RTree')
+ylabel('I/Os');
+title('I/Os con respecto a M en insercion en RTree')
 %axis([2^10 2^22 0 20000000]);
 legend('Linear','Greene','location','northeast');
 grid on;
-%print -depsc writeplot.eps
+print -depsc moptplot.eps
